@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Pampanitikan</string>
+    <string name="app_name">Panitikan</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -2226,4 +2226,184 @@ Ng mainam na pagmamahal.
 </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="kabanata_1">kabanata 1: sa kubyerta</string>
+    <string name="kabanata_1_content">
+Lulan ng Bapor Tabo sa itaas na kubyerta ang matalinong si Don Custodio, ang manunulat na si Ben Zayb, tatlong prayle, ang maluhong si Donya Victorina, ang Kapitan ng bapor, at ang makapangyarihang alahero na si Simoun.
+Dahil sa bagal ng galaw ng bapor, at sa dalas na pagliko-liko nito, napag-usapan ang pagpapalalim sa Ilog Pasig. Ani Simoun, na kilalang tagapayo ng Kapitan Heneral: “Gumawa ng tuwid na kanal na mag-uugnay sa lawa ng Laguna at sa look ng Maynila. Ibig sabihin, lilikha ng bagong ilog. Bibilis pa ang paglalakbay.” Nagkaroon ng pagtatalo tuloy sa paksang ito.
+“Napakalaking gastos nito, Senyor Simoun. Kakailanganin pang sirain ang ilang poblasyon,” sabat ni Don Custodio.
+“Sirain, kung ganoon,” tugon ni Simoun, “pagtrabahuin ang mga preso para wala nang babayarang trabahador.”
+“Kukulangin pa rin ang mga gagawa.”
+“Kung ganoon, pagtrabahuhin ang lahat, kahit matatanda at mga bata. Utusan ding magdala sila ng baon, para wala na kayong pakakainin.”
+“Pero, Senyor Simoun, ang ganyang panukala ay magdudulot ng kaguluhan.”
+“Nag-alsa ba ang mga taga-Ehipsiyo nang sapilitan silang pinagtrabaho? Hindi maghihimagsik ang bayang ito, Don Custodio. Patutunayan ito ng kasama nating si Padre Salvi. ‘Di nga ba, Padre?”
+Tumango si Padre Salvi. Mungkahi ni Don Custodio, mag alaga ng pato—dahil kakainin ng mga pato ang mga suso sa gilid ng ilog kaya ito na mismo ang magpapalalim sa ilog. Ayaw ni Donya Victorina na matuloy ang pag-aalaga ng pato dahil darami ang balot na pinandidirihan niya.</string>
+
+    <string name="kabanata_2">kabanata 2: sa ibabang kubyerta</string>
+    <string name="kabanata_2_content">Masikip sa pasahero ang ibabang kubyerta. Naroon ang dalawang estudyante na si Basilio na nag-aaral pa ng medisina ngunit mahusay nang manggamot; at isang katatapos pa lamang sa Ateneo, isang makata, si Isagani. Kausap nila ang konserbatibong si Kapitan Basilio. Nabaling ang usapan sa paaralang balak ng mga estudyante ukol sa pagtuturo ng mga Kastila- ang Academia de Castellana. Hindi raw ito magtatagumpay, ayon kay Kapitan Basilio, dahil tutol dito si Padre Sibyla. Magtatagumpay naman ito, ayon sa dalawang binata, dahil pumayag sa kanilang maging padrino nito si Padre Irene.
+Dumating si Simoun at kinausap ang magkaibigan. Ipinakilala ni Basilio kay Simoun si Isagani. Sinabi ni Simoun na \'di niya nadadalaw ang San Diego, ang lalawigan nina Basilio, sapagkat ang lalawigang ito\'y mahirap at \'di makabibili ng alahas. Tinutulan ito ni Isagani, anya: "Hindi kami namimili ng alahas dahil 'di namin kailangan. Napangiti si Simoun. Nasabi raw niyang dukha ang lalawigan, dahil ang mga klerigo sa simbahan ay Indio.
+Nag-anyaya si Simoun sa pag-inom ng serbesa. Tumanggi ang dalawa. Ayon kay Simoun, sinabi ni Padre Camorra na kaya tamad ang mga Pilipino ay dahil pulos tubig ang iniinom. Mabilis namang tumugon si Basilio; "Sabihin ninyo kay Padre Camorra na kung tubig ang iniinom niya sa halip na serbesa, marahil ay mawawala ang mga usap-usapan sa kanya. Pakisabi ring ang tubig ay napakatamis, bagama\'t lumulunod sa serbesa at pumapatay sa apoy. Kapag pinainitan ay nagiging singaw. Kapag naligalig, nagiging karagatan na minsan nang pumuksa sa sangkatauhan.
+    "Ngunit baka tanungin naman ni Padre Camorra kung kailan nagiging singaw ang tubig at kailan nagiging karagatan," ani Simoun. "Mabuting ulitin ninyo sa kanya ang tulang ito ni Isagani," tugon ni Basilio.
+
+    "Tubig kami, wika ninyo, apoy kayo;
+
+    Masusunod, kung siya ninyong ibig!
+
+    Mamuhay tayong tipon-tipon
+
+    At huwag makita ng apoy na mag-away!
+
+    Ngunit pinag-isa ng maalam na agham
+
+    Sa init ng sinapupunan ng mga kaldera,
+
+    Walang poot, walang dahas,
+
+    Maging singaw tayo, ang panlimang sangkap,
+
+    Kaunlaran, buhay, liwanag, at pagkilos"
+    "Utopia!" tugon ni Simoun, "hahanapin pa ang makina!" Ininom ni Simoun ang kanyang serbesa at walang paalam na iniwan ang dalawang magkaibigan. Nang umalis si Simoun saka lamang nakilala nang lubusan ni Isagani ang mag-aalahas na tinawag na Kardinal Moreno. May dumating na utusan. Ipinatawag ni Padre Florentino ang pamangkin. Ngunit nakita ng Kapitan si Padre Florentino at ito\'y inanyayahang pumanhik sa itaas na kubyerta.</string>
+
+    <string name="kabanata_3">kabanata 3: mga alamat</string>
+    <string name="kabanata_3_content">
+
+Tapos na ang mga pagtatalo sa itaas na kubyerta nang dumating si Padre Florentino Pinansin ni Don Custodio ang bago ring dating na si Simoun, na hindi na nito nakita ang magagandang tanawin. "Napakarami na akong tanawin na nakita, kaya ang nagpapawili na lang sa akin ay iyong mga nagpapaalala ng mga alamat," tugon ni Simoun.
+
+Isinalaysay ng kapitan ang alamat ng Malapad-na-bato. Ito raw ay banal sa mga katutubo, bago dumating ang mga Kastila. Noong una, naging tahanan ito ng mga espiritu, subalit nang masira ang pamahiin, naging tahanan na ito ng mga tulisan. Ang takot na nawala sa espiritu, nasalin sa mga tulisan.
+
+May isa pang alamat na tungkol kay Donya Jeronima. Si Padre Florentino ang nahingang magkuwento ukol dito. May dalawang magkasintahan na nagsumpaang magpapakasal. Nang umalis ang binata, matapat namang naghintay ang dalaga sa kanilang bayan. Ilang taon ang nakalipas at nabalitaan ng babae na naging arsobispo sa Maynila ang kanyang katipan. Lumuwas ang babae sa Maynila at nagbalatkayo ito upang makaharap ang arsobispo. Nagkita sila ng arsobispo at hiningi ng dalaga na tuparin ang pangako nito na magpakasal sila. Iba ang naisip ng arsobispo. Itinira niya ang babae sa isang yungib na malapit sa Ilog Pasig, Tumaba si Jeronima hanggang sa hindi na siya nakaalis sa yungib na ito.
+
+Iba-iba ang naging reaksiyon ng mga nakikinig sa alamat. Nagandahan si Ben Zayb samantalang nainggit naman si Donya Victorina na ibig ding manirahan sa kuweba. Bigla namang nagtanong si Simoun kay Padre Salvi: "Sa inyong palagay, hindi ba higit na mainam na ilagay ang dalaga sa isang beateryo tulad ng Sta. Clara?”. Hindi raw siya makakahatol sa mga ginawa ng isang arsobispo, ayon kay Padre Salvi. Isinalaysay ng pari ang alamat ni San Nicolas bilang pagbabago sa paksa. Ayon sa alamat, nakaligtas ang isang Intsik sa bingit ng kamatayan mula sa mga buwaya nang magdasal ito kay San Nicolas. Naging bato ang mga buwaya.
+
+Nang malapit na ang bapor sa San Diego, nagtanong si Ben Zay sa kapitan kung sa lawa napatay ang isang Guevarra, Navarra, o Ibarra. Itinuro ito ng Kapitan. Naghanap si Donya Victorina ng bakas ng pagkamatay ng tao sa tubig, labintatlong taon matapos mangyari iyon. Nakasama raw ng ama ang bangkay ng anak, sabi ni Padre Sibyla. Iyon daw ang pinakamurang libing, ayon kay Ben Zayb. Si Simoun ay namumutla at walang kibo. Ipinalagay ng kapitan na si Simoun ay nahilo dahil sa paglalakbay</string>
+
+    <string name="kabanata_4">kabanata 4: kabesang tales</string>
+    <string name="kabanata_4_content">
+
+Nasa pusod ng gubat ang matandang mangangahoy na si Tandang Selo. Gumagawa na lang siya ng walis ngayong bumuti ang kapalaran ng kanyang pamilya.
+
+Ang anak niyang si Tales ay namasukan muna sa lupain ng isang kapitalista. Hindi naglaon, nakaipon ng ilang daang piso, kaya nagsarili kasama ng kanyang pamilya. Ang bahaging ito ng gubat, sa may hangganan ng bayan, sa nayon ng Sagpang, na sa kanilang paniniwala ay walang nagmamay-ari, ay kanilang hinawan at nilinis upang dito na manirahan. Sa panahon ding ito, dinapuan ng lagnat ang buong pamilya, na siyang ikinamatay ng kanyang asawa at panganay na anak na si Lucia.
+
+Nang umunlad na ang lupain at nagsimulang umani, isang korporasyong relihiyoso ang lumitaw at inangkin ang lupain nina Tales. Dahil ayaw sa gulo, yumukod si Tales sa kagustuhan ng mga prayle- na taunang makapagbayad sa kanila ng dalawampu hanggang tatlumpung piso. "Magparaya," ang payo ni Tandang Selo, " ipagpalagay mo na lamang na naipatalo mo sa sugal ang perang ipambabayad mo o nahulog sa ilog at kinain ng buwaya"
+
+Makalipas ang isang taon, higit na umunlad ang kita ni Tales, kaya itinaas ng mga prayle ang buwis sa lupa. Dahil ayaw makipagtalo ng pamilya ni Tales, binayaran na lang niya ang limampung pisong buwis. "Magparaya, isipin mo na lang na lumaki ang buwaya," pampalubag na sambit ng kanyang amang si Selo.
+
+Inisip niyang pag-aralin na ang magkapatid na Juli at Tano, upang mapantay din ang anak niyang babae sa kasintahan nitong si Basilio. Subalit ang pangarap na ito ay hindi matutupad. Nang makita ng mga prayle na patuloy ang pag-unlad ni Tales, hinirang ng bayan si Tales bilang kabesa de barangay, ang tagakolekta ng buwis. At kapag hindi nakapagbabayad ang ilan sa kanyang sinisingil, pinaluluwalan muna niya ito. "Magparaya! Isipin mo na lang na dumagsa ang kamag-anak ng buwaya," mahinahong sinabi ni Tandang Selo.
+
+Subalit hindi pa natatapos ang taon ay tumaas muli ang binabayaran nilang buwis, umabot na ito sa dalawandaang piso. Tumutol na siya at nagbantang hindi magbabayad. Tinakot siya ng mga prayle na ibibigay na sa iba ang karapatang mangasiwa sa kanilang lupaing pinaunlad ng pawis at dugo ng kanyang sariling pamilya. Nakipagmatigasan si Tales. Hindi siya nagbayad at hindi niya isusuko ang kahit na isang dakot ng lupa na pinagbuwisan ng buhay ng kanyang mag-ina. At dahil wala namang maipakitang papeles ng pagmamay- ari ang mga prayle, nagkaroon ng asunto.
+
+ Dahil sa takot namang matanggal sa tungkulin, pumanig ang mga juez de paz na namamahala sa kaso sa korporasyong relihiyoso. Hindi pumayag si Tales. Nagdala siya ng eskopeta at nagtanod sa hangganan ng kanyang lupain.
+
+Isang araw, pinatawag upang magsilbi sa hukbo ang anak na lalaki ni Tales. Subalit sa halip na magbayad ng makakapalit, hinayaan niyang maging guwardiya sibil si Tano. "Kailangan ko ng abogado," paliwanag niya sa kapatid nitong si Juli, "kapag ako'y nanalo, alam ko kung pano siya pababalikin. Subalit kapag, ako'y natalo, hindi ko na kinakailangan ng anak."
+
+Marami ang natakot kay Tales, kaya ipinagbawal ang paggamit ng sandatang pumuputok. Ngunit, armado ng isang gulok, ipinagpatuloy ni Tales ang pagtatanod sa kanyang lupain. "Kailangan kong bantayan ang aking lupain dahil bawat butil nito ay buto ng aking asawa," paliwanag niya kay Tandang Selo.
+
+Si Kabesang Tales ay nahulog sa kamay ng mga tulisan at ipinatubos. Isinanla ni Juli ang kanyang naitatagong mga hiyas liban sa isang agnos na ibinigay sa kanya ng kasintahang si Basilio. Subalit hindi ito naging sapat. Nagpasya na siyang mangutang kay Hermana Penchang at maglingkod dito bilang utusan.
+
+Noon ay bisperas ng Pasko. Kinabukasan, Araw ng Pasko, ay maglilingkod na siyang alila.</string>
+
+    <string name="kabanata_5">kabanata 5: ang noche buena ng isang kutsero</string>
+    <string name="kabanata_5_content">Inabutan na ng pauwing si Basilio ang prusisyong pang-noche buena. Higit pa itong naantala sa pag-uwi dahil nalimutan ng kutsero ang sedula nito kaya kinakailangang bugbugin muna ng mga guwardiya sibil ang kutsero.
+
+Idinaan ang imahen ni Matusalem, ang pinakamatandang taong nabuhay sa mundo. Kasunod na idinaan ang mga imahen ng tatlong Haring Mago. Nang makita ito ng kutsero, lalo na ang maitim na Haring Melchor, nabanggit niyang "Noong panahon ng mga santo, natitiyak kong walang mga guwardiya sibil, dahil hindi sila mabubuhay nang matagal sa pambubugbog."
+
+Itinanong din ng kutsero kay Basilio kung nakawala na ang kanang paa ni Bernando Carpio na naipit sa kabundukan ng San Mateo. "Sa sandaling makalaya na siya, paglilingkuran ko siya… Ililigtas niya tayo sa guwardiya sibil."
+
+Marami pang sumunod na poon subalit kapansin-pansin ang mga batang malulungkot sa pag-ilaw. Nasa dulo ng prusisyon ang Birhen.
+
+Nang matapos ang prusisyon, napuna ng mga guwardiya sibil na walang ilaw ang parol ng karitela. Pinarusahan uli ang kutserong si Sinong, kaya napilitang maglakad na lamang si Basilio.
+
+Tanging bahay ni Kapitan Basilio ang tila masaya sa mga nadaanan ni Basilio. May mga manok na pinapatay. Nasilip ni Basilio na ang kapitan ay nakikipag-usap sa kura, sa alperes, at kay Simoun… "nagkakaunawaan na tayo, G. Simoun," ani Kapitan Basilio. Tutungo tayo sa Tiani upang tingnan ang inyong mga alahas.
+
+Sa bahay ni Kapitan Tiago ay iginagalang si Basilio, lalo na ng matandang utusan, nang makitang tumistis ng isang maysakit si Basilio na parang walang ano man. Ibinigay ng utusan ang mga ulat kay Basilio: May kalabaw na namatay, may katulong sila na nakakulong at namatay ang matandang nagtatanod sa gubat. Nanghinayang si Basilio nang mabatid na sa katandaan namatay ang matanda… Ibig niyang makapagsagawa ng autopsiya. Ang huling balira\'y ukol sa pagkadukot ng mga tulisan kay Kabesang Tales. Hindi na nakakain ng hapunan si Basilio.</string>
+
+
+    <string name="kabanata_6">kabanata 6: si basilio</string>
+    <string name="kabanata_6_content">"Tumutunog na ang batingaw ng simbang gabi, nang makatiyak walang nagmamatyag, palihim siyang nagtungo sa gubat. Madilim ang buong paligid dahil mahina ang sinag ng buwan. Nang makarating siya sa gubat, agad niyang tinungo ang punong balete na nasa kagitnaan. Humarap siya sa isang bunton ng bato. Ito ang libingan ng kanyang ina. Tuwing uuwi siya ng San Diego ay ito ang una niyang dinadalaw. Inalala ni Basilio ang mahapding pangyayari sa kanyang ina makalipas ang labintatlong taon.
+
+Sa gabi nang mamatay ang kanyang ina ay may dumating na di-kilalang lalaking sugatan. Pinakuha siya ng mga panggatong, at sa pagbalik niya sa pangunguha, isa pang di-kilalang lalaki ang kanyang natagpuan sa tabi ng lalaking sugatan. Nagtulong silang dalawa sa pagsunog at paglibing sa bangkay ng kanyang ina at ng sugatang lalaki.
+
+Ulila siyang umalis sa gubat. Nagtungo siya ng Maynila at doon namasukan sa mayayamang kasabay ng pag-aaral. Subalit hindi ito naging sapat. Inabot pa rin siya ng gutom, pagod, at pagkakasakit. Nang magpalaboy-laboy na lang siya at mawalan ng pag-asa natukso siyang pasagasa sa mga karuwahe. Mabuti na lamang at nakita niya si Kapitan Tiyago na galing sa beateryo upang dalhin doon si Maria Clara. Kinuha siyang utusan subalit walang bayad, kapalit ng pagpapaaral sa kanya sa San Juan de Letran.
+
+Sa unang taon niya sa pagpasok, ang namagitan lamang sa kanya at ng kanyang guro ay ang pagbasa ng guro ng kanyang pangalan mula sa talaan at ang pagtugon niya ng adsum o "narito po." Minaliit siya ng lahat, maging ng ibang estudyante, dahil sa luma at sirang suot. Gayunpaman, lagi siyang nagsasaulo ng leksiyon. At nang matanto niyang aapatnapu lamang ang natatanong ng guro sa loob ng apat na raang mag-aaral sa klase ay \'di na sumama ang loob niya. Gusto naman ng karamihan ng mag-aaral ang ganitong sistema dahil hindi nila kailangang mag-isip pa. Pumapasok lamang sila hindi upang matuto kundi ang matapos ang kurso. Nang magsulit, sa pagkamangha ng guro natugon ni Basilio ang tanong sa kanya at binigyan siya ng marka para sa unang taon na aprobado.
+
+Pinalad naman siya sa ikalawang taon nang malaki ang naipanalo ni Kapitan Tiyago sa sabong. Binigyan siya nito ng balato na ipinambili niya agad ng sapatos at sombrerong fieltro. Ipinakumpuni rin niya ang mga damit niyang may sira.
+
+Ikatlong taon. Nagkaroon siya ng propesor na Dominikong mahilig magpatawa sa klase. Naisipan niyang magtanong kay Basilio, na akala niya'y tanga, upang magpatawa sa klase. Natugon nang wasto at sapat ni Basilio ang tanong, walang kulang. Binansagan siyang loro. Nagtanong pa nang nagtanong ang propesor para lamang mapahiya a si Basilio, hindi nangyari ang inaasahan ng guro.
+
+Nawalan ng sigla sa pag-aaral si Basilio. Ngunit isang tanyag na propesor ng paaralan ang nasiyahang tumanggap ng hamon sa mga kadete kaya naglunsad ng isang krusada. Nangako siyang magbibigay ng mataas na marka sa lahat ng lumahok sa sagupaan. Marami ang sumali kaya't nagkaroon ng maraming pingkian ng baston at sable. Namayani si Basilio sa labanan. Tuloy, nakilala siya ng propesor at ng mga mag-aaral ng paaralan. Naging tulay ito para kilalanin siya ng kanyang mga guro. Dahil dito at sa kanyang pagsisikap, nagtapos siya na may markang sobresaliente at may mga medalya pa. Sa karangalan niyang natamo, iminungkahi ni Kapitan Tiyago na lumipat na siya sa Ateneo Municipal.
+
+Isang bagong daigdig sa kanya ang bagong paaralang pinasukan. Ibang-iba ang pamamaraan ng pagtuturo, naitutulak nito ang mga mag-aaral na magsikap at umunawa. Labis din niyang hinangaan dito ang pagmamalasakit ng mga guro sa kanilang mag- aaral. Malugod siyang nagsikap na makatapos. Kinalugdan din siya ng kanyang mga guro. Nakatapos siya ng batsilyer at naipasa ang mga pagsusulit na ibinigay pa ng mga gurong Dominikano.
+
+Nagpasya si Basilio na kumuha ng kursong medisina, kahit ginusto ni Kapitan Tiyago na maging abogado siya. Mabilis din siyang natuto rito, pinalad din siyang makapagsimula sa panggagamot kahit hindi pa siya tapos sa pag-aaral. Kumita na siya at nakapag-ipon para sa kinabukasan.
+
+Huling taon na siya sa kanyang pag-aaral. Naisip niyang bumalik sa kanyang bayang sinilangan at pakasalan si Juli, ang anak ni Kabesang Tales. Siya rin ang inaasahang magbibigay ng talumpati ng pasasalamat sa araw ng pagtatapos. At tanging mahahalagang bagay lamang ang kanyang bibigkasin dito, mga bagay na hindi pa naririnig sa ganoong okasyon-hindi niya pagtutuunan ang kanyang sarili, ang kanyang nakaraan, at ang kasalukuyan, kundi ang pag-alala sa mga maralitang mag-aaral sa hinaharap."</string>
+
+
+    <string name="kabanata_7">kabanata 7: si simoun</string>
+    <string name="kabanata_7_content">
+
+Pabalik na si Basilio ng bayan nang may nabanaag na liwanag sa gubat at may narinig na mga yabag. Pumunta ang anino sa kanyang kinaroroonan. Nagtago ito at nakitang nandoon si Simoun na mag-aalahas. Inalis nito ang kanyang salamin at nag-umpisa sa paghuhukay.
+
+Habang pinapanood ni Basilio si Simoun ay may nagbalik na ala-ala sa kanya labing tatlong taon na ang nakalipas. Siya ang tumulong sa paglilibing sa kaniyang ina na si Sisa at kay Elias.
+
+Nagulintang si Basilio sa kanyang natuklasan ngunit ito ay lumapit upang tumulong nang makita niyang pagod at patigil-tigil na si Simoun sa paghuhukay. Nagpakikila si Basilio at sinabing tinulungan siya nito na ilibing ang bangkay ng kanyang ina at ni Elias kaya’t siya naman ang nagbigay ng tulong kay Simoun.
+
+Binalak ni Simoun na patayin si Basilio upang manatili ang kanyang lihim ngunit alam niyang parehas lang sila ni Basilio na nais makapaghiganti. Ipinagtapat ni Simoun kay Basilio ang kaniyang ginawa sa loob ng paaralan ng wikang Kastila.
+
+Hiningi niyang gawing lalawigan ng Espanya ang Pilipinas at bigyan ng pantay na pantay na karapatan ang mga Pilipino at Kastila. Ayon kay Simoun ang mga hiling na ito ay ang pagpawi sa kanilang pagkamamamayan at pagkapanalo ng mga naniniil.
+
+Dagdag pa niya, ang pagdadagdag ng isa pang wika ay hahantong sa di pagkakaunawaan. Taliwas naman ang paniniwala ni Basilio. Aniya ang Kastila ang siyang magbubuklod sa mga pulo at makakapagpalapit sa mga Pilipino sa pamahalaan.
+
+Hindi sinang-ayunan ni Simoun ang sinabing ito ni Basilio. Ani Simoun ang wikang Kastila ay kailanma’y hindi magiging wika ng pangkalahatan dahil bawat bayan ay may sariling wika na kaugnay sa damdamin at kaugalian nito.
+
+Sa huli ay hinikayat ni Simoun si Basilio na makisali sa kanyang planong paghihimagsik laban sa pamahalaan ng Kastila. Ngunit hindi pinaunlakan ni Basilio ang panghihikayat ni Simoun dahil naniniwala ito na walang katapusan ang karunungan. Ang galing ng tao ang siyang magiging paraan upang maging malaya ang lahat ng tao.</string>
+
+    <string name="kabanata_8">KABANATA 8: MALIGAYANG PASKO</string>
+    <string name="kabanata_8_content">"Kinaumagahan, kagyat na tiningnan ni Juli ang altar ng mahal na Birhen. Hindi ito naghimala. Hindi ito nagbigay ng karagdagang dalawang daan at limampung piso na kailangan ni Juli. Nag-impake na si Juli at naghanda pa ng ilang gamit para makapunta na sa bahay ng kanyang magiging bagong amo- kay Hermana Penchang. Nagpaalila si Juli upang maidagdag sa pantubos sa kanyang ama.
+
+Araw ng Pasko, ngayon.
+
+"Pagbalik po ni Ama," sabi niya sa kanyang lolo, "pakisabi pong natuloy na ang pangarap kong makapag-aral. Nagsasalita po ng Kastila ang aking amo. Matututo ako sa kanya. At napakamura po ng pag-aaral na ito."
+
+Bago pa magkaiyakan ang maglolo, agad nang umalis ng bahay si Juli.
+
+Makalipas ang ilang oras, natanaw ni Tandang Selo ang mga pami-pamilyang naglalakad patungo sa simbahan. Para sa mga bata ang araw ng Pasko. Maaga silang ginigising at binibihisan sila nang magagara. Padadaluhin sila sa siksikang misa na hindi naman nila maiintindihan. Hindi rin sila maaaring maglikot dahil katapat nito'y isang kurot. Inililibot din sila sa mga kamag-anak upang makapagmano at mabigyan ng aginaldo, na hindi naman talagang mapupunta sa kanila dahil kukunin ito ng kanilang magulang. Tunay ngang pista ng mga bata ang Pasko!
+
+Nang mapadaan sa kanila ang kanyang mga kaibigan at kamag-anak, tinangkang batiin ni Tandang Selo ang mga ito. Subalit walang lumabas na kahit anong salita o tunog sa kanyang bibig. Napipi si Tandang Selo. Manghang-mangha ang mga nakasaksi. "Pipi! Pipi!" ang kanilang sigaw."</string>
+
+
+    <string name="KABANATA_9">KABANATA 9: ANG MGA PILATO</string>
+    <string name="KABANATA_9_content">
+
+Nakaabot na sa buong bayan ang kasawiang naranasan ng pamilya ni Tales.
+
+Sino ang may kasalanan?
+
+Hindi ang alperes. Ginawa lang niya ang kanyang tungkulin nang ipasamsam niya ang mga sandatang hinawakan ni Tales. Ito kasi ang batas. Sinubok din nilang tugisin ang mga tulisan na dumukot kay Tales, subalit walang lumalabas na Tales.
+
+ Wala rin namang kaugnayan sa trahedyang ito ang paring asenderong kumuha ng lupain ni Tales. Iniingatan lang niya ang kanyang kaligtasan. Masamang makatingin sa kanya si Tales, lalo na nang humawak na ng armas ay higit itong nakatatakot. Kaya naman napilitan na siyang magsumbong sa pamahalaan. Hindi niya kasalanan kung binalak ng tulisan na dakpin si Tales. Hindi niya kasalanan kung hindi naipagtanggol ni Tales ang sarili laban sa mga tulisan. Hindi naman dapat mahuli si Tales kung hindi siya nagbantay at nagpagala-gala sa kanyang sinasabing lupain. Sa huli, talagang naparurusahan ang mga taong hindi umaayon sa utos ng korporasyon.
+
+Hindi rin naman si Hermana Penchang ang maysala. Sa katunayan, isang biyaya pa nga na naging alila niya si Juli. "Isipin ninyo, isang dalagang ikakasal na'y hindi pa marunong manalangin. Hindi niya mabigkas ang Aba Ginoong Maria nang hindi tumitigil sa sumasaiyo, at ang Santa Maria nang hindi tumitigil sa makasalanan! Buti nga't sa akin siya napunta. Kailangan siyang matutong magdasal at magbasa ng mga libritong ibinibigay ng mga prayle." Nang mabalitaan naman niyang tutubusin ni Basilio ang kasintahan ay pinaratangan niya si Basilio na isang demonyong nag-aanyong mag-aaral na nais isama sa kapahamakan ang kaluluwa ng dalaga.
+
+Nakauwi na si Kabesang Tales. Nalaman niyang iba na ang nagmamay-ari ng kanyang lupa, naging alila si Juli, napipi ang amang si Tandang Selo, at pinaaalis na sila sa kanyang bahay, sa atas ng hukuman. Si Kabesang Tales ay naupo sa tabi ng kanyang ama at nanatiling walang kibo.</string>
+
+    <string name="KABANATA_10">KABANATA 10: KAYAMANANA AT KARALITAAN</string>
+    <string name="KABANATA_10_content">
+
+Si Simoun ay nagtungo sa bahay ni Kabesang Tales upang magbili at makipagpalitan ng alahas. Kabilang sa mga mamimili sina Kapitan Basilio, ang kanyang asawa at anak na si Sinang, at si Hermana Penchang.
+
+Marami ang humanga nang ilabas ni Simoun ang mamahaling hiyas. Marami ang nagsibili.
+
+Inalok ni Simoun na bilihin ang agnos ni Maria Clara na napunta kay Juli, ngunit kailangan munang puntahan ni Kabesang Tales si Juli upang isangguni ang tungkol dito.
+
+Nangakong babalik ito bago mag takipsilim ngunit hating gabi na ay di parin bumabalik si Tales. Nakatulog si Simoun sa kakaintay.
+
+Nang magising kinaumagahan ay wala na ang dala niyang rebolber ngunit may isang liham na mula kay Tales.
+
+Ayon sa sulat, kinuha ni Tales ang rebolber dahil kailangan niya ito sa panunulisan sa halip iniwang kapalit ni Tales ang agnos ni Maria Clara.</string>
+
+
 </resources>

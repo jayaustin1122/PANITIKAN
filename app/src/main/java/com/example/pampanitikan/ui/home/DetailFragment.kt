@@ -27,7 +27,6 @@ class DetailFragment : Fragment() {
 
         // Set data to views
         binding.imageView.setImageResource(imageResId)
-        binding.textAuthor.text = author
         binding.textTitle.text = title
         binding.textContent.text = content
 
