@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Pampanitikan</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -12,10 +12,10 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <!-- Titles-->
-    <string name="alamat_ng_talong">AlAMAT NG TALONG</string>
+    <string name="alamat_ng_talong">ALAMAT NG TALONG</string>
     <string name="alamat_ng_talong_content">Noong unang panahon, may  napakatagal nang mag-asawa. Si Tatang Andong ay magsasaka at si Aling Iska ay naghahanda ng pagkain. Sila ay walang mga anak dahil hindi naman ito nababagay sa kanilang kabuhayan. Gayunpaman, masaya pa rin sila dahil magkasama silang nagtatrabaho sa bukid. Isang araw, nakatagpo si Tatang Andong ng kakaibang uri ng puno. Ang puno ay mayroong mga bulaklak na kulay pula, na kung saan ang bunga nito ay kahawig ng isang talong. Hindi ito katulad ng ibang mga uri ng halaman sa kanilang bukid kaya naman napapaisip si Tatang Andong kung ano ang magiging lasa nito. Binunot niya ang ilang bunga ng halamang ito at dinala ito sa kanyang asawa. Inihanda ito ni Aling Iska at nagtaka si Tatang Andong sa napakasarap na lasa nito. Ang kanilang bahay ay may dalawang palapag kaya naman hindi nila nalaman kung saan galing ang halamang iyon. Sa kabilang araw, naisipan ni Tatang Andong na hanapin ang puno na mayroong kakaibang bunga. Matapos ang ilang oras ng paglalakad, nakarating siya sa liblib na bahagi ng kagubatan. Doon, nakita niya ang puno ng talong. Dala-dala niya ang mga butil ng halaman at ibinigay ito kay Aling Iska. Iniluto niya ito at ang kanilang dalawang kainan ay naging mas masarap. Dahil sa natuklasang uri ng halaman na ito, nagsimula na silang magtanim nito sa kanilang bukid. Dahil sa pagtatanim ng talong, naging sagana ang kanilang ani at naging maunlad ang kanilang kabuhayan. Nang marami na ang kanilang ani, nagpakalat sila ng mga halaman ng talong sa kanilang lugar. Sa paglipas ng panahon, naging sikat ang kanilang lugar dahil sa pagtatanim ng talong. Dahil dito, maraming naglakbay at namangha sa kanilang lugar. Nang magkaroon ng kompetisyon ng mga taga-ibang lugar, napansin nila na mas masarap at mas malalaki ang kanilang mga talong kaysa sa iba. Nang maging magaling sila sa pagtatanim ng talong, naging mas maunlad ang kanilang lugar at naging kilala sa buong mundo dahil sa kanilang talong. Ang kwentong ito ay nagpapakita ng pagmamahal ng mga Pilipino sa kanilang bukid at pagtitiyaga sa pagtatanim. Pinapakita din nito kung paano maging produktibo sa kabila ng mga hamon at kahirapan sa buhay.</string>
 
-    <string name="alamat_ng_asin">AlAMAT NG ASIN</string>
+    <string name="alamat_ng_asin">ALAMAT NG ASIN</string>
     <string name="alamat_ng_asin_content">Noong unang panahon, may isang kaharian sa gitna ng malawak na dagat. Ang kaharian na ito ay mayaman sa likas na yaman, at isa sa pinakamahalaga ay ang asin. Ang asin ay nagmumula sa mga mabato at nagbibigay ng iba’t ibang benepisyo para sa katawan. Dahil sa kahalagahan ng asin, ito ay naging pinag-aagawan ng mga ibang mga kaharian. Sa kanilang paghahabol sa asin, ang mga tao sa kaharian ay nagsimula ng magpapalitan ng asin para sa iba pang kagamitan at pagkain. Ngunit dahil sa kanilang kagustuhan na magkaroon ng asin, naging sobra silang nagmamalabis sa pagkuha nito. Sa wakas, nauubusan na sila ng mga mabatong pinagmumulan ng asin. Nang masira na ang supply ng asin, ang mga tao ay nagsimula ng maghanap sa ibang lugar. Sa kanilang paglalakbay, natagpuan nila ang isang lugar kung saan mayroong napakalawak na dagat. Sa lugar na iyon, sila ay nakitaan ng malaking asinang bato. Sila ay nagalak at nagpasya na kunin ang asinang bato. Ngunit bago nila ito makamit, isang diwata ay nagpakita sa kanila at nagpaalala sa kanila ng kahalagahan ng pagpapakonsulta sa kalikasan at kung paano ito gagamitin nang tama. Ang mga tao ay nagpasyang sundin ang payo ng diwata at nagpasya na huwag kunin ang asinang bato. Sa halip, sila ay nagtanim ng mga halaman at nagtayo ng mga palaisdaan sa lugar upang maging maayos ang kanilang pagkuha ng asin. Dahil dito, naging sapat ang kanilang supply ng asin at hindi na nila kailangang mag-alala pa. Sa paglipas ng panahon, naging masagana ang kaharian dahil sa kanilang tamang paggamit sa likas na yaman at sa pagsunod nila sa kalikasan. Naging halimbawa sila sa iba pang mga kaharian sa kung paano ito dapat gawin.</string>
 
     <string name="alamat_ng_kapre">ALAMAT NG KAPRE</string>
@@ -26,1110 +26,6 @@
 
     <string name="alamat_ni_daragang_magayon">ALAMAT NI DARAGANG MAGAYON</string>
     <string name="alamat_ni_daragang_magayon_Content">Katulad ng lahat ng alamat, nangyari ang kuwentong ito noong unang panahon. Naganap ito sa payapang rehiyon ng Ibalong, sa maliit na bayan ng Rawis, na pinamumunuan ng makatarungang datung si Makusog. Ang asawa ng datu na si Dawani ay namatay sa panganganak. Kaya’t nanatiling iisa ang anak ni Datu Makusog—isang anak na babaeng walang kapares sa kagandahan at kabaitan, si Daragang Magayon. Hindi tuloy nakapagtataka kung bakit dumadayo ang napakaraming manliligaw mula sa ibang tribu, kabilang na ang nasa malalayong bayan, upang mabihag ang puso ng dalaga. Ngunit wala ni isa sa mga binatang ito ang nakakuha ng pagtingin ng magandang binibini. Wala, kahit ang makisig at mapagmataas na si Pagtuga, ang dakilang mangangaso at datu ng Iraga. Kahit pa pinaulanan ni Pagtuga ng mga handog na ginto, perlas, at iba pang kayamanan ang ama ni Magayon, ay hindi pa rin nito nakuha ang loob ng dalaga. Ngunit wala ni isa sa mga binatang ito ang nakakuha ng pagtingin ng magandang binibini. Wala, kahit ang makisig at mapagmataas na si Pagtuga, ang dakilang mangangaso at datu ng Iraga. Kahit pa pinaulanan ni Pagtuga ng mga handog na ginto, perlas, at iba pang kayamanan ang ama ni Magayon, ay hindi pa rin nito nakuha ang loob ng dalaga. Isang katangi-tanging binatilyo ang nagpakita si Rawis: si Ulap, ang tahimik ngunit matapang na anak ni Datu Karilaya ng Katagalugan. Naglakad siya nang malayo upang makita ng sarili niyang mga mata ang ipinagbuunying kagandahan ni Daragang Magayon. Ngunit hindi katulad ng ibang manliligaw, nagdahan-dahan si Ulap. Tiniis niya ang magnakaw lamang ng mga sulyap mula sa malayo habang nagtatampisaw si Daragang Magayon sa ilog ng Yawa. Pagkatapos ng isang maulang gabi, pumunta ulit si Magayon sa Ilog Yawa upang magtampisaw. Nadulas siya sa batuhan at nahulog sa malamig na ilog. Dagli-dagling sumaklolo si Ulap at binuhat ang nangangatog na dilag pabalik sa dalampasigan. Ito ang naging simula ng pagiibigan ni Daragang Magayon at ni Ulap. Ilang beses pang nagtagpo si Ulap at si Daragang Magayon. Hanggang sa isang araw, sinundan ni Ulap si Magayon sa pag-uwi. Pagdating sa bahay ni Datu Makusog, buong lakas nang loob na ibinaon ni Ulap ang kaniyang sibat sa hagdan. Ipinapahiwatig nito ang kaniyang kagustuhang pakasalan si Magayon. Walang nagawa si Magayon kundi mamula, magpigil ng tawa, at umiwas ng tingin. Dahil dito, napagtanto ni Datu Makusog na umiibig ang kaniyang nag-iisang anak, kaya’t hindi na siya nagpahayag ng kahit anong pagtanggi. Tuwang-tuwa si Magayon at si Ulap. Binalak nilang gawin ang kasalan pagkalipas ng isang buwan upang mabalitaan ni Ulap ang kaniyang mga kababayan, at upang makapaghanda nang husto para sa pagdiriwang. Mabilis na kumalat ang magandang balita. Nakarating agad ito kay Pagtuga, na namula sa galit. Nang mangaso si Datu Makusog, dinakip siya ni Pagtuga. Nagpadala si Pagtuga ng mensahe kay Magayon, nagbabantang papatayin ang kaniyang ama at maghahasik ng digmaan sa kaniyang bayan kung hindi siya pakakasalan. Sinunod ni Magayon ang kahilingan ni Pagtuga, labag man sa kaniyang kalooban. Agad-agad na inihanda ang kasalan. Nang malaman ni Ulap ang masaklap na pangyayari, nagmadali siya pabalik ng Rawis kasama ang pinakamagigiting niyang mandirigma. Kasisimula pa lamang ng seremonya nang dumating sina Ulap. Sa halip na isang pagdiriwang para sa kasal, isang madugong labanan ang naganap. Napuno ang langit ng mga palaso. Napuno ang hangin ng tunog ng nagkikiskisang bolo. Nagtuos si Ulap at si Pagtuga, isang labanan para sa kamay ng nag-iisang si Magayon. Nadaig at napaslang ni Ulap si Pagtuga. Masayang sinalubong ni Magayon si Ulap, akmang yayakapin—nang biglang isang ligaw na palaso ang tumama sa likod ng dalaga. At habang sapo-sapo ni Ulap ang nag-aagaw-hininga niyang iniibig, bigla siyang sinibat sa likod ng isang kawal ni Pagtuga. Agad na hinataw ni Datu Makusog ang kawal ng kaniyang minasbad, isang matalim na bolo. Pagkatapos ng mabilis na pangyayaring iyon, tumahimik ang lahat ng mandirigma. Tumigil ang digmaan. Sa halip na marinig ang kasiyahan ng isang pagdiriwang ng kasalan, mga hikbi at hagulgol para sa mga pumanaw ang lumutang sa hangin. Kahit na halos walang makita dahil sa walang-tigil na pagluha si Datu Makusog, naghukay siya nang naghukay. Nang matapos, nilibing niya ang kaniyang nag-iisang anak na si Magayon, at ang nag-iisa nitong pag-ibig na si Ulap, nang magkatabi at magkayakap. Habang lumilipas ang mga araw, unti-unting tumaas ang lupang pinaglibingan kina Ulap at Magayon. Tumaas ito nang tumaas, at di nagtagal, sinamahan ito ng pagyanig ng lupa at pagtilapon ng nagbabagang mga bato. Naniniwala ang mga matatanda na kapag nangyayari ito, ginagalit ni Pagtuga ang bulkan upang maibalik sa kaniya ang mga kayamanang iniregalo niya kay Magayon—mga regalong inilibing kasama ng dalaga sang-ayon sa mga lumang paniniwala. May mga araw kung kailan natatakpan ng mga ulap ang tuktok ng bulkan. Sinasabi ng mga matatanda na kapag nangyayari ito, hinahalikan ni Ulap si Magayon. At kung pagkatapos nito ay marahang dumampi ang ulan sa magiliw na libis ng bulkan, naniniwala ang mga matatandang lumuluha si Ulap. Pagkatapos ng mahabang panahon ay umigsi na ang pangalan ni Magayon at naging Mayong o Mayon. Ngunit hanggang sa kasalukuyan, kahit na maaliwalas ang panahon, isang anino ng masalimuot na kuwento ng isang natatanging dalaga at ng kaniyang iniibig ang bumabalong sa magandang bayan ni Daragang Magayon.</string>
-
-    <string name="ang_pipit">ANG PIPIT: DULANG MAY ISANG YUGTO ni Jayson Arvene Tabangin Mondragon</string>
-    <string name="ang_pipit_content">BUOD Paano mo nga ba tatakasan ang isang bangungot kung ito ay nagaganap habang ikaw ay gising? Kailan matatapos ang isang masamang panaginip kung ang mga halimaw na tinatakasan mo ay hindi nawawala sa paglipas ng gabi at dilim? Mahigit anim na taon nang palipat-lipat ng tirahan ang pamilya ni Erik simula nang masangkot sa pagdukot at pagpatay ng isang batang lalaki ang kanyang ama. Habang ang kaniyang ama ay patuloy na nagtatago at tinutugis ng batas, siya at ang inang si Imelda, maging ang siyam na taong na gulang na kapatid na si Andrea, ay nagtatago rin, hindi sa batas, kundi sa pamilya ng biktimang sila ang pinagbubuntunan ng galit. Ilang araw bago siya magtapos ng sekondarya, muli silang mahahanapan ng mga magulang ng biktima, at muli na namang magsisimula ang bangungot na pilit nilang tinatakasan. Ang dulang “Ang Pipit” ay isang pagsilip, hindi sa buhay ng biktima ng isang krimen, kundi sa buhay ng pamilya ng suspek na wala mang kasalanan ay hinuhusgahan at sinisisi pa rin ng lipunang ating ginagalawan. Isa itong pagtatanong sa kasalukuyang estado nang lipunan kung saan, hindi lamang ang suspek sa isang krimen ang naikukulong kundi maging ang kanyang pamilyang walang kinalaman ngunit pilit sinisingil at ibinabaon.
- MGA TAUHAN ERIK – Labing-apat na taong kulang, nasa huling taon ng sekondarya
- ANDREA – Siyam na taong gulang, kapatid ni Erik, hindi nag-aaral
-IMELDA – Tatlumpu’t pito, nanay ni Erik, guro sa isang pampublikong paarala
- MR. CORPUZ – Apatnapu’t siyam, tatay ng biktima, isang negosyante MRS. CORPUZ – Apatnapu’t lima, nanay ng biktima, isang negosyante ——————————————————————————————————————— ——Papasok si Erik sa loob ng kanilang inuupahang apartment, naksuot ng uniporme ng eskwelahang pinapasukan. Madadatnan ang kapatid na si Andrea na nakatunghay sa labas ng bahay, may yakap-yakap na lumang teddy bear habang abala naman sa paglalagay ng gamit sa loob ng isang karton ang kanyang ina na si Imelda.
-
-Nagkalat ang iba pa nilang gamit sa sala, maging ang ilang karton at bag, ang iba ay may mga laman samantalang ang iba ay naghihintay pa lamang ng ilalagay doon. Sa plastic na lamesang nasa harapan ni Imelda ay nakabukas ang isang karton na pinupuno ni Imelda ng mga gamit. Mapapatitig doon si Erik. Hawak ni Erik sa isang kamay ang programa para sa kanyang nalalapit na pagtatapos ng high school. Lalamukusin niya iyon at saka bibitawan bago magsisimulang tumulong sa pag-aayos, hindi nagsasalita. Mapapatingin lamang si Imelda doon saka mag-iiwas ng tingin. IMELDA: Magbihis ka muna, anak… ERIK: Hindi na po kailangan… Magsasalita pa sana si Imelda pero tutunog ang mumurahing cellphone na nasa lamesa. Agad na kukunin iyon ni Imelda at magmamadaling lumabas. Susundan lamang ni Erik nang tingin ang ina, mababakas ang galit sa mukha nito. Magsisimulang kumanta sa may bintana si Andrea kaya’t mapapalingon dito si Erik. ANDREA: (Kumakanta) May pumukol sa Pipit sa sanga ng isang kahoy. At nahagip ng bato ang pakpak ng munting ibon— ERIK: Nailabas mo na ba lahat ng gamit mo? ANDREA:Oo, kuya.
-ERIK: Yung mga laruan mo? Nailabas mo na ba lahat? Mapapatingin sa yakap-yakap na teddy bear si Andrea. ANDREA:
-Hindi ko daw pwedeng dalhin lahat, kuya, sabi ni inay.
-
-Matitigil sa ginagawa si Erik at mapapatingin nang may halong awa sa kapatid. ERIK: Bibili na lang tayo ulit… ANDREA:
-Talaga, kuya? Pangako yan ha?!
-ERIK: Oo naman! Kailan ko ba hindi tinupad ang pangako ko sa iyo? Teka, iyong mga damit mo, naayos mo na ba?
-ANDREA:Oo, kuya. Saan ba tayo pupunta?
-ERIK: Sa malayong lugar…
- ANDREA:Malayong-malayo?
-ERIK: Oo. ANDREA:
-Gaano kalayo?
-ERIK: Basta! Malayong-malayo. Matatahimik panandalian si Andrea, papanoorin lamang ang kapatid na nag-eempake. Mapapatingin si Andrea sa nilamukos na papel ni Erik at lalapitan iyon at pupulutin. Susundan lamang ng tingin ni Erik ang kapatid. Titignan ni Andrea ang nalamukos na papel sa kanyang kamay bago muling magsasalita.
- ANDREA:Kuya?
-ERIK: Oh?
- ANDREA:Hindi na ba tayo maabot ng mga bato doon?
-Magpapalipat-lipat ang tingin ni Erik mula sa mukha ni Andrea na takot na takot saka sa nalamukos na papel sa kamay nito, magtatagis ang bagang. ERIK: Hindi na… ANDREA:
-
-Hindi na ako masusugatan?
-
-ERIK: Hindi na ako papayag na may manakit pa sa iyo. ANDREA: Hindi ka na din masusugatan? Noong huli, ang daming dugo. Nakakatakot. Ayoko sa dugo. Mabaho, masakit, nakakatakot… ERIK: Hindi na iyon mangyayari. ANDREA:
-
-Paano kapag nahanapan nila tayo uli?
-
-ERIK: Andrea, hindi ka na nila masasaktan pang muli…
-
-ANDREA:
-
-Pangako?
-
-ERIK: Pangako. Lalapitan ni Erik si Andrea at saka kukunin ang nalamukos na papel sa kamay nito at saka guguluhin ang buhok ng kapatid. ERIK: Kumuha ka na ng dalawa pang laruan. Kasya pa naman sa karton. Akmang tatayo si Andrea pero maririnig nila ang pagdaan ng isang kotse. Sabay silang mapapatingin sa may bintana, makikita ang takot sa mukha nilang dalawa. Magmamadaling magtatago si Andrea sa ilalim ng lamesa at magsisimulang umiyak. Mabibitawan nito ang lumang teddy bear. Hindi maalis ang tingin ni Erik sa bintana, balot ng pag-aalala ang mukha, mahigpit ang pagkakahawak sa papel na nasa kanyang palad. Makakahinga lamang siya ng maluwag pagkarinig na lumampas ang sasakyan. Mapapatingin si Erik sa papel na nasa kamay at saka hahayaan iyong mahulog bago haharapin ang kapatid na nasa ilalim ng lamesa. Hahawakan ni Erik si Andrea sa balikat para palabasin mula sa ilalim ng lamesa pero iiwas ang huli. ANDREA:
-
-Patawarin po ninyo kami. Hindi po namin sinasadya. Parang awa na po ninyo…
-
-ERIK: Andrea… ANDREA:
-
-Patawarin po ninyo kami. Hindi po namin sinasadya. Parang awa na po ninyo…
-
-ERIK: Andrea, lumabas ka na diyan. Hindi na sila babalik… ANDREA: ninyo…
-
-Ale, tama na po… Masakit na po… Hindi ko po sinasadya… Parang awa na po
-
-Hihilahin ni Erik mula sa ilalim ng kama si Andrea at pilit na yayakapin. Magpupumiglas si Andrea pero hindi siya pakakawalan ni Erik. ANDREA: na po ninyo…
-
-Parang awa na po ninyo… Hindi ko po sinasadya… Tama na po… Parang awa
-
-ERIK: Andrea! Wala na sila. Hindi na sila babalik! Matitigil sa pagpupumiglas si Andrea at mapapatingin kay Erik.
-
-ANDREA:
-
-Ku-kuya?
-
-ERIK: Tahan na… Hindi na sila babalik… ANDREA: Babalik sila, sabi nung ale. Ayoko na kuya. Masakit. Kahit humingi ako ng tawad hindi sila tumitigil. Sinungaling si Teacher Lucy. Sabi niya, kapag humingi ng paumanhin, magbabati na agad. Muling magsusumiksik sa ilalim ng lamesa si Andrea. ERIK: Lumabas ka na diyan. ANDREA:
-
-Ayoko, kuya… Dito lang ako… Masakit…
-
-ERIK: Hindi ka na nila sasaktan. ANDREA: Babalik daw yung ale, kuya. Narinig ko. Sabi niya kay inay, babalik daw siya. Natatakot ako. Sisipain na naman niya ako. Masakit. ERIK: Hindi ko hahayaang mangyari iyon. ANDREA:
-
-Dito lang ako, kuya… Masakit… Dito lang ako…
-
-Nagpipigil nang galit na mapapatingin sa paligid si Erik. Makikita niya ang bunton ng kumot na nakalagay sa isa sa mga upuan at kukunin ang isa doon at saka muling lalapitan si Andrea. Itatalukbong niya ang kumot sa kapatid at saka igigiya palabas sa ilalim ng lamesa. Pilit pasisiyahin ni Erik ang boses habang nagsasalita. ERIK: Ayan! Hindi ka na nila makikita! Hindi ka na nila masasaktan! ANDREA: (Kumakanta) May pumukol sa pipit sa sanga ng isang kahoy. At nahagip ng bato ang pakpak ng munting ibon. Dahil sa sakit, di na nakaya pang lumipad. At ang nangyari ay nahulog, ngunit parang taong bumigkas, “Mamang kay lupit, ang puso mo’y di na nahabag, Pag pumanaw ang buhay ko, may isang pipit na iiyak.” Mapapatingin sa bintana si Erik bago muling magsasalita. ERIK: Hinding-hindi ka na nila masasaktan. Igigiya ni Erik si Andrea at pauupuin sa isang upuan pero hindi niya tatanggalin ang pagkakatalukbong. Babalik siya sa lamesa at sisimulang ilagay sa karton ang mga kutsilyo at mga kutsara.
-
-Papasok si Imelda, may kausap pa rin sa lumang cellphone. IMELDA: Aalis na kami! Hindi ko alam… Basta lalayo na kami ng mga anak mo. Utang na loob, Martin, huwag mo namang hayaang ang mga anak mo ang magbayad sa pagkakamali mo. Puputulin ni Imelda ang tawag at saka padabog na ibaba sa lamesa ang cellphone, kita ang panghihina sa mukha nito. Rerehistro ang galit sa mukha ni Erik at saka pupukulan ng masamang tingin ang cellphone na nasa harapan. ERIK: Hindi niya kami anak. Mapapatingin si Imelda kay Erik. Lalapitan niya ito at yayakapin pero hindi man lang gaganti ng yakap si Erik. Ipagpapatuloy lamang nito ang ginagawa, wala nang makikitang ekpresyon sa mukha nito. Kakalas sa pagkakayakap si Imelda mula kay Erik at saka madadako ang tingin kay Andrea na nasa ilalim pa rin ng kumot. Lalapitan niya ito at akmang tatanggalin ang kumot pero pipigilan siya ni Erik. Nakakaintinding mapapatango lamang si Imelda, nagpipigil ng luha. Pilit pasisiyahin ni Andrea ang boses bago magsalita. IMELDA:
-
-Erik, nasaan ang kapatid mo? Nasaan ang prinsesa ko?
-
-ANDREA:
-
-(Sa ilalim ng kumot) Nandito po ako!
-
-IMELDA: kapatid mo. ANDREA:
-
-Nasaan? Bakit hindi kita makita? Erik! Tulungan mo nga akong hanapin ang
-
-(Sa ilalim ng kumot) Talaga inay? Hindi mo ako nakikita?
-
-IMELDA: Erik, nasaan na ba ang kapatid mo? Wala naman siya sa ilalim ng mesa. Nasaan na ba siya? Andrea? Anak? Nasaan ka na? Lalapitan ni Erik si Andrea at saka bubulungan. ERIK: Sabi ko naman sa iyo di ba? Hindi ka nila makikita. Hindi ka na nila masasaktan. ANDREA:
-
-Talaga kuya? Hindi na ako makikita nung ale?
-
-IMELDA:
-
-Anak…
-
-ERIK: Hindi na. Nangako ako sa iyo di ba? Diyan ka lang habang nag-aayos kami ni inay, ha?
-
-ANDREA:
-
-Opo, kuya.
-
-Babalik sa pag-aayos si Erik. Susundan lamang siya ni Imelda. IMELDA:
-
-Erik…
-
-ERIK: Dalian na natin ang pag-aayos inay, baka abutan pa tayo dito. Tahimik na magsisimula ding mag-imis ng mga gamit si Imelda. Madadako ang tingin niya sa nalamukos na programa ng graduation ni Erik. Pupulutin niya iyon at saka bubuklatin. Nanginginig ang kamay na babasahin niya iyon. IMELDA: Erik Mateo…
-
-You are cordially invited to… Valedictorian, Raquel Garcia. Salutatorian Erik…
-
-Mapapatingin lang si Erik kay Imelda pero hindi magsasalita. IMELDA:
-
-Pasensiya ka na, anak—
-
-ERIK: Wala kayong kasalanan, bakit kayo ang humihingi ng dispensa? IMELDA:
-
-Paano ang graduation mo?
-
-ERIK: Hindi na iyon importante. Alam na nilang nandito tayo, di ba? Ang mahalaga makaalis tayo bago pa sila dumating. IMELDA:
-
-Anak—
-
-ERIK: Nakausap niyo na po ba si Tito? IMELDA:
-
-Oo, susunduin niya tayo pagdilim.
-
-ERIK: (Matatawa ng bahaw) Pagdilim? Para lang tayong magnanakaw na tumatakas. IMELDA:
-
-Anak…
-
-ERIK: Kung sabagay, tama lang iyon para hindi nila tayo makita. IMELDA:
-
-Erik…
-
-ERIK: Dalian niyo na ang pag-eempake, inay. Malapit nang dumilim. Mapapabuntong-hininga si Imelda.
-
-IMELDA:
-
-Iyong mga gamit sa kusina, naayos na ba?
-
-ERIK: Opo. Nandito na sa karton. IMELDA:
-
-Ito na lang ba ang hindi nai-aayos?
-
-ERIK: Opo. Ibababa ni Erik ang karton na nasa harapan sa tabi ng lamesa at saka muling kukuha ng bakanteng karton. Pilit uunatin ni Imelda ang hawak na programa ng graduation ni Erik. Iyon ang una niyang ilalagay sa karton. Mapapatingin lang doon si Erik panandalian bago iyon papatungan ng iba pang gamit. IMELDA:
-
-Salamat, anak…
-
-ERIK: Ang mahalaga, makalayo na tayo dito. Kailangan na nating mailayo si Andrea. IMELDA:
-
-Erik.. Anak… Patawarin mo ako…
-
-ERIK: Hindi kayo ang dapat na humihingi ng kapatawaran. Hindi ako. Hindi si Andrea. Wala tayong dapat ihingi ng tawad dahil wala tayong kasalanan. IMELDA:
-
-Ang bilis mong lumaki…
-
-ERIK: Pero hindi pa rin iyon sapat. IMELDA:
-
-Anak, matatapos din ang lahat ng ito.
-
-ERIK: Kailan pa, nay? Hindi po ba kayo napapagod? Anim na taon na tayong palipat-lipat. IMELDA:
-
-Anak naman…
-
-ERIK: Kung hindi lang dahil kay Andrea, ayoko nang umalis, ayoko nang magtago. Nakakapagod. Para na rin nating inaamin na may kasalanan tayo. IMELDA:
-
-Wala naman tayong ibang magagawa, anak.
-
-ERIK: Tayo, wala. Siya, meron. IMELDA:
-
-Hindi pa handa ang tatay mo—
-
-ERIK: Kaya hinahayaan niya na tayo ang maghirap?
-
-IMELDA:
-
-Erik!
-
-ERIK: Pagod na pagod na ako, ‘nay. Lasog lasog na din ang katawan ko sa bawat ng tama ng batong tinatanggap nito. Kahit anong gawin kong iwas, lahat tumatama. Kung ako lang, kaya ko pa. Pero bakit pati si Andrea? IMELDA: Kaya nga tayo magpapakalayo anak. Para hindi ka na masaktan. Pati si Andrea. Para hindi na tayo masaktan. ERIK: Maglolokohan pa ba naman tayo inay? Kapag tumagal-tagal, malalaman din nila kung sino kami at magsisimula na naman ang pag-ulan ng bato sa amin, pati sayo. Malalaman at malalaman na naman nila kung nasaan tayo. Tapos ano? Aalis na naman tayo? Lilipat? Magtatago? IMELDA:
-
-Hindi na iyon mangyayari, anak… Hindi na nila tayo mahahanapan…
-
-ERIK: Iyan din ang sinabi niyo dati. IMELDA:
-
-Anak…
-
-ERIK: Tapusin na natin ang pagliligpit, nay. Malapit nang dumilim. Maririnig ang paghinto ng kotse sa labas ng apartment. Parehong mapapatingin sina Imelda at Erik sa may bintana, makikita ang takot sa mukha. Maririnig ang pabalibag na pagsara ng pintuan ng kotse an gang mga yabag na papalit. MRS. CORPUZ:
-
-(Pasigaw, sa backstage) Lumabas kayo riyan! Mga mamatay tao!
-
-Magtatanggal ng talukbong si Andrea at takot na takot na mapapatingin kay Erik. Agad na lalapitan ni Erik ang kapatid at ibabalik ang pagkakatalukbong dito. ERIK: Hindi matatapos ang bangungot na ito sa pagtatago. IMELDA:
-
-Erik…
-
-ERIK: Pagod na akong tumakbo, nay. Dito lang tayo. Hindi tayo aalis. Muling tatanggalin ni Andrea ang kumot at saka yayakapin si Erik, nagmamakaawa. ANDREA:
-
-Kuya, nandiyan na sila! Umalis na tayo, kuya!
-
-ERIK: Hindi na tayo aalis, Andrea. Huwag kang mag-alala, hindi ka na nila masasaktan. Nangako ako, di ba?
-
-ANDREA: (Umiiyak) Kuya, ayoko na! Umalis na tayo… Sisipain na naman nila si Inay. Pati ikaw, susuntukin ka na naman nung mama. Kuya, ayoko na… Umalis na tayo… ERIK: Andrea… Tahan na… Hindi na nila kayo masasaktan ni Inay… Papasok sina Mr. at Mrs. Corpuz, makikita ang mga karton. Kitang-kita sa mga mukha ng bagong dating ang galit. Lalapitan ni Mr. Corpuz si Imelda at sisipain ang inempakeng karton ni Erik. Matatapon ang mga kutsara at kutsilyong nasa loob ng karton. Yayakapin lang ni Erik ang nakatalukbong na si Andrea. MR. CORPUZ: At talagang tatakas na naman pala kayo. IMELDA: MRS. CORPUZ: ang asawa mo!
-
-Hindi po… Anong hindi? Hoy babae, huwag mo kaming gawing tanga. Ilabas mo
-
-ERIK: Umalis na kayo. Wala dito ang hinahanap ninyo. Lalapitan ni Mr. Corpuz si Erik at saka duduruin. Ihaharang ni Imelda ang sarili sa pagitan ng dalawa. MR. CORPUZ: Aaalis kami kung kailan namin gusto. Nasaan ang tatay mo? IMELDA: Wala po rito ang hinahanap ninyo. Parang awa na po ninyo … Wala po siya dito… Matagal na po naming siyang hindi nakikita — Sasampalin Mr. Corpuz si Imelda na ikakatumba nito. Akmang susugurin ni Erik si Mr. Corpuz pero pipigilan siya ni Imelda. MR. CORPUZ: Huwag niyo kaming gawing tanga! Alam naming alam mo kung nasaan ang asawa mong mamatay tao. Sabihin mo sa kanya na hindi kami titigil hanggat hindi siya namamatay! ERIK: Huwag niyong saktan ang nanay ko! Wala siyang kasalanan sa inyo! IMELDA: Tama na anak… Humingi ka ng tawad…. Anak, magmakaawa ka… Huwag ka na lang sumagot… MRS. CORPUZ: Magmakaawa? Sa tingin mo maawa kami sa inyo? Pinatay ng asawa mo ang anak ko! Kahit umiyak kayo ng dugo, hindi namin kayo kakaawaan. Lalapitan ni Mrs. Corpuz si Erik at saka duduruin.
-
-MRS. CORPUZ: At ikaw! Alam mo bang magkasing-edad na dapat kayo ng anak ko? Pero wala na! Wala na siya! Pinatay siya ng tatay mo! ERIK: Wala kaming kasalanan sa inyo! Hihilahin papalayo ni Mr. Corpuz si Erik at saka sisikmuraan. MR. CORPUZ: Sumasagot ka pa? Akmang tatayo si Imelda para lapitan ang dalawa pero siya naman ang itutulak ni Mrs. Corpuz. IMELDA: Parang awa na po ninyo, huwag niyo namang idamay ang mga anak ko. Wala silang kasalanan. MRS. CORPUZ: Awa? Wala kang karapatang humingi ng awa! Dahil habang nabubuhay ang asawa mo, hindi kami maawa! Pinatay ng asawa mo ang anak ko! Sasabunutan at pagsasampalin ni Mrs. Corpuz si Imelda, maya’t maya ay tatadyakan niyo ito habang patuloy namang sinusuntok ni Mr. Corpuz si Erik. Hindi lumalabang nag-mamakaawa lang si Imelda samantalang halos hindi iniinda ang mga suntok na natatanggap na nakatingin lang kay Imelda si Erik, mababakas ang galit sa mukha nito. MRS. CORPUZ: Pinatay niya ang anak ko!
-
-Nasaan ang asawa mo? Ilabas mo siya! Pinatay niya ang anak ko!
-
-ERIK: Tama na! Inay! Tama na. Huwag mong sasaktan ang nanay ko! MR. CORPUZ: Nasaan ang tatay mo? Ilabas niyo ang hayop na pumatay sa anak ko! Ilabas niyo! IMELDA:
-
-Tama na po, parang awa na ninyo. Huwag ang anak ko.. Parang awa na ninyo…
-
-Kakalas sa pagkakahawak ni Mr. Corpuz si Erik at isasangga ang katawan sa mga sipa ni Mrs. Corpuz. Yayakapin niya ng mahigpit si Imelda. ERIK: Wala dito ang hinahanap ninyo! IMELDA:
-
-Tama na anak…
-
-ERIK: Bakit ba kami ang sinasaktan ninyo? Wala kaming kasalanan! IMELDA:
-
-Anak…
-
-ERIK: Nay! Wala tayong kasalanan! Hindi tayo ang pumatay sa anak nila! Wala tayong ginawa! Bakit tayo ang pinahihirapan? Ilang taon na tayong ganito, inay! Daig pa natin ang nakakulong!
-
-Putang inang buhay ‘to! Muling hihilahin ni Mr. Corpuz si Erik patayo at saka ibabalibag sa may lamesa. Mapapaupo sa sahig si Erik, malapit sa kung nasaan ang mga kutsilyo at mga kutsara. ERIK: Wala kaming kasalanan! CORPUZ: Wala? Pinatay ng tatay mo ang anak ko! ERIK: Siya ang pumatay pero bakit laging kami ang nasasaktan? Wala kaming kasalanan… MR. CORPUZ: Nasasaktan? Buhay ka! Samantalang yung anak namin, matagal nang nasa hukay! Gusto niyong tumigil ang lahat ng ito? Sige! Ibalik ninyo ang anak ko! IMELDA:
-
-Parang awa na ninyo…
-
-MRS. CORPUZ: Awa? Bakit? Ang asawa mo ba, naawa sa anak namin? Ibalik ninyo ang anak ko! Ibalik ninyo ang anak ko! Muling pagsasampalin ni Mrs. Corpuz si Imelda at saka sasabunutan. ERIK: Tama na! Wala kaming kasalanan sa inyo! IMELDA:
-
-Anak…
-
-ERIK: Biktima din kami! Tatadyakan ni Mr. Corpuz si Erik. Masusubsob ito sa tabi ng kutsilyo at mga kutsara. IMELDA: Erik! Parang awa na ninyo! Huwag naman ang mga anak ko. Ako na lang! Parang awan a ninyo, ako na lang… MRS. CORPUZ:
-
-Ibalik ninyo ang anak ko!
-
-ERIK: Biktima din kami! (Halos pabulong) Biktima rin kami… Pupulutin ni Erik ang kutsilyo at saka tatayo. Mapapatingin siya kay Imelda. Magpapalipat-lipat ang tingin ni Imelda sa kutsilyong hawak ni Erik. Maging sina Mr. at Mrs. Corpuz ay mapapatingin lang kay Erik. ERIK: Pagod na pagod na ako, inay… IMELDA:
-
-Erik—
-
-Lalapitan ni Erik si Mr. Corpuz, hawak ang kutsilyo. Mapapaatras si Mr. Corpuz ng kaunti pero kukunin ni Erik ang kamay nito at ipapahawak sa huli ang kutsilyo. Hindi bibitawan ni Erik ang kamay nito, tititigan niya ito sa mata. MR. CORPUZ: Anong— IMELDA:
-
-Erik!
-
-Hihilahin ni Erik ang kamay ni Mr. Corpuz at isasaksak sa sarili ang kutsilyo. ERIK: Buhay para sa buhay… Iyon naman ang gusto niyo, di ba? Mag-aalis ng talukbong si Andrea at mapapatingin sa nangyayari. Mulik isasaksak ni Erik ang kutsilyo sa sarili. ERIK: Hindi ko maibabalik ang anak ninyo, pero siguro naman, amanos na kayo ng tatay ko. Huwag niyo nang guluhin ang pamilya ko. ANDREA:
-
-Kuya!
-
-IMELDA:
-
-Erik! Anak! Tama na! Diyos ko! Huwag ang anak ko! Erik! Tama na!
-
-Lalapitan ni Imelda sina Erik pero isang saksak pa ang ibabaon ni Erik sa sarili bago ito makalapit ng tuluyan. Mapapa-atras si Mr. Corpuz, hawak pa rin ang kutsilyo. IMELDA:
-
-Erik!
-
-ERIK: Pagod na ako, nay… Ayoko na din kayong nakikitang nasasaktan. Ayoko nang nakikitang nasasaktan si Andrea. Tama na. Tapusin na natin ‘to. Matutumba si Erik. Pilit itong sasaluhin ni Imelda kaya pareho silang matutumba sa lapag. IMELDA:
-
-Anak…
-
-ERIK: Tapos na, nay… Hindi niyo na kailangang mag-makaawa pa… Lalapit si Andrea sa dalawa, hila-hila ang kumot. Mabibitawan ni Mr. Corpuz ang kutsilyo. Mapapatingin doon si Imelda. Lalapitan niya iyon at saka pupulutin. Parang wala sa sariling sisimulan niyang pulutin ang lahat ng mga natapong gamit at saka muling ibabalik sa karton. ANDREA:
-
-Kuya…
-
-ERIK: Simula ngayon, hindi mo na kailangang magtago. Hindi ka na nila masasaktan. Nangako ako, di ba? IMELDA: dumilim… ANDREA:
-
-Andrea, anak. Ayusin mo na ang mga gamit ng kuya mo. Malapit nang
-
-Kuya…
-
-ERIK: Hindi ka na nila masasaktan… Itatalukbong ni Andrea ang kumot kay Erik. Mapapatingin lang sa mga anak si Imelda, nakangiti. Tulalang nakatingin lang sa mag-iina sina Mr. at Mrs. Corpuz. ANDREA:
-
-Kuya, sa ilalim nito, hindi ka nila makikita, hindi ka na nila masasaktan…
-
-IMELDA: Oh? Nasaan na ang kuya mo? Maya-maya lang darating na ang tito mo. Erik! Anak! Nasaan ka na ba? Iyong gamit mo, hindi pa nakahanda… ANDREA:
-
-Sa ilalim nito, hindi ka nila makikita, hindi ka nila masasaktan…
-
-Iiwanan ni Andrea ang nakatalukbong na si Erik at saka tipong maghahanap. Mapapangiti siya pagdapo ng mata sa teddy bear. Lalapitan niya iyon at pupulutin bago muling uupo sa may bintana. Ni hindi niya lilingunin ang mag-asawa na nakatingin lamang sa kanya. ANDREA: (Kumakanta) May pumukol sa pipit sa sanga ng isang kahoy. At nahagip ng bato ang pakpak ng munting ibon. Dahil sa sakit, di na nakaya pang lumipad. At ang nangyari ay nahulog, ngunit parang taong bumigkas, “Mamang kay lupit, ang puso mo’y di na nahabag, Pag pumanaw ang buhay ko, may isang pipit na iiyak.”
-
-BUOD NG HIMALA ni Ricardo Lee Ang tagpuan ng pelikulang Himala ay ang Cupang, isang maliit na baryo sa Pilipinas na matagal
-
-na panahon na ring hindi dinaratnan ng ulan kaya’t nagbibitak ang mga kalsada’t natutuyo ang mga pananim. Naniniwala ang mga taga-Cupang na simumpa ng bayang kinabibilangan ng baryo nila. Si Elsa ang pangunahing tauhan ng pelikulang ito. Siya ay 24 taong gulang na at katulong sa bahay ni Gng. Alba. Ampon lamang si Elsa ng kanyang inang si Aling Saling. Ngunit nagbago ang lahat kay Elsa nang dumilim isang tanghaling tapat. Tinatakpan ng buwan ang araw. Hindi magkamayaw ang mga tao sa mga sandaling iyon, takot na takot na tumatakbo pauwi sa kani-kanila at nagsisigawan. Isang matandang babae ang nagpalala ng lahat nang nasambit niyang “Diyos ko po, magugunaw na ang mundo!” “Hindi ho, eclipse lang ho iyan,” tugon ni Lucio na sumubok pakalmahin ang mga taong natataranta. Sa dilim ay nangangap si Elsa paakyat sa burol. Humuhugong ang hangin. Nadapa si Elsa. At sa kanyang pagbangon ay may narinig siyang bulong, isang boses ng babae na tinatawag ang pangalan niya. Lumingon siyang tila tumahimik ang lahat at kanyang nilapitan ang isang punong tuyong-tuyo’t walang dahon na nasa tuktok ng burol. Niya niya ang kung anumang liwanag na iyon. Napaluhod siyang tila magdarasal habang ang kanyang mukha’y sinisikatan ng liwanag na iyon. Kinagabihan sa bahay nina Elsa ay nag-uusap sila at ng kanyang ina. “Elsa, lagi ka na lang wala sa iyong sarili. Gaya kanina, pinapunta kita kina Lucio’y nakalimutan mo. Lagi kang nasa burol. Di kita laging mababantayan. Dapat mag-asawa ka na. Baka sabihin nila’y mag-ina tayong matandang dalaga. Di kita inampon para gumaya lang sa ‘kin.” Iba ang sagot ni Elsa, “Nakita ko po ang Mahal na Birhen. Sa Burol po. Kanina habang may eclipse. Nakaputing damit po siya. May belong asul. May sugat sa dibdib. Umiiyak po siya ak saka nawala. Ayaw po kayong maniwala sa akin?” Kinabukasan, ipinatingin ni Aling Saling si Elsa sa isang arbularyo. Pinalo nang pinalo ng arbularyo ang hubad na likod ni Elsa habang nakahiga ito parang hindi nasasaktan. Matigas daw ang espiritung sumasanib kay Elsa sabi ng arbularyo kaya ibalik na lang daw ito sa susunod na araw. Kinaumagahan habang pappunta sana si Baldo sa bukid ay napaitigil siyang nakatingin sa burol. Nakita niya si Elsa na nakaluhod nang matikas sa harap ng tuyong punong kahoy. Nilapatan niya si Elsa at nakita na dumurugo ang magkabilang kamay nito. Niyugyog niya si Elsa ngunit matagal kumibo. Nang nagmulat ang mga nito ay inilapad niya ang kanyang palad, may sugat ang mga palad nito. Kinagabihan ay nasa simbahan si Elsa at kausap ang isang pari. May pagdududa ang pari kay Elsa na batid habang sila’y nag-uusap. “Ang Mahal na Birhen po ang nakita ko. Opo, pero meron po siyang sugat sa dibdib. Para pong tama ng baril.” “May baril na ba noong unag panahon. Minsan, mapaglinlang ang demonyo. Kaya nitong magpakita sa kahit anong anyo. Kahit pa ng Panginoon. Papaano mo naman makikita iyon e may eclipse.” “May liwanag pong nanggagaling sa kanya. Parang po siyang nabibihisan ng araw. Noong una po’y nagpapakita lang siya, umiiyak, at saka nawawala. Pero nitong huli’y nagsasalita na siya. Sabi po niya’y di mo ako mapangingiti, Ineng, maraming kasalanan ang tao. Ewan ko po kung sa kanya ko nakuha ang mga sugat ko. Pero sabi po niya, kung magpapakabait daw po lahat ng mga tagarito, isang araw ay mawawala ang sumpa. At ang sabi rin po niya, darating daw ang araw at lalapit daw po sa akin ang lahat ng may sakit at makapanggagamot daw po ako. Hindi lang daw po ng sugat ng katawan pati’y ‘yung sugat ng mga kaluluwa,” pahayag ni Elsa.
-
-“Lagi kang tinutukso ng mga tao dito bilang putok sa buho. At noong araw na nakita mo ang Birhen ay nakagalitan ka daw ni Mrs. Alba. May sama ka ba ng loob sa mga tao dito, Elsa? Hindi ako naniniwala sa mga milagro,” tugon ng pari kay Elsa. Sa bahay nina Elsa ay nag-aaalalang kinausap siya ni Aling Saling. “Baka pagtawanan ka ng mga tao. Baka matanggal tayo sa trabaho kay Mrs. Alba. Nagising si Aling Saling na wala sa kanyang tabi si Elsa. Hinanap nina Aling Saling, Chayong at Baldo si Elsa. Nagtungo sila sa burol, doon nakita nilang nakaluhod si Elsa. Wala na ang mga sugat sa katawan ni Elsa. Lumapit ang isang tagabaryo, “Baldo, iyong kaibigan mong tagaMaynila, ‘yung tiningnan ni Elsa, nawala na raw ang sakit niya! Gumaling na raw siya!” Lumuhod sila sa harap ni Elsa. Hinahagud ni Elsa ang mata ni Lolo Hugo. Binihisan nila si Elsa ng puting-puting damit na pagmamay-ari ng pinsan ni Chayong na dating nagmamadre. Lumakad sila na tila munting prusisyon. “Baldo, pagbutihin mo! Baka maawa sa’yo ang Mahal na Panginoon at pagkalooban ka ng asawa,” ani Lucio nang napadaan ang pangkat nina Elsa sa harap nito. Ang ilang usiserong tagabaryo ay nasa burol na. Pilit hinahanap ang birhen. “Baka dito! Baka nagtatago lang dito! O baka naman diyan sa kabilang puno.” “Huwag kang maingay. Naka matakoy lumabas!” Iniisnpeksyon nila ang puno, ang iba ay may dala pang flashlight. Pagkahapon, maraming tao sa bahay nina Elsa. Iniharap ni Baldo ang isang pasyenteng naipitan ng ugat sa paa upang ipagamot kay Elsa. Lahat ay nakamasid sa kanyang ginagawa. Tinawag ni Mrs. Alba sina Aling Saling, Chayong, Baldo at Sepa. Kailangan daw nilang mag-organisa upang tulungan at bantayan si Elsa. Malalim na ang gabi. Nagising si Chayong sa pagkakahilik ni Pilo, ang kanyang kasintahan. Nasa ilalim sila ng bahay, sa may tangkal ng baboy. “Huwag Pilo! Natatakot ako,” ani ni Chayong. “Ba’t ka natatakot, ako lang ‘ti di ba mahal mo ako? Chayong, mapapanis tayo!” tugon ni Pilo. “Alam mo namang gutso kong malinis ako bago makasal. ‘Yun lang ang maibigay ko sa’yo.” “Ngayon mo na ibigay Chayong.” “Ba’t ako pa ang nagustuhan mo? Marami ka namang girlfriend a. H’wag Pilo...huwag! Talaga namang marami kang girlfriend. Pati nga si Elsa niligawan mo n’on,” ani ni Chayong. “Lahat ng babae kaya kong lagawan, pero si Elsa hindi. Ewan ko kung bakiy. Parang hindi siya babae e. Parang hindi siya tao. Kelan ba tayo papakasal?” “Nakausap ko si Elsa, Pilo,” sabi ni Chayong. “Lahat ba naman ng gagawin mo’y ikinukunsulta mo pa kay Elsa,” sagot ni Pilo. “Alam niya ang lahat,” agad na tugon ni Chayong. Umalis si Chayong at sa kanilang bahay ay naligo siya. Sinabunan niya ang mga bahagi ng kanyang katawan na hinagkan ni Pilo.
-
-Ito Pala Ang Inyo ni Frederico b. Sebastian Part 1
-
-Clary: sabik na sabik na akong makarating sa bahay bert. Bert: totoo ba yan? Clary: oo naman. Ang hangin sa lalawigan ay tunay na nakakaakit. Bert: masaya ako dahil nasisiyahan ka mahal ko. Clary: Nais ko na talagang makarating Bert sa ating paraiso!!!(papasok na sa maralitang bahay) Clary: Ito pala ang sinasabi mong bahay Bert. Bert: Oo mahal ko. *tumitingin tingin pagkatapos umupo sa bangko ito ay bumagsak Clary: Aray ko pohhh!!!! Bert:Nasaktan ka ba mahal? Clary:Nasaktan!?hello??!bumagsak kaya ako dahil sa upuan na yan!Hindi mo man lang sinabi na bulok na pala yan.(galit na galit) Bert: (aamuhin si Clary) Wag ka nang magalit.(I mamasahe ang binti ng babae) Matagal na kasi ako hindi nakakauwi dito mahal. *ngingiti na si Clary at babangon Clary: ito pala ang sinasabi mong paraiso. Kita mo pala ang mga bituin kahit araw na araw. Bert: oo nga. At ang sofa namin ay matigas lamang. *tatawa ang dalawa Clary: Bert….wala ka na bang damit maliban pa diyan? Bert:Ano naman ang masama sa suot ko, mahal kong Claring? Clary: (nagalit) Baket noong dumadalaw ka pa sa amin ang ayos ng iyong suot? And by the way haven’t I told you call me Clary. Bert: ayaw mo bang Claro na lang?(tatawa) Clary: its not Claro its Claryyyyy!(lalayo kay bert at tatalikuran ito)
-
-Bert: (yayakapin patalikod si Clary) sige Clary. Bakit nga pala tayo naguusap ng ganito,kakasal pa lamang natin ah? Clary: Oo nga. Bert: Sige na, magbihis ka na muna. Clary: saan ako magbibihis? Bert: Aba saan pa e di dito. Wala naman taong makakakita sayo kundi…ako lang(titingin sa manonood tapos tataas-taas ang kilay) Clary: Dito?!(titingin sa nanonood) Bert: Alam mo mahal ko, dito sa probinsya lalo na sa katulad kong mahirap wala ka ng makikita pang room kundi ito lang. Clary: mamayang gabi na lang ako magbibihis.(magdadabog) Bert: Ikaw ang bahala. Pero ang gabi sa amin ay tunay na gabi? Clary: Huh? Bert: walang electrisidad dito, mahal ko. Clary: OMG! Di na talaga ako makakapag bihis!!! Sa Maynila na nga lang ako magbibihis. Bert: (tatawa) Clary: (iirap) At saka asan pala ang ating bed? Bert: wala tayng katre mahal ko…. Clary: Ano?! San Tayo matutulog? Bert: sa sahig mahal ko. Clary: Sa ganda kong ito matutulog ako sa sahig? Bert: masanay ka na…sapagkat mahirap lang ak…. Clary: tama na! wala na akong magagawa!!!samahan mo na lang ako sa banyo at maliligo muna ako.
-
-Part 2 Alberto: Wag ka na maligo Clary. Malamig ang panahon at hindi ka pa masyado sanay ditto. Clary: Bakit pati paliligo ko ay iyong pinapakialaman?At bakit ako magsasanay maligo, hindi ba ako naliligo? Alberto: Hindi sa hindi ka naliligo. Iba kase ang banyo mo sa maynila sa banyo namin. Hindi ka nga makapagpalit dahil sa hiya ang pagliligo pa kaya sa batalan. Clary: Sige na…..Mr. Alibi Bert: (sa sarili) ang hirap pala magkaasawq lalo na ang tulad ni Clary na laki sa Maynila at mayaman. At ano kaya ang mangyayari kung malaman niya na ako ay may mga anak…. *bumalik na galling sa batalan si Clary Clary: Bert! Hindi ako pwedeng maligo doon….wala man lang harang yung… Bert: batalan, mahal Clary: at bert wala pa akong nakikitang gripo. Saan kayo kumukuha dito ng tubig? Bert: kumukuha kami ng tubig sa poso mga kalahiting kilometro lang naman mula rito. Kung maliligo ka, sabihin mo na para ako ay maguumpisa ng maglakad. Clary: Wag na, bert! sa maynila na lang ako maliligo. Bert: Sa maynila ka na rin maliligo at doon ka rin magbibihis? Clary: oo.at asan dito yung…. Bert: Ano? Clary: yung kasilyas. Bert: wala kami. Karamihan sa amin ay wala pang toilet, lalo na ang mga mahihirap na tulad ko. At hindi pa kase nakakarating ang sibilisasyon sa amin e. Clary: ano?! Ano ang gingamit niyo? Bert: nakikita mo ba yun?(tuturo sa kabilang direksyon)
-
-Clary: yung kawayan? Bert: oo, yun ang kasilyas naming. Clarita: what?! Sukdulan na ang mga pagsubok mo sa akin bert! Dito mo ba ako ititira?! Akala ko ba may sarili tayong paraiso at mamumuhay tayo ng parang si Adan at si Eba!!!? Ano ang nangyari sa sinabi mo??? *magugulat na lang si Clary may pumasok na matanda Bert: (gulat) Tiya Isyang!!! Tiya Isyang: Berto!(nakakunot ang noo) * ang mga bata ay pupunta kay bert Mga bata: tatay!tatay! tatay! wala ka bang pasalubong sa amin?(with a cute face) * gulat na gulat si clary(nakatingin lang sa nakikita niyang pangyayari) Bert: tiya isyang siya ay si clary ang aking asawa , Clary ang aking tiya at aking mga…. Clary: Anak! Walang hiya ka, hindi ka nagsabi sa akin ng buong katotohanan. Uuwi na lang ako sa maynila. Doon may banyo, toilet, bed, rooms at higit sa lahat walang mga makukulit na bata ang manggugulo sa akin. *umalis si Clary at hinabol naman siya ni bert at nahawakan sa kamay Bert: Hindi ka maaring umalis na wala ako. ……(nag iiyakan ang mga anak) Aling Isyang: Tumahimik kayo! Tinamaan kayo ng lintik.
-
-Makapaghihintay ang Amerika” ni Dionisio S. Salazar
-
-BUOD Sa bahay ng mga Cortez, sa Maynila ay makikita sa kanilang sala si Ligaya na nakasandal sa kanilang sofa at bumabasa ng “pocketbook.” Isa siyang Propesor sa isang malaking pamantasan sa Maynila. Habang nagbabasa ay maiinip siiya sa kahihintay sa byenan at mga anak na nanuod ng sine. Pagkaraan ng ilang minute ay dumating na rin ang kaniyang byenan at mga anak. Ipinagmalaki ni Boy, ang kaniyang anak na lalaki ang kanilang napanoud sa sine. Naipahayag din ni Marta, ang kaniyang byenan na mahusay na ang mga gumaganap na artistang Pilipino ngayong panahon. Habang nagkukuwentuhan ay nabanggit ni Boy ang sinabi sa kaniya ng kaniyang ama na si Fidel na kung gusto nitong pumunta sa Amerika. Matapos ang kuwentuhan ay nagbihis ng pambahay ang mga anak ni Ligaya habang naiwan naman sa sala ang magbyenan. Nagkuwentuhan sila tungkol sa pagbabalak ni Fidel na pumunta ng Amerika at ang mga suliranin ng lipunan. Nag-isip sila ng paraan para sa darating na kaarawan ni Fidel bukas. Malungkot si Ligaya dahil muling malalayo nanaman ang kaniyang asawa sa kaniyang piling kaya naman minabuti nan g magbyenan na kausapin si Fidel sa balak nito. Napagusapan din nila ang hindi patas na pagtalaga sa posisyon sapagkat napili si Fidel sa isa sa mga itataas ang posisyon sa ospital. Ang pagbabalak ni Fidel na pumunta ng Amerika ay labis na ipinag-aalala ni Ligaya dahil kakaiba ang uri ng pamumuhay ng mga tao doon at panibagong buhay ang kanilang matatamasa kung doon magtratrabaho si Fidel. Naituon naman ang kanilang usapan sa Amerika, kung anong klase ng pamumuhay mayroon sila at ang mga sawimpalad na mga dalagang ina na bunga ng sinasabing makabagong kabihasnan. Ang katotohanang ang ating panahon ay henerasyon ng panggagay, panghuhuwad, panloloko, krimen, pagsasamantala at iba pang mga sakit ng lipunan. Dumating si Fidel na nakabarong Tagalog at masuyong hinagkan ang kabiyak nitong si Ligaya. Tinawag naman ni Marta ang kaniyang mga apo upang magbigay galang sa kanilang kadarating pa lamang na ama. Ikinumusta naman ni Fidel ang panonoud ng sine ng mga anak, aktibo naman itong ibinahagi ang kanilang karanasan at napanood. Pagkatapos ay inalok naman ni Marta ang kaniyang mga apo upang magluto ng hapunan. Naiwan ang mag-asawa sa sala. Sinabi naman ni Fidel na may naitalaga na bilang isang assistant director sa ospital na kaniyang pinapasukan. Saka naman ipinilit uli ni Fidel ang kaniyang balak na pumunta ng Amerika dahil mas giginhawa raw ang kanilang buhay sa Amerika kaysa sa Pilipinas. Hindi na masikmura ni Fidel ang katiwaliang nagaganap sa bansa at ang kawalan ng hustisya. Todo naman ang pagkumbinsi ni Ligaya na manatili na lamang sila sa Pilipinas hanggang sa may narinig silang sumisigaw magnanakaw sa labas ng kanilang bahay hanggang sa may narinig silang putok ng baril. Nagpapatunay ito sa mga sinabi ni Fidel na pasasaan ang kanilang buhay sa Pilipinas kung kabi-kabila ay may krimeng nagaganap. Nang tinawag na sila ni Rosa, ang kanilang anak na babae upang maghapunan. Nabanggit ni Boy na tuwing papasok na siya sa paaralan ay ihahatid at isusundo siya ng kaniyang ama naitanong ni Fidel kung ano ang gustong maging ni Boy paglaki nito. Matapos ang kumain ay naupo sa sofa si Fidel at nag-isip-isip tungkol sa mga nasabi ng kaniyang asawa at ng kaniyang mga anak. Kinaumagahan ay lumabas ng bahay si Fidel upang ikuha ang kanilang dyaryo. Pagbalik niya ay sinorpresa siya ng kaniyang pamilya. Masayang ibinigay ng kaniyang mga anak at ng kaniyang ina ang kanilang regalo kay Fidel. Nakapagdesisyon na si Fidel na huwag nang pumunta ng Amerika at manirahan na lamang sa
-
-Pilipinas. Masayang- masaya naman na ibinigay ni Ligaya ang kaniyang regalo kay Fidel sa pamamagitan ng pagsabi nito na madaragdagan nanaman ang kanilang pamilya. Masaya namang naibigkas ni Ligaya ang “Makapaghihintay ang Amerika.”
-
-10 Tanikalang Ginto Juan K. Abad (Buod ng Dula) Nag-umpisa ang dula sa isang monologo ng isa sa pangunahing tauhan na si Liwanag. Si Liwanag ay nalilito sa kung ano ang gagawin: pakasalan ang nag-iisang mahal na si Kaulayaw o ang pagtanaw ng utang na loob sa kanyang amain na si Maimbot. Hindi nais ni Maimbot na magpakasal si Liwanag kay Kaulayaw nais niyang makasama at pagsilbihan siya ni Liwanag hanggang siya ay sumakabilang buhay. Ginawa ni Maimbot ang lahat ng kanyang makakaya upang hadlangan ang pag-iibigan ng dalawa. Binigyan niya si Liwanag ng Tanikalang ginto at pinangakuan ng marami pang kasaganahan sa buhay upang makuha ang hiling niyang ampunin si Liwanag. Ang tanikalang ginto ang nagsilbing isang kontrata na pinanghahawakan ni Maimbot kay Liwanag. Sandaling nasilaw si Liwanag sa ganda ng tanikalang handog ni Maimbot, at nakalimutan ang panyong iniwan ni Kaulayaw. Inatasan ni Maimbot si Nagtapon (na kapatid ni Kaulayaw), ang kanyang alipin na bantayan at pagbawalan ang pagkikita ng dalawa. Si Dalita ang ina ni Kaulayaw at ni Nagtapon. Mahina na siya at may malubhang sakit. Lubos siyang nangungulila sa anak niyang naglayas, si Nagtapon. Si Nagtapon ay kapatid ni Kaulayaw na lumayas at iniwan ang kanyang ina para sa pera‘t ginto. Nangangamba si Dalita na baka iwanan rin siya ni Kaulayaw kapag ito ay nagpakasal kay Liwanag na sa dula ay nasa pangangalaga ni Maimbot. Subalit nanaig ang kagustuhan ni Liwanang na sumama at magpakasal kay Kaulayaw. Dahil dito nauwi sa marahas na paraan ang pagpupumilit ni Maim bot. Sa huli‘y si Nagtapon din ang nakapatay sa sariling kapatid.
-
-31 Saan Papunta ang mga Putok (Buod ng Dula)
-
-Nagbubukas ang eksena sa panahon ng Administrasyong Cory Aquino kung kailan patuloy na umiigting ang kilusan ng mga mamamayan sa hanay ng mga aktibistang estudyante at mga manggagawa. Upang magprotesta at ipaglaban ang mga karapatan at interes ng maraming maralitang Pilipino. Sa unang eksena ay lalabas si Ador, ang estudyante na nakikilahok sa mga kilusang pambansa at ang kanyang kapatid na babae na si Aida. May pagkakaiba sa pananaw ng dalawang magkapatid at ito ang lagging inaalala ng kanyang ina na si Aling Ester. Palaging nakikisangkot sa protesta si Ador, si Aida naman ay nakatuon lamang sa aknyang pag-aaral. Nais ni Aida na maiangat ang kanilang abang kalagayan sa pamamagitan ng edukasyon at sarado siya sa anumang kasalukuyang isyu na kinakaharap ng ating lipunan. Magbabago ang lahat dahil mapagbibintangan ng mga military si Adorn a nagproprotesta at kasapi ng mga NPA Sparrow unit. Dinakip si Ador at pilit na pinaamin habang tinotoryur ng tatlong sundalo kasama ang kanilang Tenyente. Sa pagwawakas ng kwento, bubunutin ni Ador ang baril ng isang sundalong nambubugbog sa kanya at maririnig na lang ang sunod-sunod na putok. 32 Ang ―Saan Papunta ang mga Putok‖ ay sumasalami n ng katotohanan at nagpapakita ng lipunan na napupuno ng sigalot, korupsiyon at kaguluhan. Maikukumpara sa madugong pangyayari noong 1987 sa Mendiola. Maihahambing si Ador sa napakaraming aktibistang estudyante na nabilanggo, pinahirapan at pinatay dahil lamang sa napagbintangan na kasapi ng Sparrow Unit. Inilalarawan nito ang brutal na pag-aapi at paglabag sa karapatang pantao ng mga manggagawa at sa mga hanay ng estudyante na nais lang magorganisa at magpahayag ng kanilang mga hinaing at maipahayag ang saloobin. Sa masusing pagmamasid at pag-aaral sa takbo ng pamahalaan, marami sa ating kabataan ang naniniwalaang hindi na ―demokratiko‖ kundi isa nang ―gobyernong Kapitalista‖ ang umiiral sa ating bayan sapagkat damang-dama na ang lalong paghihirap ng mga mahihirap at lalong pagyaman ng mga mayayaman. Ang iba naman ay patuloy na nanalig na matatag ang pamahalaang demokratiko at mga tao lamang na nagpapatakbo ng pamahalaan ang mga kakulangan. At ang iba naman ay may paniniwalang dapat nang palitan ng ―sosyalismo‖ o ―komunismo‖ ang bulok na pamahalaan. Iba’t -ibang samahan ang naitatag at nasapian ng ating mga kabataan upang mas maipakita ang tuwirang paghihimagsik sa bulok na sistema sa ating gobyerno. May mga kabataang napabilang sa Bagong Hukbo ng Bayan (New Peoples’ Army), may mga naging ―Burgis‖ radikal o rebelde at mayroon ding mga nanatiling parang mga walang pakialam sa takbo ng pamahalaan. Sa kabuuan, maraming kabataan ang nagbuwis ng buhay, nagpamalas ng buong giting sa pagtatanggol ng karapatan ng masang Pilipino, walang takot na suungin ang kamatayan basta maipaglaban lamang ang mga prinsipyo at tunay na karapatan. Naging ganap na mapanghimagsik a ng mga kabataan. Ito’y mapatutunayan hindi lamang sa madugo at mapangwasak na demonstrasyon at mga pagpapahayag. Ang mga pahayagan ng mga mag-aaral sa kani-kanilang pamantasan ay punung-puno ng damdaming mapanghimagsik. Ang mga dating aristokratang manunulat ay nagkaroon ng kamulatang panlipunan. At maliban sa makinilya ay gumamit din sila ng pinsel at isinulat sa mga plakard, sa pulang pinturan ang mga
-
-kaugnay na salitang nagpapahayag ng karaingan at pakikibaka. Ang dulang ito ay tuwirang naghihimagsik sa kabulukan ng sistema, kawalan ng hustisya, sa patay-malisyang mamamayan at abusadong naglilingkod sa gobyerno na may pansariling interes lamang. Naghihimagsik sa mga nanunungkulan na kung hahayaan ang ganitong sistema ay mas marami pa ang mga kabataan na masasayang ang kinabukasan.
-
-SINTAHANG ROMEO AT JULIET Sintahang Romeo at Juliet Hango sa Romeo at Juliet na Isinalin ni Gregorio C. Borlaza Unang Tagpo (Sa pag-iisa ni Romeo. Kinakausap ang sarili) ROMEO: Bata pa ba ang araw? Mahaba ang malungkot na mga oras. Walang paglingap ng aking minamahal. O, nag-aaway na pag-ibig! O, pag-ibig na nagagalit! O, kahit na anong sa wala nanggagaling! Ganito ang pag-ibig kong walang pag-ibig na nadarama. Pakitaan ako ng isang babaing labis na marikit, Di ba’t ganda nito’y isa lamang pantawag ng isip Sa lalo pang may malaking kagandahan? Sa paglimot, di mo ako ma’aring turuan. (Sa pag-iisa ni Juliet. Kinakausap ang sarili.) JULIET: Pag-aasawa’y isang karangalang hindi ko pinapangarap. Bata pa sa gulang kong labing-apat, banggit ni ina, Mga dalaga dito ay nagiging ina na. Sino si Paris? Isang lalaki raw na guwapong-guwapo? Maiibig ko ba ang ginoo? Hangad ng magiting na ito, ang pag-ibig ko. Sa piging mamayang gabi, siya’y makikita ko. Sa pagbasa ng aklat ng kay Paris na mukha, Sana nga ay matagpuan ang itinitik ng kagandahang tuwa; Ikalawang Tagpo (Nagsimula na ang kasiyahan sa bulwagan. Naroon din si Juliet na nakikipagsayawan. Darating si Romeo at makikita niya si Juliet sa hanay ng mga babaeng sumasayaw.) ROMEO: Liwanag ng tanglaw, sa pagtuturo niya’y lumalaki, Para siyang nakabitin sa pisngi ng gabi, Katulad ng mamahaling hikaw sa tenga ng babaing Ethiopia, Kagandahang di dapat gamitin pagkat lubhang mahalaga,
-
-Parang puting kalapating kasama ng mga uwak Ang binibini ko sa piling ng mga hamak. Pagkatapos nitong sayaw, titingnan kung saan siya uupo, Mabibindita ang kamay kong magaspang pag ang kaniya ay nahipo, Puso ko ba’y mayroon nang minahal? Itakwil mo, mata, Pagkat ang tunay na ganda’y ngayon ko lamang nakita. (Makikita ni Tybalt si Romeo. Sisitahin niya ito.) TYBALT: Ito sa tinig ay marahil isang Montague. Bakit naparito ang aliping itong mukha’y di mapinta? Upang kutyain lamang ang ating pagsasaya? Sa ngalan ng lipi at dangal ng aking angkan, Ang patayin siya’y hindi masasabing kasalanan. CAPULET: Bakit pamangkin ko, ano ang ipinagpuputok mo? TYBALT: Tiyo, ito ay ating kaaway na isang Montague; Isang buhong na dahil sa galit naparito, Upang libakin ang kasayahang ito. CAPULET: Siya ba ang batang si Romeo? TYBALT:
-
-Siya nga, si Romeong buhong.
-
-CAPULET: Masiyahan ka pinsan ko, pabayaan siya. Parang maginoong tunay ang mga kilos niya, Dahil sa taglay na dangal at kilos niyang sakdal buti. Kahit ibayad sa akin ang yaman ng buong bayan, Hindi ko siya sisiraan sa aking tahanan. Kaunting tiyaga, huwag mo siyang pansinin. TYBALT: ‘Pag panauhin ay isang buhong ay angkop iyan. Hindi ko siya mapagtitiyagaan. CAPULET: Pagtitiyagaan siya. Bakit, iho Ganiyan ang sabi ko. Alis ka diyan! Ako ba ang panginoon dito o ikaw? Alis ka diyan! Nais mong sumikat, nais mo na ikaw ang masunod! TYBALT: ‘Pag ang pasensiya’y pinilit kong pumigil sa galit na pag-ayaw, Nanginginig sa tagisan ang lahat kong mga laman. Ako ay aalis; subalit ang ganitong panghihimasok Na ngayo’y waring matamis ay magiging mapait na lubos. (Lalabas si Tybalt. Magtatagpo ang paningin nina Romeo at Juliet)
-
-ROMEO: Kung lapastangan ng kamay kong hindi marapat, Ang iyong dambanang banal, ang parusang ilalapat; Ang mga labi kong dalawa’y namumulang mamamakay Ay handang hagurin ng halik ang ginaspang ng aking kamay. JULIET: Mabait na mamamakay, ikaw ay nagkakasala Sa kamay mong mabuting kilos ang nakikita; Mga santo’y may kamay na hinihipo ng may-pakay; At ang pagdadaop-palad ay parang halikang banal. ROMEO: Kung gayon, santa ko,bayaang gawin ng labi ang gawain na pangkamay! Sila ay dumadalangin upang ang paniniwala ay hindi mamatay. (Hahalikan ni Romeo si Juliet.) JULIET: Kung gayon ay nasa aking labi ang salang sa iyo ay nakuha. ROMEO: Salang buhat sa labi ko? O salang malambing na iyong binanggit, Ang sala ko ay muling ibalik (Hahalikan niyang muli si Juliet.) JULIET: Parang pinag-aralan mo ang paghalik. NARS:
-
-Senyorita, nais kang makausap ng iyong ina.
-
-ROMEO: Sino ang kaniyang Ina? NARS: Aba, binata. Ang nanay niya ay ginang nitong tahanan. ROMEO: Siya ba’y Capulet? O kay samang kapalaran! Ang buhay ko’y utang ng aking kaaway. Ito na ang ikinatatakot ko, lalo akong hindi mapalagay. Ikatlong Tagpo JULIET: O Romeo, Romeo! Itanggi ang iyong ama’t ang pangala’y itakwil mo! O kung hindi, isumpa mong ako’y iniibig, At hindi na ako magiging Capulet ROMEO: Maghintay pa kaya ako, o ngayon din ay tumugon? JULIET: Pangalan mo lamang ang masasabi na kaaway ko,
-
-Ikaw ay ikaw rin kung hindi ka man Montague. Ano ang Montague? Hindi kamay, hindi paa, Ni braso, mukha, o anumang bahagi pa ng katawang tao. O, magpalit ka na ng pangalan! Ang rosas kung tagurian, Sa ibang taguri’y mananatiling mabango ang pangalan ROMEO: Susundin ko ang wika mong binitiwan. Tawagin mo akong mahal at pamuli kong bibinyagan; Buhat ngayon hindi na ako magiging Romeo. JULIET: Sino ka bang nagkukubli sa gabing madilim, Na nakatuklas sa aking lihim? ROMEO: Sa pangalan, Hindi ko malaman kung paano ipakikilala yaring katauhan. Ang ngalan ko, santang mahal, ay kinasusuyaan ko Pagka’t yao’y isang kaaway mo. Kung nasusulat ‘yon ay pupunitin ko. JULIET: Hindi ko pa nalalanghap,’ sandaang kataga, Ng sinabi ng dilang yan,ngunit alam ko na yata. Hindi ka ba si Romeo, at isang Montague? ROMEO: Hindi ang kahit alin, o santang butihin, kung kamumuhian mo rin. JULIET: Paano ka naparito, sabihin sa akin, at saan nanggaling? Pader dito ay mataas. Mahirap akyatin, At kung iisipin, ang pook ay kamatayan, ‘Pag natagpuan ka rito ng sino mang aking kasamahan. ROMEO: Nilundag ko yaong pader sa pakpak ng pagmamahal; Pagkat ang pag-ibig ay di mapipigil ni’yong batong humahadlang. Ginagawa ng pag-ibig ang bawat kaya niyang gawin, Kaya’t ang mga pinsan moy hindi sagabal sa akin. JULIET:
-
-‘Pag nakita nila ay papatayin ka.
-
-ROMEO: Tamisan mo lang ang titig, Ay ligtas na ako sa kanilang pagkagalit. JULIET: Mawala na buong mundo, huwag ka na lamang makita rito. ROMEO: Nariyan ang talukbong ng gabing tatakip sa akin, Hindi baleng matagpuan nila ako, iyo lamang mamahalin.
-
-JULIET: Sinong nagturo sa iyo ng lugar na ito? ROMEO: Ang pag-ibig na nagturo sa aking magmatyag, Binigyan ako ng payo’t binigyan siya ng pangmalas. JULIET: O mabait na Romeo,Kung ikaw ay umiibig ay tatapatin mo. O kung akala mo’y ako’y napakadaling mahuli, Ang totoo, butihing Montague, labis akong mapagmahal, Dahil, dito’y maaari mong sabihing kilos ko’y buhalhal; Ngunit maniwala ka, ginoo, magiging lalong matapat ako Kaysa mga mukhang mahiwaga dahilan sa tuso. ROMEO: Binibini ako’y nanunumpa sa ngalan ng buwang iyon Na nagpuputong ng pilak sa lahat na nariritong punong kahoy. JULIET: Huwag kang manumpa sa ngalan ng buwang di matimtiman Na buwan-buwan ay nagbabago sa kaniyang ligiran. Baka ang pag-ibig mo ay maging kasinsalawahan Masyadong kaparis ng kidlat na biglang nawawala Bago masambit ang ‘kumikidlat’. Paalam na mahal! ROMEO: Iiwanan mo ba akong ganitong di nasisiyahan? JULIET: Anong kasiyahan ang maaari mong ngayon ay makamtan? ROMEO: Magpalitan tayo ng tapat ng sumpa ng pag-ibig. JULIET: Ibinigay ko na sa iyo ang akin bago mo hiningi. ROMEO: Babawiin mo ba? Anong dahilan sa iyo’y muling ibigay? JULIET: Tatapatin kita, upang sa iyoy muling ibigay. Ang kagandahang-loob ko ay kasing lawak ng dagat, Pag-ibig koy kasinlalim; habang binibigyan kita Lalong marami ang natitira, kapwa sila walang hanggan. Maging tapat ka Montague kong matamis Maghintay ka, ako ay muling babalik. ROMEO: O, gabing lubhang pinagpala, ako’y nangangamba pagkat ngayong gabi’y baka ito ay pangarap lamang,Masyadong mapanlito upang maging katotohanan. JULIET: Tatlong salita, mahal kong Romeo’t paalam nang tunay. Kung marangal ang hangarin ni’yong iyong pagmamahal,
-
-at hangad mo ay pakasal, pasabihan bukas ako, Sa tulong ng isang susuguin ko sa iyo, Kung saa’t kailan mo nais ang kasal ay ganapin; Ang lahat kong kayamana’y sa paanan mo ay ihahain, Sa buong daigdig kita susundin. JULIET: Subali’t kung hindi wagas ang iyong hangarin, Hinihiling ko sa iyoNa ihinto ang iyong pagsuyo’t sa lungkot ako’y iwanan Bukas ako’y magpapasugo sa iyo. ROMEO: Mabuhay nawa ang kaluluwa ko JULIET: Adios, adios matamis na lungkot ng paghihiwalay Di ako titigil ng kapapaalam hanggang kinabukasan.
-
-Ikaapat na Tagpo PADRE: Pagpalain ng langit itong banal na gagawin upang pagkatapos ang pagsisisi’y huwag nating kamtin. ROMEO: Amen, Amen, ngunit ano man ang lungkot na darating Ang kagalakan kong matatamo’y hindi dadaigin Sa sandaling siya’y aking masilayan. At ang kamatayang salot sa pag-ibig, bayaang dumating Kasiyahan ko nang siya’y maging akin. PADRE: Ang marahas na ligaya’y may marahas na hanggahan. Parang apoy at pulburang namamatay sa tagumpay, Naghahalikan ay nauubos. Ang pulot na matamis na lubha Dahilan sa sarap ay nakasusuya, At ang tamis ay nakasisira sa panlasa. Kaya’t magtimpi ka sa pag-ibig; ganito ang mahabang pagsinta; Ang mabilis ay kasabay ng mabagal, dumating sa pinupunta. JULIET: Magandang gabi po sa mabunying kumpesor ko. PADRE: Para sa aming dalawa, si Romeo ang pasasalamat sa iyo. JULIET: Gayon din ako sa kaniya; O, ang pasasalamat niya ay magiging kalabisan. ROMEO: A, Juliet, kung ang kaligayahan mo kagaya ng aki’y iipunin at ang kakayahang iyong
-
-angkin. Ang maglalarawan doon, patamisin ng iyong hininga JULIET: Pagmamapuring mayaman kaysa sabi-sabi, Ipinagmamalaki ay laman, hindi palamuti, Pulubi lamang ang kayang bilangin ang yaman; Ngunit pag-ibig kong tapat ay labis ang kayamanan Kahit kalahati ay hindi ko mabilang PADRE: Madali nating tatapusin na, Pagkat di kayo nararapat bayaang nag-iisa
-
-Ikalimang Tagpo BENVOLIO: Si Tybalt na nahulog kay Romeong kamay; Si Romeo ang nagsabi sa kaniyang malumanay Na walang k’wenta ang pagtatalunan, Itong lahat – sinabi niya nang buong hinahon, maaamo ang tingin at yukod ang tuhod – Hindi makapayapa sa pusong mapusok ni Tybalt na bingi sa payapang panawagan, Umulos ng armas sa dibdib ni Mercutiong matapang; Sa galit, ay lumaban, armas sa armas, At parang isang sundalo’y tinabig ng isang kamay niya Ang kamatayang malamig, saka ibinalik ng ikalawang kamay Kay Tybalt na dahilan ang liksing taglay ay biglang gumanti. Isang inggit na saksak ni Tybalt ang lumagot Sa buhay ng matapang na si Mercutio. Kumaykay ng takbo si Tybalt at saka binalikan si Romeo Na bago la’ng nakaisip na gumanti rito, At parang kidlat silang nagtagis; bago ko nakuha Ang armas upang sila’y nabubuwal ay tumakbo si Romeo Ito ang katotohanan, mamatay man si Benvolio PRINSIPE: At dahil sa kasalanang iyan. Siya’y aking ipatatapong biglaan. Palayasin agad si Romeo, Katapusan niyang araw pag nahuli rito. Iligpit ang bangkay at ang utos ko ay sundin Ang awa’y nakamamatay sa paglingap sa salarin.
-
-Ikaanim na Tagpo JULIET: Huwebes ng umaga!
-
-Ako’y namamangha sa pagmamadali, Ako’y pakakasal sa isang taong di pa man nanliligaw. Hay, ama at ina ko, isang salita ko sana’y dinggin. Di ako nagmamalaki ngunit nagpapasalamat Di maipagmamalaki ang kinapopootan ng lahat, O, matamis kong ina, h’wag akong talikuran! O kung hindi ay ihanda ang aking kamang pangkasal Sa madilim na libingan kay Tybalt na hinihigan. Ako’y tutungo kay Padre Laurence na silid, Upang ikumpisal ang kay Tatay na ikinagalit.
-
-Ikapitong Tagpo PADRE: Ah, Juliet, batid ko na ang iyong hinagpis; Ako’y nababahalang labis na abot nitong pag-iisip. Narinig kong kailangan at hindi mapipigilang Sa Huwebes na darating ang Konde ay iyong pakasalan. JULIET: H’wag sabihin, padre, na narinig mo ‘yan Kundi masasabi kung paano ninyo’y ito maaaring hadlangan. Kung sa karunungan ninyo’y di makatutulong, Sabihin man lamang na tama ang nilalayon At sa tulong ng lansetang ito’y gagawin ko. Huwag nang mag-atubili, nais kong mautas Kung ang inyong sasabihin ay hindi makalulunas. PADRE: Umuwi ka, matuwa’t pumayag kay Paris pakasal . Miyerkules bukas. At bukas ng gabi, mahiga kang nag-iisa; Matapos mahiga’y kunin ang garapang ito At ang lamang alak nama’y tunggain mo. Pagkatapos nito’y sa mga ugat mo’y maglalagos Ang pagdaramdam ng antok at ang tibok Ng pulso mo’y titigil at mawawala, Walang init o hiningang sa buhay mo’y magbabadha; Ang rosas mong labi’t mga pisngi ay kukupas Parang kamatayang nagpipinid sa araw ng buhay: Bawa’t bahaging malambot ng iyong katawa’y Maninigas, manlalamig at parang tunay na patay; Sa ganitong hiram na anyo ng kamatayan Mamamalagi ka sa loob na apatnapu’t dalawang oras.
-
-Ikawalong Tagpo
-
-NARS: Binibini! Ano ba, binibini! Juliet! Ano’t nakabihis, magara ang damit, at nahiga uli? Kailangang gisingin ka. Binibini! Ano ba, binibini! Juliet! Naku, naku, naku. Tulong, tulong ang binibini ko’y patay O kay sawi, bakit pa ba ako isinilang Kumuha ng alak, madali! Aking ginoo! Aking ginang! Araw na kasumpa-sumpa, malungkot, hamak, nakamumuhi!
-
-kasiyam na Tagpo (Romeo at Baltazar.Dumating si Baltazar mula sa Verona dala ang masamang balita para kay Romeo.) ROMEO: Balitang buhat sa Verona! Baltazar, anong iyong masasabi? Wala ka bang dalang sulat na buhat sa Padre? Kumusta ang aking ginang? Mabuti ba ang aking ama? Ang muli kong itatanong, kumusta ba ang aking Juliet? Walang magiging masama kung mabuti ang kalagayan niya BALTAZAR: Kung gayo’y mabuti, siya’y walang magiging masama. Ang kaniyang bangkay sa libinga’y namamayapa, At ang kaniyang kaluluwa’y kasama ng mga anghel. Nakita ko siyang inilibing sa tumba ni Capel. ROMEO: Gayon ba? Kung gayon ay humarang na ang mga bituin! Aalis ako ngayon din! Wala bang sulat ang Padreng sa iyo’y padala? BALTAZAR: Wala po, mabuti kong panginoon. ROMEO: Ano ang dapat kong gawin? May naalala akong isang butikaryo, Na sa dakong ito nakatira, napansin ko. (Sa may Butikaryo) BUTIKARYO: Sinong tumatawag nang kaylakas? ROMEO: Nakikita kong ikaw ay mahirap. Heto ang apatnapung ducado. Bigyan ako agad ng isang lagok na lasong kakalat Upang mamatay ang iinom na sa buhay ay nagsawa na. BUTIKARYO: Mayroon nga akong lason; ngunit parusa ng batas ng Mantua’y kamatayan sa
-
-magbili na pangahas. ROMEO: Ang mundo’t ang batas ay hindi mo kaibigan; Walang batas sa mundong sa iyo ay magpapayaman; Huwag mamalagi sa hirap, labagin ang batas, kunin mo iyan. BUTIKARYO: Ilahok mo ito sa kahit na anong tunaw at saka inumin. At kung ang lakas mo’y katimbang Ng sa dalawampung katao, ay bigla kang mamamatay.
-
-Ikasampung Tagpo JUAN: Banal na padreng Pransiskano, kapatid ko! Samantalang humahanap ng kasama, Pinakuan ang pintuan at di kami pinalabas Kaya’t ang bilis ng pagtungo ko sa Mantua ay napigil agad. PADRE: Sino ang nagdala ng sulat ko kay Romeo? JUAN: Wala akong mapagdala – narito nang muli – PADRE: Malungkot na kapalaran! Ang sulat ay hindi biro kundi mayrong nilalamang mahalagang bagay
-
-Ikalabing-isang Tagpo ROMEO: O mahal ko! O asawa ko! Ang kamatayang humigop ng pukyutan ng iyong hininga Sa takot na ganito nga, ako’y titigil sa iyong piling, Dito, dito na ako tatahan Kasama ng mga uod na iyong utusan. O dito ko gaganapin ang pamamahingang walang hanggan Mga mata; katapusang yakap, mga kamay; hayo na’t tatakan Mga labi ng makatarungang halik, sa pintuan ng hininga Ang kasunduan namin ni kamatayang walang hanggan! Halika na, aking tagaakay na mapait at hindi mainam (Iinumin ang lason.) O tapat na butikaryo! Mabisa ang lason. Matapos ang isang halik, mamamatay ako. (Pagkalipas ng itinakdang oras ay muling nagising mula sa hiram na kamatayang sinapit ni Juliet.)
-
-JULIET: Ano ito? Lason, nakita ko, ang sanhi ng kaniyang pagkamatay. O, inubos niya at walang nalabi kahit kapatak man lamang upang tumulong sa akin? Hahagkan ko iyong labi baka sakaling may lason pang natira kahit konti Upang ang gamot na halik ay lumagot sa buhay kong sawi. Oh, mabuting balaraw! Ang puso ko ang bayaan mo; tumimo ka riya’t bayaang ako’y mamatay (Sasaksakin ni Juliet ang kaniyang sarili.) BABAE: Kapayapaang mahilom ang dulot nitong umaga Ang araw ng kalungkuta’y hindi ngayon pakikita Lumakad na kayo’t pag-uusapan pa ang malungkot na naganap Ang iba’y patatawarin at sa iba’y parusa ay ilalapat; Sapagkat wala pang makakasinlungkot Ang naging buhay ni Juliet at ni Romeo na kaniyang irog.
-
-2 Anghel (Dulang Pampelikula) ni Noel De Leon (1981) BUMIBITAW ANG TAO sa Diyos, ngunit hindi kaylanman bumibitaw ang Diyos sa tao.Si Salvador Catacutan (Badong Buldoser) ay isinilang at lumaki sa Bagong Baryo —isang squatter area sa Kalookan. Maaga siyang naulila nang ang kanyang ina ay namatay sa isangsakuna. Ang ama naman niya’y nasangkot sa isang pagnanakaw at nabilanggo. Nabuhay siBadong sa sariling “abilidad” — pagnanakaw, pananakot, paniningil ng protection money.Kinilala siyang “Kilabot ng Bagong Baryo.” Sindak sa kanya ang lahat ng taga-Bagong Baryo,maliban sa isang batang naging alalay niya at tagahanga — si Tikboy .Ang karibal ni Badong sa katabing barangay ay si Goryong Gwapo , na binansagannamang “Hari ng Potrero.” Mula’t-sapol ay lihim nang binalak ni Goryo na iligpit si Badong,upang masakop rin niya ang Bagong Baryo at lumawak ang raket niya sa sugal, droga at iba pangpinagkakakitaang bisyo.Wala ring malay si Badong na siya’y may sakit na kanser na laganap na sa kanyangkatawan. Hindi niya alintana ang pabigla-biglang pananakit ng kanyang sikmura, na akala niya’ypanandalian lamang at lilipas din. Hindi niya alam na siya’y malapit nang mamatay.Sa puntong ito ay dumating sa buhay ni Badong si Chelo — na nagpakilalang isanganghel na sugo ng Diyos mula sa langit. Sinikap ni Chelo na iwasto ang buhay ni Badong at ilayosiya sa kanyang maling pamamaraan. Nais ng Diyos, wika ni Chelo, na ipadama kay Badong angkanyang pagmamahal. Galit na sinabi ni Badong na, tutal, matagal na siyang pinabayaan ngDiyos, huli na upang sila’y magkasundo pa. Pinalayas niya si Chelo at pinagsabihang huwag nangbabalik pa.Bago tuluyang lumisan si Chelo, sinadya ng anghel ang
-
-isang cancer specialist — si Dr. Amado Javier — at ni-refer sa kanya ang kaso ni Badong. Gumawa rin si Chelo ng paraanupang magkakilala sina Badong at ang doktor sa isang sa-wari’y di-sinasadyang aksidente.(Muntik nang nasagasaan ni Javier si Badong sa lansangan.) Kinumbinse ni Javier sa Badong nasumailalim sa isang medical check-up. Batay sa lumabas na resulta, pinagtapat ni Javier kayBadong na nabibilang na ang araw niya.Inalok ng doktor si Badong na doon mamalagi at magtrabaho sa ospital, kung saan lagisiyang masusubaybayan. Gawa ng kabutihang nakita niya sa mga doktor at narses doon, at bungang pagtulong niya sa iba pang mga maysakit, unti-unting nagbago si Badong.Makalipas ang ilang buwan, naisipan niyang dumalaw muli sa Bagong Baryo. IbangBadong na siya — maayos sa hitsurang panlabas at sa panloob na ugali. Di niya alam, nangnawala siya ay pinasok ni Goryong Gwapo ang Bagong Baryo. Maging si Tikboy ay nagbenta nang droga para kay Goryo. Imbes na ibalik ang kita kay Goryo, ninakaw ni Tikboy ang pera upangpanggamot ni Badong. Natuklasan ito ni Goryo at hinanap ang bata upang patayin at gawingleksyon sa iba. Pinagtanggol ni Badong si Tikboy. Sa paglalaban nila, nasaksak at napatay niGoryo si Badong. Dumating ang mga pulis at dinakip si Goryo.Sa kamatayan, hindi batid ni Badong ang kanyang pagtutunguhan. Muling lumitaw siChelo — upang sunduin si Badong at ihatid pauwi sa Amang nagmamahal sa kanya. Moses, Moses ni rogelio r. sicat
-
-Isang gabi, nag-uusap si Regina at Ana.napag-usapan nila ang tungkol sa nangyari kay Aida. Si Aida ay nagahasa ng anak ng Alkalde. Si Aida ngayo\'y hindi parin makapasok sa paaralan dahil siya\'y na-trauma at wala siyang maiharap na mukha sa kanayang mga kaklase. Kaya\'t kumuha ng leave si Regina sa pagtuturo upang mabantayan niya si Aida.Tapos, biglang dumating sa bahay nila ang Alkalde kasma ang isang Konsehal. Naproon sila upang humungi ng dispensa sa nagawa ng anak ng Alkalde at ninanais nila na i-urong na lamang ni Regina ang pagsampa sa kaso. Ngunit hindi pumayag si Regina dahil akala niya\'y hustisya ang mananaig. Ng umalis na ang Alkalde at Konsehal, nag-usap si Tony at Regina. Gusto ni Tony na i-urong na ang pagsampa ng kaso dahil sa kalagayan ngayon, ang hustisya ay hindi na nananaig. Ang malakas, makapangyarihan, at mayaman na ang hustisya, sila ang lagging mananaig. Ang nias na laman ni Tony ay mapatay ang anak ng Alkalde. Buhay sa buhay kumbaga. Pinaalala rin ni Tony ang nangyari sa kaniyang ama. Nang namatay kasi ito, hindi nila nakamit ang hustisya. Pero, ipinagpilitan parin ni Regina na itutuloy niya ang pagsampa ng kaso.
-
-Matapos ang usapan, sumulpot si Ana at sinabing sinusumping nanaman si aida, kailangna ni Aida ng tranquilizer upang siya\'y kumalma. Kaya\'t nagpabili ng gamut si Regina kay Tony. Nung nakaalis na si Tony, nasi ni Regina kay Ana na malaki na ang pinagbagi ni Tony. Biglang dumating si Ben at tinanong niya kung nakaalis naba si Tony. Tumugon si Regina. At inamin ni Ben sa ina na may dlaang baril si Tony dahil binabalak niyang patayin ang anak ng Alkalde. Binilin ni Tony si Ben na huwag itong ipagsasabi ngunit nagawang sabihin ito ni Ben. Nagising si Aida at bumaba mula sa kwarto. Dumiretso siya sa cabinet at naghahanap ng gamut ngunit natabig niya ang isang bote ng gamut at ito\'y nabasag. Nagising mula sa pagkaka-idlip si Regina. Sinabi ni Aida sa ina na hinahanap niya ang gamut. Tugon naman ni Regina ay binili na ito ni Tony. Nang matanong ni Regina kung anong oras na, nagulat siya dahil hindi niya namalayang pasado alas-dos na ng umaga. Sinabi ni aida na hindi siya makatulog, kaya\'t tinimplahan siya ni Regina ng gatas. Naikwento ni Aida ang tungkol sa panaginip niya na pinapainow daw ng mga lagad ng anak ng Alklde ang kanyang kuya Tony ng lason, kahit anung pilit daw niya na humngi ng tawad ay patulor parin pinapainow ng lason si Tony, ang masaklpa sa panaginip na iyon ay ininom ni Tony ang laosn. Takot na takot na kinwento ni Aida ang kaniyang panaginip.
-
-Matapos ikwento ni Aida ang kaniyang panaginip na umabot hanggang umaga, biglang dumating si Tony na duguan. Sinabi niya na tumawag na si Ben ng taksi dahil parating na sila. Pinatay na ni Tony ang anak ng Alkalde, ngayo'y hinahabol na siya ng Alkalde at ng mga pulis. Iyon lamang daw ang paraan upang makuha ang hustisya. Ngunit sinabi ni Regina na mali ang nagawang paghihiganti ni Tony, na si Tony ay isa ng mamamatay-tao. Kinuha ni Regina ang baril at sinbing wag silang umalis dahil susuko si Tony. Nang nakarating na ang Alkalde, tinutukan niya ng baril si Tony ngunit tinabig ito ni Regina. Pinagtulung-tulungan ng mga pulis si Tony. Nang kinukuha na ng mga pulis iyong baril sa kamay ni Regina, sa hindi sinasadyang pangyayari ay nabaril ni Regina so Tony. At dinakip ng mga pulis si Regina dahil sa kasalanan niya. . Matapos ikwento ni Aida ang kaniyang panaginip na umabot hanggang umaga, biglang dumating si Tony na duguan. Sinabi niya na tumawag na si Ben ng taksi dahil parating na sila. Pinatay na ni Tony ang anak ng Alkalde, ngayo'y hinahabol na siya ng Alkalde at ng mga pulis. Iyon lamang daw ang paraan upang makuha ang hustisya. Ngunit sinabi ni Regina na mali ang nagawang paghihiganti ni Tony, na si Tony ay isa ng mamamatay-tao. Kinuha ni Regina ang baril at sinbing wag silang umalis dahil susuko si Tony. Nang nakarating na ang Alkalde, tinutukan niya ng baril si Tony ngunit tinabig ito ni Regina. Pinagtulung-tulungan ng mga pulis si Tony. Nang kinukuha na ng mga pulis iyong baril sa kamay ni Regina, sa hindi sinasadyang pangyayari ay nabaril ni Regina so Tony. At dinakip ng mga pulis si Regina dahil sa kasalanan niya. . Saan Nagtatago ang Pag-ibig
-
-Ni Gilda Olvidado Nang malaman ni Stella na buntis siya ay pinilit niyang managot ang kasintahan nitong si Rick, isang law student na tagapagmana na ariarian ng kanyang matapobreng lola. Dahil sa panakot na mag-i-iskandalo’y ipinakasal nila si Stella sa kapatid ni Rick na retarded upang hindi mawala ang mana nito at kasabay ay maiwasan ang kahihiyan ni Stella na mabuntis ng walang asawa at ama ang kanyang dinadalang bata. Kasabay ng pagbubuntis ni Stella ay natutunan nitong mahalin ang retarded na si Val. Kasabay rin nito’y natuklasan ni Stella na si Val ay anak sa labas ng kanilang ina at ito’y hindi sinilang na kulang-kulang. Dahil sa kalupitan ng matapobreng lola ng mga bata’y nahulog ito sa hagdanan ng pagbintangan si Val ng matandang nagnanakaw ng pera. Nahulog ang batang si Val habang pinapalo ito ng kanyang ina. Isang gabi’y nagwala si Val nang Makita nitong nakikipagtalo si Stella kay Rick. Sinunggaban ni Val si Rick at nagaway sila. Ang naging resulta ng pag-aaway na ito’y aksidenteng nahulog sa balkonahe ang kaawa-awang si Val. Namatay ito at sa araw ng libing ay dumating ang matapobreng matanda para ibigay ang abuloy nito kay Stella. Isinauli ni Stella ang tseke sa matanda at ipinahayag na si Val ang ginawa nilang ama ng kanyang anak pero ang tutoo’y dahil sa takot na mawalan ng mana’y ito ang pinaako ng responsibilidad ni Rick. Galit na umalis ang matanda at tuluyang naglaho ang mana ni Rick. Nagdesisyon na iwan ni Stella ang bahay kasama ng kanyang anak.
-
-Kaunting Dugo, Kaunting Laman ni Buenaventura S. Medina Jr. Kaunting Dugo, Kaunting Laman Ni Buenaventura S. Medina Jr. Nang lumabas siya sa makipot na daan ay nalantad sa kanya ang liwanag na isinasabog ng ilaw sa poste. Hinahanap niya sa mabatong daang nasasabuyan ng liwanag ang nipis ng dati niyang anyo. Sumandig siya sa poste. Saka siya tumagilid. Bahagyang numipis ang kanyang aninno. Lumitaw ang dati niyang anyo: katawang mahagway. Mga bisig at mga pang walang lakas, mukhang kay – amo; kislap ng mga matang may tanda ng pagpapakumbaba, ngiti sa mga labing may kaamuan. Nakita niyang naglakad ang manipis na katauhang iyon. Sa isipan niya’y muling nabuhay ang taong iyon. Siya nag taong iyon, kaya kailangan niya si Ibyas. Natatandaan niya ang pagkakasapi sa kanya ng damdamin ng isang bagong tao;ang umibig sa iwag ng katawan at kapangyarihan ng mga bisig at mga paa ng mga gladyetor sa matandang Roma; mga taong nakikipamukas sa bangis ng kamatayan, nakikilatad sa tiyak na kapahamakan! at pinapangarap niyang matulad sa isang gladyetor. Kinamuhian niya ang manipis niyang pangangatawan. Kung ako’y isang taong malakas, malaki ang bisig. Hiningi niya kay maestro Guto ang larawang – guhit ni Juan Luan. Bakit? Maganda po ang “Spolarium”, maestro. Ano ang gagawin mo? Itatago kop o, maestro. Ikinabit niya ang “Spolarium” sa dingding ng kanyang silid. Inay, ito po ang gladyetor ay mga taong malalaki ang katawan, sinlaki ng katawan ni Adong Boksingero at ni Piyong Buno, ngunit higit na mabangis. Ang kanyang ina aynapangiti lamang noon, napangiti lamang sa kanya. Siya’y nakamasid naming tila nananaginip sa huwad na “Spolarium” sa dingding.
-
-Pinagmasdan niya ang mga gladyetor. At nakita niya ang mga ugat na dinadaluyan ng dugong sumusulak. At nakita niya ang mga paa’t bisig na pinamimintog ng lakas at kapangyarihan. Kaunti pang dugo, Adong, upang maging gladyetor. Kaunti pang laman, Piyo, upang maging glayedtor. Inay, kung maging gladyetor ba ako, magagalit kayo? Nananaginip ka ba anak? Hindi, inay basta sagutin ninyo ako. Hindi! Araw-araw ay pinagmamasdan niya si Adong Boksingero sa pagsasanay nito. Siya’y laang makipagsanay. Lumalaki ako! Araw-araw ay pinagmamasdan niya si Piyong Buno sa pagsasanay nito. Siya man ay nagsasanay araw-araw. Lumaki ako, Inay, hindi ba? Ikinuwento niya kina Ipe, Emoy, at Galing ang lakas ng gladyetor. Hindi lamang sina Adong at Piyo nagsasanay araw-araw, alam n’yo. Oras-oras, saglit-saglit, nagsasanay sila. Pagkat di ninyo alam na sila’y nakikilaban sa mga leon? Ang mga leon ay hari ng bangis, ngunit ang mga gladyetor ay hari ng tapang, ng lakas, ng giting. Sina Ipe, Emoy, at Galing ay humanga sa lakas ng mga gladyetor pagkat nangagkindatan nang marinig ang kwento niyo. At naisaloob niya, hahanga rin kayo sa akin, baling araw… Kasanay siya ngayon ni Adong sa boksing. Kasanay siya ngayon ni Piyo sa buno. Kaya hindi siya kasama ngayon nina Ipe, Emoy, at Galing sa pamamasyal. Hindi mo na kami naaalala, biro ni Ipe. Lagi ka na kina Adong at Piyo, salo ni Emoy. Di mo na rin naaalala si Flor, a, uy! Si Galing din iyon. Napangiti lamang siya. Hindi siya bumigkas ng kahit na ano. Abalang – abala siya sa bigwis na pakaliwa. Sa pakanan. Sa ulos. Sa palo. Sa taga. Sige na, magpasyal na kayo! Nang muling mabanggit ang pangalan ni Flor ( Si Flor? Patanong na bulalas ni Ipe) ay saka lamang siya napatigil sa pagsuntok sa hangin. Nagunita niya si Flor. Nakita ko siya. Nakasalubong ko kangina. Hindi siya nagsasabing ‘di mo na ako naaalala’. Natawa siya. Tuwing makikita ko si Flor, alam n’yo lalo akong lumalakas. Algi siyang nakangiti sa akin. Yaon na marahil ang huling pag – uusap nila ni Ipe, Emoy, at Galing, gayong lagi niyang nakikitang nagdaraan sa tapat ng bahay ang tatlo. Abalang – abala siya sa pagsasanay. Araw – araw, oras – oras, saglit – saglit. Tingnan ninyo, Inay, ang aking katawan. Aba, Anak, hindi na ikaw ang aking si Ibyas, patpatin! Napatayo siya. Kaunti pang dugo upang maging gladyetor! Kaunting – kaunti na nga lamang at siya’y sumasabay na kina Adong sa lahat ng pook na katatanghalan ng gilas at lakas at tapang. Isinama siya ni Piyo sa lahat ng pook na kakikitaan ng dugo at laman. Di ka nagsasanay, Anak? Hindi na kailangan , Inay. Tingnana mo ang katawan ko. Ang katawan niya ay katawang pinanday ng panahon; malalapad na ballikat, matipunong bisig, malamang dibdib; mga paa’t bisig na galamay ng makapangyarihang gladyetor ng matandang Roma; mukhang salamin na lagging nakangiti ngunit nakapanghihilakbot. Ngayon ay maton si Ibyas! Nakilala siya. Sa lalong kilabot na lipunan. Doon sa mga hayag na pook. Doon sa mga ilang. Sa loob at labas ng nayon. Sa lahat ng dako. Minsan ay kinausap siya ng kanyang ina. Nagtatangga ka, Anak, masama iyon, sapat na ang ika’y magpasyal! Ang nanay, napakaantigo ng isipan. At siya’y sasabay kina Adong at Piyo sa pamamasyal. Sinabi sa akin, Anak, ni Na Tikang ang pagbubuno ninyo ni Huwinyo. Duguan daw nang umuwi si Huwinyo. Oo, Inay, nagdudugo ang nguso. At siya’y nagtawa. Utang niya kina Adong at Piyo ang bias ng lakas niyang taglay. Isa siyang gladyetor sa makabagong daigdig! Si Huwinyo, Anak, ay pinamamagaan ng mukha. Tatlong araw na Inay, kawawa naman ano? Bakit
-
-di ninyo bigyan ng dahon ng mayana upang umimpis ang pamamaga? At siya’y dumungaw upang tingnan ang tanim niyang mayana noon pang araw. Napitasan na ninyo, Inay. Oo, ipinadala ko na kina Ka Tikang. Kawawa si Huwinyo. Kawawa ang maliit na katawan, Inay! Siya’y bumaba upang sumama kina Adong at Piyo. Nasalubong nila si Flor. Napapaswit sina Adong at Piyo. Hindi niya nagawa iyon. Kilala niya si Flor. Kangitian niya si Flor. Ngunit si Flor ay hindi tumingin sa kanya noon, bagama’t nababatid niyang malayo pa ay nakikilala na siya nito. Sabi ni Adong, o, ayan, Ibayas, maganda iyan. Bakit di mo gawin ang ginawa mo kay Edeng? Napangiti siya. Sabi pa ni Adong. Umiiyak si Edeng sa kanyang Nana Insa, isa kang salot daw! At sila’y nagtawanan… Oo ngna, dugtong ni Piyo, kayaipinaghihiganti naman ni Huwinyong payat. Kawawa ang maliit na katawan, hindi ba? At kung bakit gusto pa ni Edeng sa payat kaysa’yo. Nakipagtawanan nalang siya kina Adong at Piyo. Nagbanta ang kanyang kalooban, ngunit si Flor iyon. Kapag nakikita niya si Flor, tila bal along nadaragdagan ang kanayng lakas, akhit din a siya nginingitian. Nasabi niya sa kanyang ina ang pangyayaring yaon: angpagkakasalubong niya kay Flor na hindi ngumiti sa kanay. Bakit, Inay? Dapat ba akong katakutan? Dapat akong hangaan, Inay, bakit gayon si Flor/ tumingin lamang sa kanya ang ina niya. Kay dali naming malimutan niya ang bagay na yaon dahil sa malimit na paglalakad nila nina Adong at Piyo. Sa kanilang pagpunta s pook na kakikitaan ng dugo at laman. Wala na sa kanya ang damdamin ng isang bagong tao: ang umibig sa iwag ng katawan at kapangyarihan ng mga bisig at paa ng mga gladyetor ng matandang Roma: mga taong nakikipamukha sa bangis ng kamatayan, nakikitalad sa tiyak na kapahamakan. Di na niya idolo ang gladyetor kundi katunggali. Inalis niya sa dingding ang “ Spoliarium” ni Juan Luna. Nang iballik niya kay Maestro Guto anng larawang – guhit ay napansin niya ang pagmalas nito sa kanya. At siya’y napatawa. Paano nga naming di mapapatingin sa kanya si Maestro Guto ay sa nabago ang kanyang katawan. Ibyas, ikaw nga yaong Ibyas na matong sinasabi nila. Taong Ibyas na maton! At nalaman din pala ninyo, maestro. Nababatid ni Maestro guto ang lagay ng bayan sa pamamagitan ng mga mata, bibig, at pandinig ng iba. Alam din pala ninyo. Bakit di ko malalaman ay sa apo ko si Huwinyong Payat! Hindi na niya nakuahng magpasalamat o bumigkas ng kahit ano sapagkat ang pagbanggit sa pangalan ni Huwinsyo ay isang pagtataboy sa kanya. Sa pag – uwi’y nasalubong niya sina Ipe, Emoy, at Galing. Sinutsutan niya upang tumingin sa kanya ngunit nagsataingang – kawali ang mga ito. Napaismid siya. Binilisan niya nag kanyang paglakad. Bakit niya linuhin ang bagay na iyon? Walang kahala – halagang bagay! Inay, bakit di nila ako binati? Siya’y dumaan sa tapat ng bahay nina Flor. Anang siya’y mamataan ay umalis ito roon. Inay, bakit ganoon si Flor? Nang salubungin siya ng kanyang ina, nakita niya nag dilim na nakalambong sa mukha nito. Isinalaysay niyang lahat ang nangyari sa kanya sa araw na iyon. Nasalubong niya sina Ipe, Emoy, at Galing ngunit di siya binate. Tumapat siya sa bahy nina Flor ngunit siya’y nilayuan. At bago pa angn lahat ang pagtungo niya kina Maestro Guto. Ang pagbanggit nit okay Huwinyo. Binakit- bakit niya ang kanyang ina hanggang sa mapansin niyang ito ay umiiyak. Paroon ka, Anak, kina Huwinyo. Ako, Inay? Hindi! Paron na, Anak, sige na. patatawarin ka na n’yun ang sabi ni Na Tikang. Mabait naman si Huwinyo. Inay, bakit? Tuluyang humagulgol ang kanyang ina… Inay, bakit, Inay? Hindi tumigil ang pagdugo ng nguso ni Huwinyo, Anak… Tumalab
-
-hanggang ngipin at ilong ang sakmit. Hindi nakatagal si Huwinyo, Anak… Gulilat si Ibyas. Napatingin siya sa may bintana. Dumungaw siya at tiningnan anng tanim niyang mayana na malagung – malago. Wala siyang malay gawin. Bumaba siya. Matuling – matulin ang kanyang paglakad. Naisip niya: Paroon ang buong nayon kay Huwinyo. Ipagdarasal siya. Ipagdarsal ang mabait na bata. At siya’y kamumuhian. Ni Flor, nina Ipe, Emoy, at Galling. Ni maestro Guto. Ni Edeng. Ni Na Tikang at Na Insa. Ng buong nayon. Nangalay siya sa pagkakasandig sa posting may ilaw na nagsasabog ng liwanag. Sinutsutan siya nina Adong buhat sa makipot na daang pinanggalinagn niya. Tayo’y makipaglamay. Ibyas! Hoy, nandon si Edeng! Hoy! Gulilat pa rin ang kanyang sarili. Paron ka kina Huwinyo, Anak. OO, Inay! Oo.Oo MAY UMAGA PANG DARATING Ni Estela Merced Santos UNANG TAGPO Minyong:Ako ba ang may pagkukulang? Ang mga tao sa aking paligid ang walang pag – unawa? Ang kapalaran ba ay sadyang malupit? ( Magbubuntong – hininga) O, Diyos ko! Tulungan po ninyi ako. (Naupo sa isang tabi at binuksan ang balutang dala-dala na wala naming laman, anyo siyang gutom at hapo, tiningnan ang bulsa na ilang sentimo nalang ang natitira)… Gumagabi na naman. Saan ako magpapalipas ng gabi? (Nagpatuloy ngn paglalakad na di alam ang patutunguhan. Nagpabalik – balik sa paglalakad sa kahabaan ng bangketa na tila tuliro, paikut – ikot na tutop ang ulo ng dalawang kamay, sabay bulagta (lalabas). IKALAWANG TAGPO Sa simbahan (Pasok si Tinay na may 33 taong gulang akay ang isang bata, si Emily na 4 na taong gulang). Emily: Nanay, bakit araw – araw lagi na lang tayong nagpupunta rito, ha? Tinay: Para magsimba, anak. Di ba lagi kong itinuturo sa iyo na palagi kang magdarasal? Emily: Opo. Lagi nga po akong nagdaral kay Nino Hesus. Di umuwi na lang po tayo at sa atin na lang tayo magsimba. (Nag – isip habang pinanonood ng ina ang nagsisindi ng kandila)… E, bakit naman po lagi na lang kayong may dalang kandila, para saan po ba iyan? Tinay: (Nangangapa ng isasagot). Eh, alam mo anak, ganito iyon. Tumingin ka sa paligid nitong simbahan. Di ba medyo madillim? Emily: (Iginala ang paningin). Opo. Kasi naman po ay sarado ang mga bintana. Tinay: Kaya nga itong kandilang may sindi ay siyang tatanglaw sa ating paglalakad para di tayo madapa. Emily: (Tatangu – tango). Ah, ganoon po ba! Eh, bakit kung maglakad kayo eh, paluhod? Di po ba mahirap at masakit iyon? Tinay: sa una lang iyon, anak. Pero ang totoo, pinatatatag nito ang paglalakad ko. Tuhod at paa ang gamit ko, dib a? Eh, di, hindi ako mabubuwal. Hallika, subukan mo, Emily. Emily: (Medyo atubili) Sige nga, Nanay sususbukan ko. (Sabay lumuhod ang mag – ina. Ilang minutong nananatiling di tumitinag. Halos maiyak na si Tinay. Dahan – dahan silang lumakad ng paluhod. Hawak ni Tina yang kandila sa isang kamay at ang anak sa kabilang kamay. Dala ng
-
-kawalang – malay, nilalaro ni Emily anng laruang napulot. Di niya napansin ang unti – unting pagkawala ng ulirat ng ina. Nabigla na lang siya nang ito ay bumulagta.) Nanay! Nanay! Naku po! Anong nangyayari sa inyo. “Nay, hu-hu-hu-hu-hu. Nanay ( panay yugyog sa ina) “ Nay dumilat kayo! ( Nang sa lalabas si Juan, ang sacristan) Juan: Ne, bakit? Anong nangyayari sa Nanay mo? Emily: Ewan kop o, bigla na lamang po siyang nabuwal. Para ninyong awa, tulungan po ninyo ang Nanay ko. (babalingan ang ina) Nanay, gising na kayo. Madilim nap o, umuwi na tayo. Juan: Teka, sandal lang at tatawagin ko si Padre Alex. (Pumasok. Pagbalik may dalang tubig at amonya, kasunod ang pari, si Padre Alex.) Emily: (Patuloy sa pag-iyak at pagyugyog sa Ina) Nanay naman gising na kayo wala na akong makakasama. Padre Alex Iha, ditto ka muna sa tabi ko. (Pinaamoy ng amonya si Tinay hanggang magkamalay. Pinainom ng tubig.) Tinay: Saan ako naroroon? Anong nangyari? Ang anak ko, nasaan siya? Emily! Anak, Emily! Padre Alex: Huminahon kayo, Ginang. Narito sa tabi ko ang anak ninyo. (Lumapit si Emily at niyakap ang ina.) Tinay: Emily, anak ko. Ikaw na lang ang tangi kong kaligayahan, at kung may mangyayari sa iyo ay di ko na alam ang gagawin ko. (Tumingin kay Padre Alex) Padre, tulungan ninyo po kami. Padre Alex: Oo anak. Ano ba ang maitutulong ko? Tinay: Padre, ako po’y nasa kawalan. Marami akong katanungang di ko maihanap ng tugon, mga suliranin na walang kalutasan, Pagod na ako, hindi ko alam kung saan hahantong ito. Padre Alex: tanging Siya lang ang makapagbibigay sa atin ng katugunan at kalutasan sa lahat ng ating mga bagabag. Lumapit ka sa kanya, anak. Tinay: Padre, walang oras na di ako tumatawag sa kanya pero… wala, Madalas na nga po akong pinanghihinaan ng loob, at tuloy nawawalan ng pag-asa. Padre Alex: Huwag anak, Walang panalanging hindi niya tinugon. Magtiwala ka sa kanya nang buong loob at hintayin ang kanyang takdang panahon. Tinay: Di ko na kaya. Ayoko na… ayoko na. Padre Alex: ang lahat ng iyan ay pawing pagsubok lang sa iyong katatagan. Huwag kang bibitiw sa kanya, anak. (Kay Juan) Este, Juan, madilim na isara mo ang pinto. Juan: Opo Padre. Tinay: Nalilito ako, Padre, Nasaan siya? Sa kabila ng aking pagsusumamo, patuloy siyang nananahimik. Padre: Ano ba talaga ang bumabagabag sa iyo? Saan kayo pupunta ng anak mo? Tinay: Hindi ko alam, kung saan kami ngayon magpapalipas ng gabi. Emily: Nay, uwi na tayo. Tinay: Emily, anak di pa natin natatagpuan ang tatay mo. Emily: Uuwi rin yon, Sa atin na lang natin siya hintayin. Di ba sabi niya maghahanap siya ng maraming pera? Padre Alex: Nasaan ba ang tatay mo. Iha? Tinay: Ang totoo po nito, Padre nagpaalam sa amin ang aking asawa na makikipagsapalaran dito sa lungsod upang mabigyan kami ng masaganang buhay. Ipinabili ang ilang ari-arian naming. Minsan lang siyang sumulat at buhat noon ay wala na kaming nabalitaan. May isang buwan na po halos at nagbabakasakali po akong matagpuan siya, hihikayatin ko siya na sa probinsya nalang
-
-kami manirahan at doon magsama-sama sa hirap at ginhawa. Emily: Nanay umuwi na tayo sa atin, Ayoko rito sa Maynila. Tinay: Oo anak, paglipas ng dilim, bukas. Emily: Saan po tayo matutulog? Padre Alex: Nene, dito na kayo titira ng nanay mo. Ayaw mo ba rito, malaki bahay ninyo? Emily: Salamat po, Padre, pero ayoko. Di po Masaya rito at isa pa magulo at maingay rito. Sa aming probinsya ay tahimik at lahat ay magkakaibigan at nagtutulungan. Padre Alex: O sige, dito na muna kayo magpalipas ng gabi. Madilim sa labas at mahirap maglakbay. Juan, o, ano ba, tapos ka nab a? parine na at nang makakain at makapagpahinga na itong mag-ina. (May maririnig na pagtatalo sa may pintuan) Juan: Opo, Padre, sandal lang po. Minyong:Pakiusap lang, payagan mo na ako sa loob ng simbahan magpalipas ng gabi. Juan: Hindi po, pwede mamang ano Minyong:Wala akong matutuluyan, Ayoko na sa labas, madilim. Pagod na pagod na ako. Juan: Nauunawaan ko po kayo, ngunit pinangangalagaan po naming ang tahanan ng Diyos. Minyong:Kung ganon, bigyan mo ako ng kahit kaunting saglit na makiniig ang Diyos. Di ko na yata kaya. Siya lang ang makakatulong nang lubusan sa akin. (Lalapit si Padre Alex kasunod ang mag-ina) Padre Alex: O, bakit ba di ka na nakabalik, Juan? Juan: Kasi po Padre may tao rito na pilit na nakikiusap na makituloy. Wala po raw siyang uuwian. (Nalugmok na si Minyong sa tindi ng pagod at gutom) Ay! Padre, dali Tulungan ninyo ako. (Nagtulong si Juan at Padre Alex na maihiga nang maayos si Minyong, sa lalapit ang magina) Tinay: (Nagitla)M-M-Minyong! Si Minyong nga! Emily, ang tatay mo! Emily: Oo nga! Tatay! Tatay! Saan ka nanggaling? Lagi ka naming hinahanap ng Nanay. Tinay: (lumuhod at iniangat ang ulo, pinatong sa dibdib) Minyong ano ang nangyari sa iyo? Minyong:Tinay, Emily, anak ko. Salamat at nagkita pa tayo, akala ko’y din a tayo muling magkakasama. Kay pait na karanasan! (Niyakap ang mag-ina) Tinay: (Kay Padre Alex) Padre, totoo nga po na magtiwala lang tayo at maghintay ng kanyang itinakdang panahaon. (Tumingin sa itaas) Salamat, Diyos ko! Salamat sa Inyo. Pangioon. Tunay na walang hanggang ang Inyong awa. Padre Alex: O siya tayo na sa loob. Bukas pagliwanag ay lumakad na kayo. (Magkakaabay ang mag-anak na lumakad)
-
-DAPIT HAPON: DULANG MAY KAUKULANG HABA NI JAYSON ARVENE T. MONDRAGON Tauhan MAMA CLAIRE Zemaia Sen Millo – Paulino
-
-Landlady, matandang dalaga, retired teacher na nagmamay-ari ng isang apartment compound FROILAN Clarence Serquenia Propesor sa isang unibersidad, dalawang taon pa lamang na guma-graduate, isa sa mga tenants ni Ms. Reyes MAI Cherile Ross Santos Kapatid ni Froilan sa ama at kasama sa unit na inuokupahan, isang graduating university student, lalaking gumalaw at manamit, maikli ang buhok, mahilig sa online games KRISTOFF Kevin Davidson Adviento Pamangkin ni Mama Claire at kaibigan ni Mai, college graduate na pero walang trabaho. Kasamang tumatambay ni Mai sa computer shop, may katamaran RAUL Jayson Arvene Mondragon Caretaker ng compound, high school graduate, laging nakasimangot at mainit ang ulo MIKO Mark Bryan De Gracia Isa sa mga tenant, apat na taon na sa kolehiyo pero wala pa ring patutunguhan, mahilig uminom, magsugal at maglakwatsa CHRISTINE Naiomi Justereen Bangad Isa sa mga tenant, girlfriend ni Miko, graduating with honors na sana pero hindi pumapasok dahil sa buntis, matalino pero nagpapa-uto kay Miko MIRANDA Nicole Anne Aquino Graduating student, studious at laging may hawak na libro, laging nagko-quote nang kung anuanong kapag nagsasalita, movie and tv show buff, astang matalino sa lahat ng oras, kaibigan ni Christine, kaklase ni Mai DJ JAM DJ sa radio (Voice Over) UNANG YUGTO
-
-UNANG TAGPO
-
-| OPEN LIGHTS |
-
-Papasok si MAMA CLAIRE na may dalang tasa ng kape at saka supot nang pandesal. Sa isang kamay ay may hawak siyang isang na notebook at ballpen. Mapapatingin siya sa paligid at mapapangiti. Isang buntong hininga ang kanyang pakakawalan bago uupo sa isang lamesang may lamang radio sa gilid. Isisindi niya iyon at maririnig ang boses ng DJ sa estasyon ng radio.
-
-DJ (VOICE OVER)
-
-Good morning, good morning, good morning Metro Manila! This is DJ Jam and I will be with you until the hour of 8. Gising na ba kayo? Aba, aba, aba! Galaw-galaw na mga friendship! It’s the 20th of March at dahil fly-day na, konting tiis na lang at weekend na naman mga friendship Lalo na sa mga nangangamoy toga diyan. Aba bangon na oy at baka mabulilyaso pa ang pagmartsa ninyo. Konting palo na lang kaya go na ng go! At para gisingin ang natutulog niyong katawang lupa, here’s Vhong Navarro with Totoy Bibo.
-
-Pahihinaan ni Mama Claire nang konti ang radio.
-
-Papasok si MIKO na nakapambahay at magulo ang buhok, nakasimangot at halata ang inis. Nakasunod sa kanya si CHRISTINE na may kabagalan ang paglalakad dahil sa ipinagbubuntis. Mapapatingin lang sa kanila si Mama Claire, patuloy na nagkakape. Hindi siya agad mapapansin ng dalawa. CHRISTINE May balak ka bang magtino? MIKO Pwede ba, ang aga-aga, nagbubunganga ka na naman! Daig mo pa ang nanay ko eh. CHRISTINE Bakit? Masama na ba ang magtanong? Dalawang buwan na lang, manganganak na ako, Miko, pero hanggang ngayon, wala ka pa ring ibang inatupag kundi ang pag-inom at pagsusugal mo. MIKO Ano bang pakialam mo? Pera mo ba ang ginagamit ko? Hindi naman di ba?Bakit ka ba nakikialam?Asawa ba kita? CHRISTINE Ah ganun? Okay fine! Bahala ka na sa buhay mo! MIKO
-
-Bahala? Talaga lang ha? Ang sabihin mo, magsusumbong ka na naman kay mama para ikaw na naman ang kampihan niya. Sasabihin mo na namang inaapi kita. CHRISTINE Ano sanang mali dun? Dapat lang na malaman niya kung anong pinaggagagawa ng magaling niyang anak! Magiging tatay ka na, Miko! Pero hanggang ngayon, sarili mo lang ang iniisip mo. MIKO
-
-Bakit? Ginusto ko ba? Papasok si RAULna may dalang timba. RAUL Hoy! Ang aga-aga ang iingay ninyo. Mahiya naman kayo sa ibang tenants! Hindi ninyo pag-aari ang buong compound kaya huwag kayong nambubulahaw. MAMA CLAIRE
-
-Hindi naman kaya ikaw ang nambubulahaw sa ibang tenants sa lagay na iyan, Raul? Dinig hanggang sakabilang kanto iyang boses mo. Baka gusto mong hinaan ng konti. Mapapahiyang aalis si Raul.Parehong mag-iiwas ng tingin sina Christine at Miko, halatang napahiya. MAMA CLAIRE
-
-Hindi ako manghihimasok sa problema ninyong dalawa pero kung mag-aaway kayo, baka gusto niyong gawing pribado. Huwag niyong i-broadcast sa buong compound and problema ninyo sa tuwing nag-aaway kayo. CHRISTINE
-
-Pasensiya na po, Mama Claire. Aalis si Miko. Susundan lang ito nang tingin nina Mama Claire at Christine. Mabagal na susundan lang ni Christine nang lakad si Miko. MAMA CLAIRE
-
-Nag-oversees callang mama mo kahapon, kinukumusta ka.
-
-CHRISTINE
-
-Tatawagan ko na lang po siya mamaya. Titignan lang ni Mama Claire si Christine. MAMA CLAIRE
-
-Hindi kita pangungunahan sa mga desisyon mo, Christine, pero hindi din kita kukunsintihin. Matalino ka naman sa tingin ko. CHRISTINE
-
-Mama Claire… MAMA CLAIRE
-
-Wala akong sinabing kahit ano.Pero kapag nagsimula siyang magtanong, huwag mong asahang magsisinungaling ako.Desisyon mo iyan. Pero kung ako sa iyo, sasabihin ko na ang totoo. Tatayo si Mama Claire dala ang tasa, notebook at ballpen at saka aalis. Maiiwang nakatayo lang doon si Christine. Maya-maya ay ito naman ang aalis. Makakasalubong niya si FROILAN, bihis na bihis. Mapapatingin lang sa kanya si Froilan at mapapailing.
-
-Papasok si KRISTOFF at MAI, masayang nag-uusap. Agad na magsasalubong ang kilay ni Froilan. KRISTOFF
-
-Anak ng putik! Akala mo kung sino silang magagaling, wala naman palang binatbat! MAI
-
-Kaya nga eh.Ang yabang-yabang pa nila noong simula. Hindi naman pala kaya kapag one on one na ang laban. May pa-clan-clan pa silang nalalaman, wala namang silbi. FROILAN
-
-Umuwi ka pa! Parehong mapapatingin sina Kristoff at Mai kay Froilan. Makikita ang pagkapahiya sa mukha ni Kristoff. KRISTOFF
-
-Brad, una na ako. Kita na lang tayo mamaya. Aalis si Kristoff. Malalampasan niya si Froilan na nakatingin lang sa kanya nang masama pero mag-iiwas siya ng tingin. MAI
-
-Ang aga-aga, may regla ka na naman. FROILAN
-
-Iyon na nga eh, umaga na, tapos ngayon ka lang uuwi? Kababae mong tao pero daig mo pa ang tambay na kung saan-saan sumusuot? Saan ka na naman nanggaling? MAI
-
-Oo nga naman! Bakit ba kasi ako inumaga? Hindi ko ba alam na nag-aalala ka? Hindi ko man lang ba naisip na hindi ka nakatulog sa kakaisip sa akin? Ang tanda-tanda ko na pero hanggang ngayon, wala pa rin akong kunsepto ng responsibilidad? Ano ba namang klaseng buhay kasi ang gusto ko?
-
-Maging tambay habang buhay? Hindi makakasagot agad si Froilan. Mapapatingin lang ito sa kapatid. MAI
-
-Oh ayan, okay na? Sinermunan ko na sarili ko para hindi ka na magpagod. Pero kung gusto mong ulitin, okay din lang. Pero pwede bang pakibago naman nang konti? Apat na taon ko nang naririnig yan sayo eh. Baka gusto mo namang magbago ng linya, kuya? FROILAN
-
-At talagang may gana ka pang magsalita nang ganyan? MAI
-
-Iyan ba ang natutunan ko sa school? Iyan ba ang itinuturo sa akin ng mga teacher ko? Aba, kung iyan din lang eh di huwag na lang akong mag-aral! Sinasayang ko lang ang ginagastos mong pambayad sa matrikula at allowance ko. FROILAN
-
-Mai, namumuro ka na. Bakit hindi ka na naman umuwi? MAI
-
-Ay bakit? Hindi pa nag-overnight iyong boyfriend mo? Nakakahiya naman kasi sa kanya na dahil sa akin, wala ka nang oras para sa kanya. Pati pera mo, sa akin nauubos. Ano na nga ba tanong niya sayo kagabi? Kung kailan ba ga-graduate ang pabigat mong kapatid na anak sa labas? Hindi agad makakapagsalita si Froilan. FROILAN
-
-Mai, hindi naman ganun — MAI
-
-Huwag mo na siyang ipagtanggol, kuya. Wala din naman akong pakialam sa sinasabi niya. Sabi nga nila, ang magnanakaw, galit sa kapwa magnanakaw. Pareho lang naman kaming pabigat sa iyo. FROILAN
-
-Mai… MAI
-
-Magbibihis na ako. Huwag mo na akong hintayin at baka ma-late ka sa klase mo. Mahirap na, baka pati mga estudyante mo, sa akin isisi ang pagbagsak nila. Baka mamaya, pati gyera sa Seria, sa akin na din isisi. Iiwan ni Mai si Froilan na nailing lang na nakasunod ng tingin sa kapatid. Isang buntong-hininga muna ang pakakawalan ni Froilan bago susundan ito.
-
-Makakasalubong niya si MIRANDA na may kausap sa cellphone.
-
-Papasok si Mama Claire na hawak pa rin ang notebook, ballpen, at tasa nang kape sa kalagitnaan nang pakikipag-usap ni Miranda sa cellphone. Babalik siya sa kinauupuan at nakatingin lamang kay Miranda. Hindi siya mapapansin ni Miranda na abala sa paglilitanya sa kausap sa cellphone. MIRANDA
-
-And what do you want me to do? Masyado ka naman atang cliché kung inaasahan mong gagawin
-
-kong mag-isa ang thesis natin? Uunahin mo pa talaga ang pagpunta ng Baguio kasama ang boyfriend mo?Ano yan? Pupunta kayo ng La Presa at hahanapin ang forever? Walang forever ate, at malapit na ding matapos ang shooting ng Forevermore! Asa ka pa! Hoy, baka gusto mong tigilan ang pagpapaniwala kay Marcelo Santos! Imbes na iyong kabaduyan niya ang pinagbababasa mo habang nakikipag-PBB teens diyan sa boyfriend mo, baka gusto mong gawin iyong parte mo sa thesis natin! Hello? Hello? Hoy Feliza! Hello? Mapapatingin si Miranda sa cellphone.
-
-MIRANDA
-
-Anak nang putcha naman oh! At ikaw pa talaga ang may ganang pagbabaan ako ng telepono? Magbe-break din kayo ng boyfriend mo! Mamatay ka na! Letse! Inis na lalabas si Miranda. Naiiling na susundan lang ng tingin ni Mama Claire si Miranda. MAMA CLAIRE
-
-Aanhin mo pa ang kape kung wala pang alas-siyete, ganyan na ang bubungad sayo? Kabataan nga naman ngayon. Muling bubuksan ni Mama Claire ang radio.
-
-Bubuksan ni Mama Claire ang notebook at saka magsisimulang magsulat.
-
-| CLOSE LIGHTS |
-
-PANGALAWANG TAGPO | OPEN LIGHTS |
-
-Nakaupo si Kristoff sa may lamesa, bihis na bihis, abala sa paglalaro sa cellphone. Papasok si Raul na may dalang walis at magsisimulang magwalis. Sinasadya niyang sa direksiyon ni Kristoff ipunta ang alikabok.
-
-Mapapatingin sa kanya si Kristoff. KRISTOFF
-
-Kuya, baka gusto mong kunin na lang iyong basurahan at itapon mo sa akin lahat ng basurang laman? RAUL
-
-Nandiyan ka pala. Pasensiya na, hindi ko napansin. Sa dalas mo kasing naka-upo diyan, akala ko parte ka na ng sala. KRISTOFF
-
-In fairness, Kuya Raul, marunong ka nang bumanat ngayon ah.Teka, nasaan si Mama Claire? RAUL
-
-Namalengke.Baka daw kasi magutom ka at mangayayat. Nakakahiya naman daw kasi sa iyo kung
-
-wala kang makitang pagkain sa kusina kapag nagutom ka. Nakakapagod pa man din ang pag-upo at paghilata maghapon. KRISTOFF
-
-Weh, di nga?Sinabi niya yan? RAUL
-
-May pagkamanhid din naman ang batang to. KRISTOFF
-
-Ano yun? RAUL
-
-Wala. Ang sabi ko, may naluto nang tanghalian sa kusina, baka gutom ka na. KRISTOFF
-
-Alas-diyes pa lang naman, Mamaya na ako kakain. RAUL
-
-Manhid nga talaga. KRISTOFF
-
-Hoy, Kuya Raul! Anong ibinubulong-bulong mo diyan?
-
-RAUL
-
-Kinakausap ko ang kaluluwa nang mga magulang mo. Bakit? May gusto kang ipasabi? KRISTOFF
-
-Oy, kuya! Wala namang ganyanan! RAUL
-
-Kalalaki mong tao, takot ka sa multo? Teka nga lang, akala ko ba may interview ka ngayon? Ano pang ginagawa mo dito? KRISTOFF
-
-Eh lumabas na ako kanina. Kaso ang init tapos traffic pa. Hindi din lang naman ako aabot kaya hindi na ako tumuloy. Nagpa-re-schedule na lang ako.
-
-RAUL
-
-Okay ka din eh. Ikaw ba eh may balak pa talagang maghanap ng trabaho? KRISTOFF
-
-Oo naman kuya. Ayoko namang maging palamunin na lang ni Mama Claire habang-buhay. Hinihintay ko lang iyong right time. Parang pagmamahal lang iyan, Kuya Raul, kailangan ng tamang timing. RAUL
-
-Ang tagal naman ata ng timing na yan. Dalawang taon ka nang graduate.Baka naman abutin pa yan ng sampu? KRISTOFF
-
-Relax, Kuya Raul, relax! Basta! Darating din tayo diyan. Tiwala lang. RAUL
-
-Ikaw na bata ka, umayos-ayos ka. Tumatanda na ang tiyahin mo. Baka gusto mo man lang siyang mailibre minsan gamit ang sarili mong sweldo bago siya malagutan ng hininga. KRISTOFF
-
-Sus! Ginamit mo pa si Mama Claire eh gusto mo lang magpalibre. Don’t worry Kuya Raul, kapag ako nagkatrabaho, ililibre kita ng trip to Disneyland. Pati pang-shopping sagot ko. RAUL
-
-Tarantado. Ako pa ang uutuin mo. Umalis ka na nga diyan. Kung wala ka din lang balak umalis, doon ka na lang sa kwarto mo tumambay at nang makapaglinis na ako. Pakalat-kalat ka lang naman eh. Buti sana kung pwede kang ibenta sa magdidiyaryo o magbubote. KRISTOFF
-
-Minsan kuya, masakit ka ding magsalita. RAUL
-
-Hoy, Kristoff, huwag mo akong dramahan. Hindi uubra sa akin yan. Nakita kitang lumaki kaya kilala ko ang likaw ng bituka mo. Kung ayaw mong nasasabihan, maghanap ka ng trabaho at magkasilbi. Naku, kung ako lang ang naka-graduate, maayos na sana ang buhay ko ngayon. KRISTOFF
-
-Lalim nang hugot kuya ha.Pang-MMK, Kuya Raul. Matutuwa sa iyo si Charo Santos niyan. RAUL
-
-Tarantado! Umalis ka na nga at nang matapos ko na ang paglilinis ko! KRISTOFF
-
-Oo na! Kita mo to, high blood agad. Kapag hinanap ako ni Mama Claire, nasa kwarto lang ako. RAUL
-
-Alam na niya yun. Saan ka pa ba niya hahapin di ba? KRISTOFF
-
-Sa kusina. Pwede din namang sa banyo. Malay mo naman, kuya, may conference call pala kami ni Inang Kalikasan. RAUL
-
-Eh kung hinahambalos kaya kita ng walis? KRISTOFF
-
-Child abuse yan, Kuya Raul. Kakasuhan kita. RAUL
-
-Aalis ka ba o murder ang gusto mong maging kaso ko? KRISTOFF
-
-Sabi ko nga, aalis na ako. Relax, Kuya Raul, huwag masyadong high blood. Tatanda ka ng maaga niyan. Dadambaan ng walis ni Raul si Kristoff pero tumatawang iilag ito at aalis. Ipagpapatuloy ni Raul ang paglilinis. Magkasabay na papasok sina Miranda at Kristine. Mapapatingin panandalian sa kanila si Raul pero ipagpapatuloy pa rin nito ang paglilinis. MIRANDA
-
-Hindi ka man lang ba sasamahan ng magaling mong boyfriend? CHRISTINE
-
-Pwede bang huwag na lang natin siyang pag-usapan? MIRANDA
-
-Ano to, He-Who-Must-Not-Be-Named lang? Aba ate, baka nakakalimutan niyang siya ang tatay ng anak mo. Baka naman gusto niyang tubuan nang kahit na isang pirasong bayag paminsanminsan at samahan ka niya sa check-up mo. Wala na nga siyang iniaabot sa iyo na kahit na singko, samahan ka lang hindi pa niya magawa. Ano yan, pagkatapos niyang magpakasarap, wala na. Bakit?Tissue ka ba?Pagkatapos gamitin, tapon agad?
-
-CHRISTINE
-
-Ang dami mo nang sinabi. Aling parte ba nang huwag na nating pag-usapan ang hindi mo naintindihan? MIRANDA
-
-Eh nakakainit siya ng ulo eh. CHRISTINE
-
-Hayaan mo na. Alangan namang pilitin ko ang ayaw, di ba? Titignan ni Miranda si Christine mula ulo hanggang paa, nailing. MIRANDA
-
-Alam mo, maganda ka naman, hindi ka naman bobo kung grades mo sa unibersidad ang pagbabasehan. Pero noon bumaha ng katangahan sa mundo, nauna ka na sa pila, may dala ka pang salbabida. Outing lang? Nag-swim suit ka na rin sana. CHRISTINE
-
-At ano naman ang gusto mo, ate, malunod ako? MIRANDA
-
-Hindi pa ba? Papasok si Mai, nakabihis at may dalang libro. MAI
-
-(Kay Miranda) Papasok ka ba? MIRANDA Hindi na muna. Hindi pa namin natatapos thesis namin dahil sa letseng Feliza na yun eh. Sesermunan lang na naman ako ni Dragonesa kaya huwag na lang. CHRISTINE
-
-Hindi niyo pa tapos? Patapos na ang sem ah. Wala ka bang balak mag-graduate? MIRANDA
-
-Meron! Hello? Gusto mong isumpa ako ng buong angkan namin? Bumagsak nga lang ako sa quiz eh akala mo nakapatay na ako ng tao kung makagalit ang nanay ko, iyang ma-delay pa kaya ang graduation ko. MAI
-
-Bakit kasi si Feliza mo ang kinuha mong partner?Alam mo naman pakong walang talim iyon.Kahit pukpukin mo, wala pa ring mangyayari. Talagang made-delay kayo kung aasahan mo pa siya. MIRANDA
-
-Choice ko? Eh si Dragonesa ang nagsabi na magsama kami. Alangan namang humindi ako.Kung bakit naman kasi na-delay ang utak ng isa diyan at hinayaang ma-delay ang regla niya ng nine months. Eh di siya sana ang partner ko. CHRISTINE
-
-Ako pa talaga ang sinisi mo. MAI (Kay Christine) Ikaw ba, wala nang balak pumasok? CHRISTINE
-
-Wala pa akong wedding certificate na ipapakita. Hindi din lang nila ako papayagang pumasok. MAI
-
-Goodluck na lang sa inyong dalawa.
-
-(Kay Miranda) Nasaan na naman ba si Feliza? Kahit sa iba naming subject, hindi siya pumapasok. MIRANDA
-
-Nandoon sa La Presa, naghahanap ng kambal na strawberry kasama ang boyfriend niya. CHRISTINE
-
-Kambal na anak, gusto niya? Hindi ba siya nag-iisip? MIRANDA
-
-Nagsalita ang babaeng hindi nadala sa kambal na lumpia. Bakit?Ikaw ba nag-isip? Si Feliza, alam na nating mahina ang tuktok, eh ikaw?
-
-MAI
-
-Huwag ka namang harsh. May mga tao lang talagang marupok. CHRISTINE
-
-Oo nga naman. MIRANDA
-
-Nagkampihan pa kayo! MAI
-
-Hindi naman, nagpapaliwanag lang. Mapapatingin sa relo si Mai. MAI Oy, mauna na ako. Male-late na ako. MIRANDA
-
-Ingat! Kapag nagtanong si Dragonesa, sabihin mo may trangkaso ako. Hindi naman nalalayo sa katotohanan eh. Pakiramdam ko, lalagnatin na talaga ako sa stress! What is wrong with the world, mama! MAI
-
-Oo na.
-
-Aalis si Mai. Akmang lalabas na din si Christine pero pipigilan siya ni Miranda. MIRANDA At saan ka pupunta, aber? CHRISTINE
-
-Magpapa-check-up nga ako di ba? MIRANDA
-
-Sa tingin mo naman, papayagan kitang umalis mag-isa? Hintayin mo na ako, magpapalit lang ako. Akmang uupo si Christine.
-
-MIRANDA
-
-Baka naman gusto mong sa kwarto na maghintay. CHRISTINE
-
-Paglalakarin mo pa talaga ako? MIRANDA
-
-Ikaw na itong sasamahan, magrereklamo ka pa? Saka isa pa, kailangan mo ng exercise. Aalis si Christine at Miranda. Mapapasunod lang ng tingin si Raul, nailing. RAUL
-
-Salamat naman at umalis din. Papasok si Miko, nakapambahay lang. Hawak niya ang pitaka na walang laman. MIKO
-
-Putakte naman oh! Kuya, nakita mo ba si Christine? RAUL
-
-Nasa kwarto yata ni Miranda. Bakit? MIKO
-
-Eh bwisit ang babaeng yun eh. Kinuha lahat ng pera sa pitaka ko. Muntik na akong mabugbog sa jeep kanina dahil wala akong pamasahe. Aalis si Miko at maiiwan si Raul.
-
-Maririnig ang tili ni Miranda. Mapapatingin sa direksiyon nila si Raul. MIRANDA (VOICE OVER)
-
-Punyeta naman Miko! Baka gusto mong kumatok bago ka pumasok? MIKO (VOICE OVER)
-
-Sinong nagsabi sayo na pwede mong pakialaman ang wallet ko? Alam mo bang muntikan na akong mabugbog sa jeep kanina? Tanga ka ba?
-
-Papasok si Christine na hindi umiimik, naiiyak. Nakasunod sa kanya si Miko. MIKO
-
-Hoy, babae! Kinakausap kita! Titigil sa paglalakad si Christine at kukunin ang wallet. Kukuha siya ng pera doon at saka ibabato kay Miko. CHRISTINE
-
-Isaksak mo sa baga mo! Lalabas si Christine. MIKO
-
-Christine! Nagmumurang pupulutin ni Miko ang pera sa sahig.
-
-Papasok si Miranda, inaayos ang suot na t-shirt at sadyang bubungguin si Miko. MIRANDA
-
-Kuya Raul naman! Huwag niyo namang hayaang nakabalandra ang mga basura dito. Paano na lang kung hindi makita ni Christine at matalisod siya. Buntis pa man din siya.Pakitapon naman please. RAUL
-
-Dinamay niyo pa talaga ako?
-
-Aalis si Miranda. Susundan lang siya ng masamang tingin ni Miko.
-
-RAUL
-
-Hindi naman sa nakikialam ako, Miko, pero sana tinanong mo muna kung bakit niya kinuha ang pera mo. Sa pagkakadinig ko, check-up niya ngayon. Baka naman kulang lang talaga ang pera niya. Kilala mo ang girlfriend mo, hanggat kaya niyang mag-isa, hindi siya aasa sayo. Iiwanan ni Raul si Miko na nakaupo pa rin sa sahig, hawak ang perang pinulot. MIKO Iyon na nga eh. Mapapatingin sa direksiyon ng nilabasan nina Christine si Miko, tipong nag-iisip. Tatayo si Miko at maglalakad patungo sa direksiyon na nilabasan nina Miranda at Christine.
-
-Pagkalapit sa pintuan ay agad din siyang liliko at saka maglalakad patungo sa kabilang direksiyon. Masasalubong niya si Mama Claire. MAMA CLAIRE
-
-Akala ko ba, check up ni Christine ngayon? Hindi pa ba kayo umaalis? MIKO
-
-Umalis na po siya, ma… MAMA CLAIRE
-
-Bakit hindi mo sinamahan? Diyosme naman itong batang to oh. Huwag mong sabihin na mag-isa siyang nagpunta ng ospital? MIKO
-
-Kasama po niya si Miranda. Titignan ng matagal ni Mama Claire ang nakayukong si Miko. MAMA CLAIRE
-
-Ikaw ang ama noong bata, Miko.Dapat, ikaw ang sumama. Hindi iimik si Miko. Mapapailing lang si Mama Claire. MAMA CLAIRE
-
-Alam kong hindi ka pa handa, anak. Pero wala ka nang magagawa. Nandiyan na yan. Ngayon ka pa ba tatakbo kung kailan may umaasa na sayo? MIKO
-
-Mabuti ngasana kung ganun, ma. Kaso hindi. MAMA CLAIRE
-
-Miko… MIKO
-
-Ano ba kasi ang gusto niyang mangyari? Iyong biglaan na lang maging ibang tao ako? Ni hindi nga niya sinabi sa akin na check-up pala niya ngayon. Wala siyang sinasabi sa akin na kahit ano.
-
-Maya’t maya, nagagalit. Tapos kung tatanungin mo kung bakit, hindi naman sasagot. Alam ko namang gago ako, ma. Pero pinipilit ko namang magbago.Hindi naman iyon ganoon kadali. Mapapabunting-hininga si Mama Claire. MAMA CLAIRE
-
-Mag-usap kayo, anak… MIKO
-
-Para ano pa? Hindi naman magbabago ang tingin niya sa akin, di ba? Kahit ano naman ang gawin ko, ako pa rin ang masama.Wala naman siyang ibang nakikita kundi yun eh.Alam ko naman na ako ang sinisisi niya, na ako ang sumira sa buhay niya. Iyon lang naman ang tingin niya sa akin eh. Hindi iimik si Mama Claire. MIKO
-
-Pinipilit ko naman eh. Hindi ko naman kayang magbago sa loob ng isang gabi lang. MAMA CLAIRE
-
-Naiintindihan mo ba na hindi din niya kayang hintayin ka nang matagal? Magkaka-anak na kayo, Miko. At kung nahihirapan ka sa hinihingi ng kalagayan niyo, paano na lang siya? Pareho lang kayong nahihirapan. Ngayon ka pa ba susuko? Ngayon mo pa ba siya iiwanan kung kailan ka niya pinakakailangan? | CLOSE LIGHTS |
-
-PANGATLONG TAGPO | OPEN LIGHTS |
-
-Papasok si Froilan, may mga dalang libro at madaming papel, pagod na pagod. May kausap siya sa cellphone.
-
-FROILAN
-
-Pwede bang bukas na lang natin pag-usapan? Kauuwi ko pa lang nang bahay dahil ang daming dapat tapusin sa school. Gusto ko lang sanang magpahinga muna. Makikinig panandalian si Froilan sa kausap sa cellphone. FROILAN
-
-Intindihin mo naman ako. Alam mo naman na hindi pa ako pwedeng mag-resign hanggat hindi pa nakaka-graduate si Mai. Sinabi ko naman di ba? Makapagtapos lang siya, magre-resign na ako at samama sayo. Konting panahon na lang. Muling pakikinggan ni Froilan ang kausap sa cellphone. FROILAN
-
-Pinapipili mo ako? Talagang paabutin mo sa ganito? Hindi na tayo bata na —Mabibitawan ni Froilan ang dala-dala. FROILAN Okay. Desisyon mo yan.Hindi naman kita mapipigilan di ba? Papatayin ni Froilan ang cellphone at ibubulsa iyon. Titignan niya ang mga gamit na nahulog.
-
-Pupulutin niya ang isa sa mga iyon at titignan. Ibabato niya ang libro at saka sisipain ang ilan pang
-
-nandoon, hindi umiimik.
-
-Mapapaluhod siya panandalian, nakatingin lang sa kawalan.
-
-Papasok si Kristoff pero agad ding matitigil pagkakita kay Froilan.
-
-Tatayo si Froilan at aalis, iiwanan ang mag gamit sa sahig. Susundan lang siya ng tingin ni Kristoff.
-
-Maya-maya ay pupulutin ni Kristoff ang mga gamit at saka aayusing ilalagay sa lamesa. Papasok si Mama Claire, may hawak na papel sa isang kamay. Agad niya itong itatago sa likod pagkakita kay Kristoff. MAMA CLAIRE
-
-Kanino yan? KRISTOFF
-
-Kay Kuya Froilan, ma. MAMA CLAIRE
-
-Bakit hindi mo pa dalhin sa kwarto niya? KRISTOFF
-
-Mukhang galit sa mundo eh. Kararating niyo lang po ba?
-
-MAMA CLAIRE
-
-Medyo.Ipagtimpla mo nga ako ng kape. KRISTOFF
-
-Kape na naman? Gabi na, ma. Tapos magrereklamo kayo na hindi kayo makatulog? Gatas na lang para lalo pa kayong kuminis at bumata. MAMA CLAIRE
-
-Pati pa ba naman ako eh bobolahin mong bata ka? KRISTOFF
-
-Ma, hindi pambobola iyon. Basta diyan lang kayo, kukuha lang ako ng gatas. Aalis si Kristoff. Mauupo sa tabi ng lamesa kung saan nakapatong ang mga gamit ni Froilan. Titignan niya ang papel na hawak at saka mapapabuntong-hininga.
-
-Mapapatingin siya sa paligid at saka muling babalik ang tingin sa papel na hawak.
-
-Papasok si Kristoff na may dalang baso ng gatas. Pasimpleng ihahalo ni Mama Claire ang papel sa gamit ni Froilan bago aabutin ang gatas.
-
-KRISTOFF
-
-O ayan, fresh na fresh mula sa do-do ng cow. MAMA CLAIRE
-
-Bastos ka ring bata ka eh. KRISTOFF
-
-Hala! Inosente kaya ako? Ikaw ma ha, you’re polluting my innocent mind. MAMA CLAIRE
-
-Inosente ka diyan. Sus! Di ko lang alam, may apo na pala ako sa kung saan-saan. KRISTOFF
-
-Ma, naman! Ano namang tingin ninyo sa akin? Easy to get?Binatang Pilipino kaya ako. MAMA CLAIRE
-
-Luko-luko! Saang kanto mo na naman ba pinagpupulot iyang pinagsasabi mo? Ikaw nga eh maghanap na ng trabaho at nang hindi ganyang kung anu-ano ang pumapasok sa utak mo. KRISTOFF
-
-Bakit ma? Pinapalayas na ba ninyo ako? Nagsasawa na ba kayo sa gwapong pagmumukha ko? MAMA CLAIRE
-
-Tignan mo ‘tong batang to. Ang akin lang, matanda ka na. Hindi naman sa lahat nang
-
-pagkakataon eh kaya kitang suportahan. Tumatanda na ako, anak. Mabuti sana kung buhay pa ang mga magulang mo, hindi sana ako mag-aalala sa iyo. Eh paano na lang kapag wala na ako. KRISTOFF
-
-Ma naman! Don’t say bad words! Matagal pa tayong magsasama. Saka makikita niyo pa ang mga apo niyo sa tuhod. MAMA CLAIRE
-
-Kailan pa? KRISTOFF
-
-Ma naman! Mukhang pinapalayas na talaga ninyo ako eh. Siyempre naman, mag-iipon muna ako. MAMA CLAIRE
-
-Paano ka makakapag-ipon kung wala ka namang trabaho? KRISTOFF
-
-One step at a time, ma.Sabi nga nila, huwag mong bibiglain. Di ba nga, good things come to those who wait. MAMA CLAIRE
-
-Baka naman patay na ako, naghihintay ka pa rin. KRISTOFF
-
-Ayan ka na naman sa patay-patay mo eh. Mahihilo si Mama Claire at mapapasandal kay Kristoff.
-
-KRISTOFF
-
-Ma, huwag kang joke.Hindi to magandang biro. MAMA CLAIRE
-
-Napagod lang ako. KRISTOFF
-
-Saan na naman ba kasi kayo nanggaling? Huwag niyong sabihin na galing kayo sa date? Ay! Hindi ako papayag! Dapat ako lang ang lalaki sa buhay niyo. MAMA CLAIRE
-
-Puro ka kalokohan.Kailan ka pa magseseryoso? KRISTOFF
-
-I’m getting there, ma, kaya huwag kang mag-alala. Muling sasandal si Mama Claire kay Kristoff.
-
-KRISTOFF
-
-Sa kwarto niyo na lang kaya inumin yan? Tinatakot niyo na ako eh. Mahiga ka na kaya. MAMA CLAIRE
-
-Mabuti pa nga siguro. KRISTOFF
-
-Kasi naman, gala ng gala, akala mo teenager. MAMA CLAIRE
-
-Sinesermunan mo ba ako? KRISTOFF
-
-Hindi ah! Saka, kaya ko ba namang gawin iyon sayo? Tara, ihatid na kita sa kwarto mo. MAMA CLAIRE
-
-Huwag na, kaya ko na to. Magsara ka na lang ng pinto. KRISTOFF
-
-Sure ka? MAMA CLAIRE
-
-Oo naman. KRISTOFF
-
-Okay. Basta kung kailangan niyo ako, just call me and I’ll be there. MAMA CLAIRE
-
-Magsara ka na. Ang dami mo pang sinasabi. Hahalik si Kristoff sa pisngi ni Mama Claire.
-
-Aalis si Mama Claire at susundan lang ito ng tingin ni Kristoff, nakangiti.
-
-Papasok si Froilan, may hawak na papel at lalapitan si Kristoff, galit. FROILAN
-
-Nasaan si Mai? KRISTOFF
-
-Hindi pa kami nagkikita ngayong araw kuya. Papasok si Mai, may dalang supot ng pagkain. Parehong mapapatingin sina Froilan at Kristoff dito. MAI
-
-Anong meron?
-
-Akmang aalis si Kristoff pero pipigilan siya ni Froilan. FROILAN
-
-Ikaw, kung wala kang balak magtino, huwag mong idinadamay ang kapatid ko. Hindi porke’t patapon ang buhay mo, idadamay mo na din ang ibang tao dito. MAI
-
-Kuya! FROILAN
-
-Isa ka pa! Saan ka na naman galing? MAI (Kay Kristoff) ‘Toff, pwede bang iwanan mo muna kami? Tatango lang si Kristoff at saka aalis. MAI
-
-Ano bang problema mo? Okay lang naman sana kung ako lang eh, pero nandadamay ka pa nang ibang tao. FROILAN
-
-Totoo naman eh. Simula noong nagsasasama ka sa kanya, naging patapon na ang buhay mo. Ano ba kasing napapala mo diyan sa pagsamasama sa kanya? Wala naman siyang nagagawa para sayo ah.
-
-MAI
-
-Huwag mo akong igaya sayo na wala nang ibang inisip kundi iyong makukuha niya sa ibang tao. FROILAN
-
-Ako pa talaga ang pagsasalitaan mo ng ganyan? Ang kapal din naman yata ng mukha mo. Matapos kong magsakripisyo para sa iyo— MAI
-
-Please lang kuya, kung isusumbat mo lang sa akin lahat ng ginawa mo, huwag na lang. FROILAN
-
-Bakit hindi ba iyon ang totoo? MAI
-
-Alin?Na pabigat ako? Na dahil sa akin, hindi ka makasamasama sa boyfriend mong kampon ng demonyo? Akala mo ba hindi ko alam yun? Na kung hindi dahil sa akin, matagal na kayong nagsama. Di sana ngayon, ubos na lahat ng ipon mo dahil sa kawawaldas niya. Iyon naman ang dahilan eh kung bakit ang init ng dugo niya sa akin, di ba? Dahil feeling niya, dapat sa kanya ang pera na ibinibigay mo sa akin. Huwag kang tanga kuya. Alam naman nating pareho na pineperahan ka lang niya. FROILAN
-
-Huwag mo siyang husgahan dahil hindi mo siya kilala. Saka ano bang karapatan mong magsalita? Iyan din naman ang ginagawa mo sa akin ah. Di ba? Kaya ka lang naman tumira kasama ko para masuportahan kita? Tapos, magtino na nga lang sa pag-aaral ang hinihingi ko, hindi mo pa
-
-magawa. MAI
-
-Sinusumbatan mo ako? Papasok sina Christine at Miranda pero matitigil lang sa isang gilid. FROILAN
-
-Bakit?Wala ba akong karapatan? Hiniwalayan na niya ako Mai! Tapos, pagdating ko ng kwarto, force dropping slip ang makikita ko sa lamesa mo? Putang ina naman! Ikaw na nga inuuuna ko, ito pa ang igaganti mo? Mahiya ka naman nang konti! Itatapon ni Froilan sa mukha ni Mai ang form. Pupulutin lang iyon ni Mai. FROILAN
-
-Sinayang mo lang lahat ng sakripisyo ko para sayo! Pabigat ka na nga, wala ka pang ginawang tama! MAI
-
-Tapos ka na? Hindi iimik si Froilan. Pupulutin ni Mai ang form at saka lalapit kay Froilan. Ipapakita niyang muli ang form kay Froilan. MAI
-
-Kailan pa naging Miranda ang pangalan ko? Mabibitawan ni Miranda ang hawak na bag at agad na kukunin ang papel mula sa kamay ni Froilan at titignan iyon. Patakbo siyang aalis.
-
-Pupulutin ni Christine ang bag ni Miranda at saka susundan ito. Maiiwan sina Froilan at si Mai. Akmang aalis si Mai pero pipigilan ito ni Froilan.
-
-FROILAN
-
-Mai… MAI
-
-Pasensiya na, kuya. Hindi ko naman kasi alam na pabigat din pala ang tingin mo sa akin. FROILAN
-
-Mai… MAI
-
-Huwag kang mag-alala kuya. Kapag nakahanap ako ng trabaho, babayaran ko lahat nang nagastos mo sa akin. Pasensiya na, kuya. Hindi bale, ilang araw na lang naman, ga-graduate na ako. Kung pwede sanang tiisin mo na lang nang kahit konti pa. Ibabalik ko ultimo kahulihulihang sentimo na nagastos mo sa pagpapa-aral sa akin. Tatanggalin ni Mai ang pagkakahawak sa kanya ni Froilan at aalis. Maiiwang nakatulala doon si Froilan.
-
-Papasok si Miko, may kausap sa cellphone.
-
-MIKO
-
-Alam ko naman po, ma. Ano ba kasing gusto niyong gawin ko? Sabi ko namna titigil na muna ako para maghanap ng trabaho pero ayaw niyo. Tapos ngayon, isisingil niyo lahat sa akin? Sinusunod ko naman lahat ng gusto niyo ah. Ano pa bang gusto ninyong mangyari? Makikinig panandalian si Miko sa kausap sa cellphone. MIKO
-
-Wala naman akong sinasabi, ma. Inaako ko naman na kasalanan ko lahat di ba? Frustrated na papatayin ni Miko ang cellphone.
-
-Maririnig ang boses ni Christine mula labas, sumisigaw. CHRISTINE (Voice Over)
-
-Miranda! Miranda! Utang na loob! Miranda! Gumising ka! Parehong mapapalingon sa direksiyon nang boses sina Miko at si Froilan. Patakbong lalabas si Miko. Nakasunod sa kanya si Froilan. | CLOSE LIGHTS |
-
-PANGALAWANG YUGTO UNANG TAGPO | OPEN LIGHTS |
-
-Papasok si Kristoff na may dalang tasa ng kape. Bihis na bihis siya at may hawak na isang folder sa kabilang kamay. Uupo siya sa tabi nang lamesa at saka magsasalita na parang ini-interview.
-
-Papasok sina Miko at Miranda sa kalagitnaan ng pagsasalita ni Kristoff.
-
-KRISTOFF
-
-Some may say that my in-experience would be a disadvantage but I beg to disagree. The company can actually use that as an advantage. Having a fresh eye on the team can give a vantage point that the other more experienced employees don’t have. MIRANDA
-
-Saan ang lamay? MIKO
-
-Hoy! Ayusin mo nga yang pananalita mo! Kapag galing sayo, hindi siya mukhang joke! May benda ka pa sa pulso hanggang ngayon, ipapaalala ko lang. KRISTOFF
-
-Kaya nga.Saka huwag ka ngang malas.May interview ako ngayon. MIRANDA
-
-Malas ka diyan! Gilitan kita sa leeg eh.
-
-MIKO
-
-Uulitin ko lang ha, kapag galing sayo, hindi siya mukhang joke kaya umayos ka nang pananalita. Baka kahit wala akong matres, mapaanak din ako nang wala sa oras ng dahil sayo! MIRANDA
-
-At least, bayag, meron ka na, di ba? KRISTOFF
-
-Ikaw lang naman ang nagka-near death experience na bastos pa rin ang bibig. MIKO
-
-Sinabi mo pa. KRISTOFF
-
-Teka, kumusta si Christine?Yung baby? MIKO
-
-Okay na. Mga dalawang araw pa siguro siya sa ospital. Kahit kulang sa buwan eh wala naman daw naging problema ang anak namin. Tinanggal na siya sa incubator noong isang araw pa. KRISTOFF
-
-Sinong kasama niya ngayon dun?
-
-MIKO
-
-Dumating ang mama ni Tin kahapon. Siya nagbabantay doon ngayon. MIRANDA
-
-As I’ve said earlier, balls. Tignan mo, kung hindi dahil sa akin, hindi ka pa magtataoangtapangan na tumawag sa mama niya. I’m so proud of you. KRISTOFF
-
-Kami, hindi proud sayo. Luka-luka ka rin eh. Para isang subject lang, magpapakamatay ka na. MIRANDA
-
-Eh sorry naman. Sa na-pressure ako nang bonggang-bongga eh. Ikaw ba naman ang sabihan ng nanay mo na kung hindi mo kayang ipasa, wala kang karapatang huminga. Anyways, I’ve learned my lesson. Kaya all’s well that ends well na ang drama ko from now on. KRISTOFF
-
-Eh may pinagmanahan naman pala iyang sama ng ugali mo eh. MIRANDA
-
-Korak ka diyan. I am my mothers daughter talaga. MIKO
-
-Proud ka pa? Babalik na ako sa ospital. Inihatid ko lang talaga dito Miranda. KRISTOFF
-
-Sumabay ka na sa akin. Idadaan na lang kita. MIRANDA
-
-Sosyal! Haciendero! May kotse, karawahe at kabayo. KRISTOFF
-
-Sigurado ka bang pwede nating iwang mag-isa yan? MIKO
-
-Normal na yan sa lagay na yan. Saka papunta na din dito si Mai. Wala naman sigurong gagawing katangahan iyan sa loob ng limang minuto. MIRANDA
-
-Talagang pinag-uusapan niyo ako na dinig na dnig ko pa? Magsilayas na nga kayo. I’m fine. Better than fine! Iiling-iling naalis ang dalawa. Maiiwan si Nicole na nakasunod lamang ng tingin sa mga ito.
-
-Papasok si Mama Claire at agad na makikita si Miranda. Agad na yayakapin nito ang dalaga. MAMA CLAIRE
-
-Pinag-alala mo akong bata ka.
-
-MIRANDA
-
-Sorry, ma… MAMA CLAIRE
-
-Huwag na huwag mo nang uulitin yun ha? Bata ka pa. At hindi sa lahat nang pagkakataon, makukuha mo agad ang gusto mo. Pero hindi ibig sabihin noon na basta ka na lang susuko. Saka tatandaan mo, nandito lang naman kami palagi para sayo. Di ba nga sabi ko noong bagong lipat ka dito, pamilya ko na rin kayo? MIRANDA
-
-Mama Claire naman eh, paiiyakin mo ako niyan eh. MAMA CLAIRE
-
-Mas maganda na iyong nakikita kitang umiiyak kesa iyong hindi na kita makikita pa ulit. MIRANDA
-
-Mama Claire! Stop na! You’re gonna make me cry me a river na. MAMA CLAIRE
-
-Batang to… Muling yayakapin ni Mama Claire si Miranda.
-
-Papasok si Mai at makikita ang dalawa. MAI
-
-Pa-join! Makikisali sa yakapan si Mai. MAMA CLAIRE
-
-Isa ka pa! Kailan ka ba babalik dito? Ilang beses nang tinatanong sa akin ng kuya mo kung nasaan ka. Saan ka ba nakatira ngayon? MAI
-
-Sa bahay ng kaibigan ko, ma. MIRANDA
-
-Ay bakit? Hindi pa rin kayo bati ni Kuya Ganda? Diyos ko naman, nag-comeback to life na ako at lahat, warla pa rin kayo. MAI
-
-Siyempre naman, nangangapa pa kami.Hindi naman basta-basta iyong nangyari.Dumagdag ka pa.Teka nga, bakit ba ganyan ka magsalita?Naglaslas ka ba o nabagok? MIRANDA
-
-Ikaw ba naman ang isang lingo na puro beki ang kausap na nurse sa ospital kung hindi ka rin maconvert. Diyos ko, ke-gwagwapo, pero kapederasyon ng kuya mo. Speaking of which, iyong isang nurse, tinatanong kung pwede daw bang makuha number nang kuya mo.
-
-MAI
-
-Huh? MIRANDA
-
-Kasi, you’re kuya made visit sa ospital out of the blue moon. Ayun, kumalembang ang ospital.Ang pogi dawn ang jowa ketch. Eh ako naman si chismosa, flukes ko agad na wang talo ang brotherhood-mes kasi brotherhood din ang hanap niya. Ayun, nagkandarapa ang mga bruha. In fairness kay Kuya Ganda, mabenta! MAMA CLAIRE
-
-Wala yata akong naintindihan sa sinabi mo. MAI
-
-Ako rin. MIRANDA
-
-Ay, I need an interpreter! Parang Miss Universe lang. MAI
-
-Ma, ibalik ko kaya muna to sa ospital? Natatawang yayakapin lang uli ni Mama Claire ang dalawa. MAMA CLAIRE
-
-Mauna na muna ako sa inyo. Mai, ikaw na lang muna ang bahala diyan kay Miranda, ha. May kailangan lang akong asikasuhin. MIRANDA
-
-Mudrabels, wit ka dapat mag-worry. Kering-keri na ng beauty ko ito. Gorah na sa destination mo. I’m okay, I’m alright, I’m fine, I’m marvelous, I’m extravagant. Gets? MAI
-
-Umayos ka nga! Ibalik kita sa psych ward eh. Naiiling na iiwan ni Mama Claire ang dalawa. MAI
-
-Nag-usap na ba kayo nang mama mo? MIRANDA
-
-Paano ko siyang kakausapin eh sa tuwing magkikita kami, iiyak na siya agad tapos sorry ng sorry. Diyos ko, kung iko-convert lang siguro sa grades iyong sorry niya, lampas 100 points na. Mas mataas pa sa uno. MAI
-
-Nagreklamo ka pa talaga? MIRANDA
-
-Hindi naman. Medyo nakakapanibago lang. Buong buhay ko, pakiramdam ko, isa akong malaking disappointment dahil hindi ako kasing talino ng mga kapatid ko. Tapos biglang out of the blue, ako na ang special. Parang mas hindi ko carry ang ganito. MAI
-
-May sira din talaga ang tuktok mo ano? MIRANDA
-
-Oo naman.Kaya nga tayo friends eh. MAI
-
-Baka gusto mong itanggi? MIRANDA
-
-Sabi nga ni Honesto, be honest! MAI
-
-Luka-luka ka talaga. Ano ba kasing gusto mo, na tratuhin ka uli niya katulad nung dati. MIRANDA
-
-Hindi naman sa ganun. Hindi lang ako sanay sa ganito. Isa pa, ayaw ko namang kalimutan kung paano kami noon. Siguro nga baliw ako pero ayokong matabunan nang mga nangyayari ngayon iyong sitwasyon ko noon. Pakiramdam ko kasi, kapag nasanay akong ganito ang lahat, makakalimutan ko na iyong dati. At iyon ang ayaw kong mangyari. MAI
-
-Bakit naman? Hindi ba mas maganda kung makakalimutan mo na lang lahat? MIRANDA
-
-Hindi ako magiging ganito kasaya kung hindi ko naranasang masaktan ng sobra. MAI
-
-Lalim nang hugot mo ah. MIRANDA
-
-Eh ganun talaga. Papasok si Froilan at agad na mapapako ang tingin niya kay Mai. Walang sabi-sabing lalapitan at yayakapin niya ito nang mahigpit. Kahit nabigla ay sasagot na din ng yakap si Mai. MIRANDA Awww… So sweet.. Join din ako! Natatawang makikiyakap din si Miranda. MIRANDA Ano to, give-your-damaged-friend-a-hug day? MAI
-
-Huwag ka ngang panira ng moment! | CLOSE LIGHTS|
-
-pangalawang yugto | OPEN LIGHTS |
-
-Papasok si Raul na hawak na walis. Didiretso siyasa may radio at bubuksan iyon.
-
-Magsisimulang magwalis si Raul.
-
-DJ JAM (VOICE OVER)
-
-Its five minutes before the hour of 8. At siyempre, kasama niya pa rin ako, DJ JAM, bringing your daily dose of upbeat jams, kasabay nang inyong mga jam sa agahan. O di ba, best in self marketing lang ako? At dahil mag-aalas-otso na, kailangan ko nang magpaalam. Sabi nga nila, lahat nang bagay nagtatapos, but in every end of the rainbow, there’s a unicorn. Ano daw? Huhugot na nga lang, mali-mali pa. Anyway, I hope you enjoyed the morning with me, please tune in again tomorrow, because tomorrow is a new day, oh di ba, kung ano-ano na lang ang sinasabi ko huwag lang magka-dead air pero— Papatayin ni Raul ang radio at saka ipagpapatuloy ang paglilinis.
-
-Nakapambahay na papasok si Froilan, nag-aalala. Hawak niya ang isang papel sa kamay. Lalapitan niya si Raul at saka iaabot ang papel dito. RAUL Saan mo nakuha to? FROILAN
-
-Nasama sa mga gamit ko.Alam mo ba to? Hindi iimik si Raul. Basta na lamang niya tutupiin ang papel at ibubulsa. FROILAN
-
-Bakit wala man lang kayong sinasabi. RAUL
-
-Desisyon niya iyon. Ano ba naman ang karapatan kong magsalita? FROILAN
-
-Kahit na. Sana sinabi ninyo. Papasok si Miko at Kristine.May karga-kargang baby si Christine. MIKO
-
-Sinabi ang alin? Kayo ha, may itinatago kayo. Hindi iimik si Raul at akmang aalis pero pipigilan ito ni Froilan.
-
-RAUL
-
-Siya ang may gusto nito. FROILAN
-
-Kahit na. Kuya Raul naman eh. Alam niyo pala tapos hindi man lang kayo umiimik. CHRISTINE
-
-Ano bang nangyayari dito? Papasok si Miranda at Mai. Agad na mapapatili si Miranda pagkakita sa kargang baby ni Christine. Patakbong lalapitan nang dalawa sina Miko at Christine na nakatingin pa rin kay Raul at Froilan. MIRANDA
-
-Ang cute-cute naman ng batang to! Ganda-ganda lang eh. Kamukhang-kamukha ni ninang! MAI
-
-Hoy, umayos ka nga. Huwag mong takutin iyong bata.Mamaya, maniwalang magkamukha kayo. MIRANDA
-
-Tirisin kita, gusto mo.(Kay Christine)Mare, pwedeng pakarga? Hindi papansinin ni Christine ang dalawa. Nakatingin pa rin ito kina Raul at Froilan.Parehong mapapatingin ang dalawa kina Raul, makukunot ang no.
-
-MIRANDA
-
-Bakit parang ang heavy ng atmosphere? MAI
-
-Oo nga.Kuya?Anong meron? Hindi iimik si Raul at Froilan.
-
-Papasok si Kristoff. Makikita niya ang papel sa bulsa ni Raul at kukunin iyon. KRISTOFF Ano to? Ikaw, Kuya Raul ha, may lihim ka. Ano to? Love letter? Bubuklatin ni Kristoff ang papel. Mapapatingin lang sa kanya ang lahat. KRISTOFF
-
-Anong joke to? Hindi nakakatawa. Hindi pa rin sasagot sina Raul at Froilan. KRISTOFF (Kay Raul)
-
-Kuya, ano to? Kukunin ni Miko ang papel. Lalapit sa kanya sina Christine, Mai, at Miranda. Babasahin nila ang nakasulat doon. Parang nanghihinang mapapa-upo sa isa sa mga upuan si Christine. Agad siyang aalalayan ni Miko.
-
-KRISTOFF
-
-Wala man lang bang sasagot sa inyo? Walang magsasalita sa kanilang lahat.
-
-Maririnig ang boses ni Mama Claire mula sa labas.
-
-MAMA CLAIRE (Mula sa labas)
-
-Kristoff! Dumating na ba sina Miko at Christine? Papasok si Mama Claire. Agad na dadapo ang tingin niya sa kargang baby ni Christine at mapapangiti. Mapapatingin lang silang lahat kay Mama Claire.
-
-MAMA CLAIRE
-
-Kanina pa ba kayo?Anong oras kayong dumating. Kristoff! Di ba ang sabi ko, tawagin mo ako kapag dumating na sila? Walang sasagot kay Mama Claire. Lahat sila, nakatingin lang sa kanya, nagpipigil ng iyak. MAMA CLAIRE
-
-Anong meron?Bakit para kayong namatayan? Ngayon na nga lang tayo makukumpleto ulit, ganyan pa ang mga itsura ninyo. Susugod ng yakap si Kristoff kay Mama Claire. Gagaya na din sina Mai at Miranda.
-
-Humahagulgol ang tato.Naguguluhang yayakap din lang si Mama Claire na lalong ikakahagulgol ng tatlo. MAMA CLAIRE
-
-Bakit?Anong nangyari? Lalapit sina Christine at Miko. Iaabot ni Miko ang papel kay Mama Claire.
-
-Susubsob sa dibdib ni Miko si Christine, iiyak na rin. Hindi makakaimik si Mama Claire.Pero pilit siyang ngingiti.
-
-MAMA CLAIRE
-
-Itong mga batang to oh… Lalong mapapaiyak ang mga nandoon pero walang magsasalita. MAMA CLAIRE
-
-Mga anak, huwag niyo akong iyakan.Buhay pa ako.Dapat nga magsaya tayo dahil may bago nang miyenbro ang pamilya natin, di ba? Kung kailan naman sila dumating saka tayo magdradrama. Tahan na. Kakalas sa pagkakayakap sina Kristoff, Mai at Miranda. Hindi pa rin tumitigil sa pag-iyak. Si Miko at Froilan naman ang yayakap sa kanya.
-
-Lalapit si Christine at siya naman ang yayakapin ni Mama Claire. Bago nito ibabaling ang tingin sa bata.
-
-Kukuha nang upuan si Raul at pauupuin doon si Mama Claire. Hahawakan ni Mama Claire si Raul sa balikat bago mauupo.
-
-MAMA CLAIRE
-
-Pwede ko ba siyang kargahin? Ibibigay ni Christine ang baby kay Mama Claire. MAMA CLAIRE
-
-Ang ganda naman ng apo ko. Manang-mana sa lola. Ano bang pangalan niya? MIKO
-
-Claire… Claire po ang pangalan niya, ma… | CLOSE LIGHTS |
-</string>
 
     <string name="jaguar_story_title">Jaguar</string>
     <string name="jaguar_story_content">Oras ng labasan. Nagba-bundy clock ang mga papalabas na mangagagawa. Nasa tabi ng desk ng security guard ang bundy clock.
@@ -1235,7 +131,7 @@ Claire… Claire po ang pangalan niya, ma… | CLOSE LIGHTS |
     POLDO : (NAGPIPIGIL NG GALIT) Ilang beses ko bang sasabihin sa ‘yong huwag makikihalo sa usapan ng matatanda.</string>
 
     <string name="moses_moses">Moses Moses</string>
-    <string name="moses_moses_content">
+    <string name="moses_moses_content" tools:ignore="Typos">"
 Rogelio R. Sikat- Si Rogelio R. Sikat (kilala rin bilang Rogelio Sícat) (26 Hunyo 1940-1997) ay isang Pilipinong piksyunista, mandudula, tagasalinwika, at tagapagturo. Siya ay anak nina Estanislao Sikat at Crisanta Rodriguez. Ipinanganak siya noong 26 Hunyo 1940 sa Alua, San Isidro, Nueva Ecija, Pilipinas. Siya ang pang-anim sa walong magkakapatid. Nagtapos si Rogelio Sikat na may Batsilyer ng Panitikan sa Pamamahayag mula sa Pamantasan ng Santo Tomas at isang MA sa Filipino sa Unibersidad ng Pilipinas.
 
 Mga Tauhan:
@@ -1612,11 +508,11 @@ ALKALDE: Dalhin ninyo!
 REGINA: (napoposasang ilalabas): O, dalhin ninyo ako kahit saan. Sa presinto, sa korte, sa husgado, kahit saan! Dalhin ninyo ako kahit saan. Pananagutan ko ang pagkamatay ng aking anak. Ako ang pumatay sa aking anak!
 (Papalakas) Pinatay ko ang aking anak! Sasabihin ko sa lahat na pinatay ko ang sarili kong anak. Pinatay ko ang aking anak!
 (Lalabas sila. Maiiwan sina Ana, Ben, at Aida. Kapuwa nakatingin sa bukas na pinto sina Ben at Ana, sinusundan ng tingin ang mga nagsilabas. Nakalupasay sa isang tabi si Aida at umiiyak. Nasa kanyang kinabagsakan si Tony).*
-
+"
     </string>
 
     <string name="plop">PLOP</string>
-    <string name="plop_content">PLOP! CLICK! (Dobu Kacchiri)
+    <string name="plop_content" tools:ignore="Typos">PLOP! CLICK! (Dobu Kacchiri)
 
 Mga Tauhan:
 KOTO
@@ -1748,7 +644,7 @@ KOTO : Huwag, sandali lang! Matapos mo akong bugbugin, tatakbuhan mo ako. Wala b
 </string>
 
     <string name="sapula_saputi">SA PULA, SA PUTI (ni Francisco ‘Soc’ Rodrigo)</string>
-    <string name="sapula_saputi_content">
+    <string name="sapula_saputi_content" tools:ignore="Typos">
 Kulas : A…hem! E, kumusta ka ngayong umaga, Celing.
 Celing : Mabuti naman, Kulas. Salamat at naalala mo akong kumustahin.
 Kulas : Si Celing naman, bakit naman ganyan ang sagot mo sa akin?
@@ -1973,7 +869,7 @@ Celing : Mayroon pang anim na tinali sa kulungan. Aadobohin ko ang tatlo at ang 
 </string>
 
     <string name="sinag">SINAG SA KARIMLAN</string>
-    <string name="sinag_content">
+    <string name="sinag_content" tools:ignore="Typos">
 Ang dula ay isang uri ng panitikan. Nahahati ito sa ilang yugto na maraming tagpo. Pinakalayunin nitong itanghal ang mga tagpo sa isang tanghalan o entablado. Ang tagpo sa dula ay ang paglabas-masok sa tanghalan ng mga tauhan.
 (Dula) ni Dionisio S. Salazar
 
@@ -2259,12 +1155,12 @@ Katulad ng dalawa, mapapaluha rin ang lahat . Maging ang may bakal na pusong si 
 </string>
 
     <string name="kalupi">BUOD NG “ANG KALUPI”</string>
-    <string name="kalupi_content">MAY AKDA
+    <string name="kalupi_content" tools:ignore="Typos">MAY AKDA
 Benjamin P. Pascual - ang nobelistang si Benjamin P. Pascual ay ipinanganak sa lungsod ng Laoag, Ilocos Norte. Marami na siyang naisulat na maikling kuwento sa wikang Ilokano at nakasulat na rin ng dalawang nobela sa wikang ito. Naisalin niya sa wikang Ilokano ang Rubaiyat ni Omar Khayam. Ilan sa mga isinulat ni Benjamin P. Pascual ay ang Babaeng Misteryoso, Lalaki sa Dilim, Landas sa Bahaghari at isa sa mga sikat na maikling kuwento na kanyang nailimbag ay Ang Kalupi. Isa sa mga bagay na nag-udyok sa kanya upang likhain ang kuwentong ito ay gusto niyang ibahagi sa mga tao ang kawalan ng hustisya sa ating lipunan at ang sanhi ng maling akala.
 
 MAIKLING KWENTO
 Ang maikling kwento ay isang anyo ng panitikan na may layuning magsalaysay ng mga pangyayari sa buhay ng pangunahing tauhan.
-        
+
         Mataas na ang araw nang lumabas si Aling Marta sa bakuran ng kanilang maliit na barungbarong.
 
 Aliwalas ang kanyang mukha: sa kanyang lubog na mga mata na bahagyang pinapagdilim ng kanyang malalagong kilay ay nakikintal ang kagandahan ng kaaya-ayang umaga.
@@ -2658,7 +1554,7 @@ Top Picks For You
 
 
 </string>
-    
+
     <string name="bantugan">Bantugan</string>
     <string name="bantugan_content">May Akda: Moro ng Mindanao tumutukoy ang mga Moro sa isang populasyon ng mga Muslim sa Pilipinas, na binubuo ang isang malaking pangkat ng hindi Kristiyano,[4] na binubuo ng mga 5.25% ng bahagi ng populasyon.
 Pambungad:
@@ -2691,7 +1587,7 @@ Isang maninisid ang nakakuha ng kaniyang labí at sa tulong ng kaniyang tandang,
 </string>
 
     <string name="biag_ni_lam_ang">Buod ng Biag ni Lam-ang (Epikong Ilokano)</string>
-    <string name="biag_ni_lam_ang_content">Sa lambak ng Nalbuan sa baybayin ng Ilog Naguilian sa La Union ay may mag-asawang kilala sa pangalang Don Juan at Namongan.
+    <string name="biag_ni_lam_ang_content" tools:ignore="Typos"> Sa lambak ng Nalbuan sa baybayin ng Ilog Naguilian sa La Union ay may mag-asawang kilala sa pangalang Don Juan at Namongan.
 Nang malapit nang magsilang ng sanggol si Namongan, nilusob ng tribo ng Igorot ang nayon at pinatay ang maraming tauhan ni Don Juan. Sa laki ng galit, nilusob naman ni Don Juan ang mga Igorot upang ipaghiganti ang mga tauhan niya. Hindi na nakabalik si Don Juan sa kanyang nayon. Ang naging balita, siya ay pinugutan ng ulo ng mga Igorot.
 Isinilang ni Namongan ang kanyang anak. Ang sanggol ay nagsalita agad at siya na ang pumili ng pangalang Lam-ang at siya na rin ang pumili ng kanyang magiging ninong.
 Nang malaman ni Lam-ang ang masakit na nangyari sa kanyang ama, sumumpa siyang ipaghihiganti niya ito. Sa gulang na siyam na buwan pa lamang, ay malakas, matipuno at malaking lalaki na siya.
@@ -2807,7 +1703,7 @@ Humiga si Labaw sa sahig at pumatong ang dalawang babae sa kanya, naibalik ang k
 </string>
 
     <string name="kwento_ni_mabuti">BUOD NG “ANG KUWENTO NI MABUTI”</string>
-    <string name="kwento_ni_mabuti_content">MAY AKDA
+    <string name="kwento_ni_mabuti_content" tools:ignore="Typos">MAY AKDA
 Si Genoveva Edroza-Matute (Enero 3, 1915 - Marso 21, 2009) ay isang bantog kuwentistang Pilipino. Isa rin siyang guro at may-akda ng aklat sa Balarilang Tagalog, na nagturo ng mga asignaturang Filipino at mga asignaturang pang-edukasyon. Nagturo siya ng apatnapu\'t anim na taon sa elementarya, sekundarya at kolehiyo, at nagretiro bilang Dekana ng Pagtuturo sa Dalubhasaang Normal ng Pilipinas (ngayon ay Pamantasang Normal ng Pilipinas) noong 1980. Pinarangalan siya ng Sentrong Pangkultura ng Pilipinas ng Gawad CCP Para sa Sining (Panitikan) noong Pebrero 1992. Maraming ulit siyang nagkamit ng Gawad Palanca, tulad ng kilalang Kuwento ni Mabuti, na nanalo ng kauna-unahang Gawad Palanca para sa Maikling Kuwento sa Filipino.
 Kasama rin sa mga kuwentong nanalo ng Gawad Palanca ay ang Paglalayag sa Puso ng Isang Bata noong 1955, at ang Parusa noong 1961. Ilan sa mga naging aklat niya ay ang Mga Piling Maiikling Kuwento ng Ateneo University Press; ang Tinig ng Damdamin, katipunan ng kanyang mga piling sanaysay, ng De La Salle University Press; at ang Sa Anino ng EDSA, maiikling kuwentong sinulat niya bilang National
 Fellow for Fiction, 1991-1992, ng U.P. Press.
@@ -2918,42 +1814,6 @@ Kung gaano katagal ako noon sa pagkakaupo ay hindi ko na magunita ngayon. Ang ta
 
     </string>
 
-    <string name="panata_ni_pilar">BUOD NG “PANATA NI PILAR”</string>
-    <string name="panata_ni_pilar_content">MAY AKDA
-Amado V. Hernandez - (13 Setyembre 1903 – 24 Marso 1970) ay isang makata at manunulat sa wikang Tagalog. Kilala rin siya bilang "Manunulat ng mga Manggagawa", sapagkat isa siyang pinuno ng mga Pilipinong manggagawa at sa kaniyang mga pagpuna at pagsusuri sa mga kawalan ng katarungang naganap sa Pilipinas noong kaniyang kapanahunan. Nakulong siya dahil sa pakikipagugnayan niya sa mga kilusang makakomunista. Siya ang punong tauhan sa isang bukod-tanging kasong panghukuman na tumagal ng 13 taon bago nagwakas.
-
-MAIKLING KWENTO
-Ang maikling kwento ay isang anyo ng panitikan na may layuning magsalaysay ng mga pangyayari sa buhay ng pangunahing tauhan.
-        Ang isang taon ay parang walang anuman. Noong huli akong dumalaw sa tahanan ni tiya Pilar sa lalawigan ay ganito rin ang ayos ng bakuran nila. Sariwa at malago ang mga halamanan, naghuhunihan ang mga ibon sa sanga ng punong kahoy at nalalanghap ang halimuyak ng mga bulaklak. Ang kanilang malaking bahay sa loob ng bakod ng mga alambreng may tinikay halos wala paring pinagbago. Naroon din ang mga hawlang kanaryong nagsabit sa bintana. Naroon din ang mga puno nakahayhay sa may papanhik ng halaganan. Kay tulin ng mga araw isang taon na ang nakalipas at parang hindi ko napansin.
-Tuwing sasapit ang tag-init iniiwan ko ang Maynila at sa piling ng aking Ate nagpaparaan ng bakasyon polo\'y nalimot ko na ang ating aklat, ang higpit ng aking mga guro, ang pag-aaral ng leksyon hanggang hatinggabi at paggising ng maaga kinabukasan. Masaya akong pumasok sa bakuran ni Tia Pilar. Tila iilang araw lang ang nakalipas. Naroroon din ang punong santol na pinamitasan ko ng matamis na bunga, ang punong mangga at makopang hindi ko pinagsawaang akyatin. Yaon din ang hanging malinis at sariwa na nagbubuhat pa sa talukot ng malayong kabundukan. At yaon din ang langit na kulay ginto kung umaga na waring tunay na pilak kung gabi.
- Sa pagpanhik ko sa balkon ay isang matandang lalake ang sumalubong sa akin. Nakangiti at kahit hindi man nagsasalita ay nagpapahalata sa kanyang mga kilos na labis niyang ikinagagalak ang aking pagdating. Siya\\\\\'y si Entong, ang pipid na tanod sa bakurang yaon ni Tiya Pilar. Hindi niya ako nakakalimutan. Kilala niya ako simula\\\'t sapul mula pagkabata. Ganun din ang kanyang ayos, isang matandang tinatakasan ng kaisipan, ngunit masipag at masunurin, mabait at mapagkakatiwalaan. Ang pagkilala ko kay Entong ay kasintagal ng pagkakakilala ko sa aking Ate. Siya\'y doon ko nakilala. Wala siyang ginagawa roon kung di maglinis sa loob ng bakuran, magtaboy ng mga hayop na sumisira sa iba\'t ibang pananim, minsan-minsang nagsisibak ng kahoy, manaka-nakang umigib ng tubig. Kalian man ay hindi inutusan ni Tiya Pilar, bagkus marunong magkusa sa mga gawaing ito.
-"Kumusta ka Entong?" ang magiliw kong bati sa kanya, at siya\'y aking kinamayan.
-Ang matandang katiwala ng aking Ate ay tuwang-tuwa at ako\'y sinamahan hanggang itaas ng bahay. Kahit ganoon si Entong ay napamal na siya sa akin, sapagkat tuwing ako ay magliliwaliw sa lalawigan ay siya ang aking kasa-kasama ko sa paglilibot sa mga bukid, sa pamamangka sa ilog, sa pamamaril ng ibon, at pamimingwit sa palaisdaan. Siya\'y totoong mabuti sa akin at madali niyang naidudulog ang mga kailangan ko. Humalik ako sa aking Pilar. Hindi siya nagbago. Ganoon din ang ayos noong isang taon. Ganoon din siya noong ilang taong nakaraan. Matango sa bahagyang pilak sa naragdag sa kanyang buhok sa ilang guhit sa kanyang pisngi. Hindi nahahalatang nangungulila siya sa gayong pag-iisa sa loob ng mahabang panahon. Ang Tiya Pilar ay lumalakad na sa 40 taong gulang subalit sa kanyang mukha nababakas parin ang isang kagandahang hindi karaniwan at sa kanyang anyo’y namamalas ang mga huling sinag ng isang kanabataan at kasirawaang hindi malalanta ng gayon-gayon lamang.
-“Kumakailan pa kita hinihintay.” Ang magiliw na sabi sa akin ng Tiya Pilar. Ipinagtapat konggayon din ang sinabi sa aking sulat na ipinadala ko sa kanya ngunit ako ay nabalam bgkaunti dahil sa ilang mga gawaing kinakailan gang tapusin ko muna bago lumakad.” Ano ang lagay ng pag-baaral mo? Ang kanyang tanong. “Mabuti po naman, ako’y makakatapos na sasusunod.” Ang balita ko’y mag-aaral ka na raw, totoo ba? At siya’y napatawa. “Hindi po tiyang, ang pag-aasawa ay wala pa sa aking loob. Marahil hindi pa pinanganak ang kapalaran ko.” At napansin kong sa kanyang mga labi ay nagtanan ang isang buntong-hininga. Inakala kong may isang bagay na sumagi sa kanyang gunita.
-Ang Tiya Pilar ko ay wala pang asawa. Dalaga pa. Siya’y hindi na mag-aasawa kailanman. Ang pangyayaring ito’y naging bugtong sa aking gunita. Palibhasa’y labis kong ipinagtatakhan kung paano ang babaeng tulad niya na maganda, matalino at nakariwasa ay hindi nakatagpo ng karapat-dapat na lalaki. Ang Tiya Pilar kaya’y hindi natutong umibig?Wala kayang pag-irog na nagpatibok sa kanyang puso? Siya kaya’y walang tiwala sa mga lalaki? Mamamatay kaya siya sa pagkadalaga? Ang mga katanungang iyan ay minsan kongitinatanong sa sarili ko, ngunit hindi ko kayang pagpaliwanagan.
-Noong kanyang kabataan, ayon na rin sa salaysay niya sa akin, ay lubhang kilala siya sa syudad, palibhasa’y isa siya sa pinakamaganda sa kanilang kolehiyo, kaya lagi siyang natatangi sa mga pagtitipon at pagdiriwang sa kanyang dinadaluhan. Mahusay siya tumugtog ng Piano at laong mahusay siyang umawit. Ito’y lagging nagpapataka sa akin.
- Hindi ko lubos maisip kung papaanong isang kapares niyang hinangaan sa kanyangmga katangian at kalinisan ay pabayaang mausyami lamang at mawalan ng bango sa sulokng isang lalawigang malungkot at malayo sa Maynila. Hindi ko nga mawari kung bakit.
-Ang Tiya Pilar ay nagkasakit. Naratay siya sa isang matinding lagnat. Gayon na lamang ang habag ko sa kanya. Sa tahanang yaon ay wala siyang kasamakundi si Entong at isangbatang utusan. Kay hirap ng lagay niya kung nagkasakit. Hindi man siya kakapusin sapangangailangan ay wala namang makapag-alaga. Ako lamang noon ang hindi lumalayo sakanilang piling. Pinapa-inom ko siya ng gamut, pinapaypayan ko at binabasahan nganumang sukat niya ikaaliw. Dinaramdam ko ang kalagayan ng Tia Pilar. Kung siya’y nag-aasawa ay hindi siya tila ulilang lubos ngayon kai pala’y may tatlo o apat na siyang anak na magpapala sa ka nya sa lahat ng sandal, may kapilas ng pusong madaraingan ng kanyangmga dinaramdam. Ako’y naglakas loob at ibinulas ang aking iniisip, kahit talastas na yao’y  hindi magiging makabuti sa Ale kong nakaratay.
-Kung nag-aasawa kayo, Tiya Pilar” ang sabi ko ay maraming mag-aalaga sa inyo ngayon”.Ako\’y tinitingnan muna niya ng matagal,nagbuntong hininga at saka marahang nangusap.
-Ako’y umibig din, ngunit isang pag-ibig na sawing palad. Pinalagay kong siya’y nalinlang ng isang lalaking mapagsamantala, katulad ng malimit mangyari sa maraming bulaklak sa lipunan. Subalit siya ay nagpatuloy.
-Noong ako’y dalawampung taong gulang pa lamang na kalalabas sa medisina. Siya’y isang binatang marangal at may mabuting hinaharap. Nagkakilala kami sa isang pagdiriwang.
-Siya'y pumanhik at humingi ng pahintulot sa aking ama. Batang-bati rin siya noon at lumakad lamang sa dalawampu't pitong taon.
-Nong mga araw na yaon ay totoong maligaya ako. Sa aking palagay ay nasasabugan ng mga bulaklak ang lupang niyayapakan ko at pati na hangin ay nagbubulong sakin ng matamis na pag-ibig. Kulay rosas ang lahat ng tanawin, kaliga-ligaya ang bawat sandal. Kaya pala umibig na rin ako sa ganang akin ay dakila sa lahat ng lalaki si Ruparto. Maganda ang kanyang tindig, matalino at malakas.
-Inaasahan ko maging maligaya kaming gayon na rin sa panahong harapin.
-Bagamat sa akin ay marami pang nagsisiligaw na mayayaman at may mga titulo na ang iba,ay hindi ko pinakinggan ang kanilang panghilak. Si Ruperto ay magtatapos na rin ng pag-aaral at kami'y maaari nang mag-iisang palad kung siya'y makasulit. Kahit wala siyang salapi ay may kaya naman ang ama ko at ako'y bugtong na anak. Kami'y magkakatulong na sa pagtayo ng isang katangi-tanging kabuhayan, sa araw ng magbibigkis an gaming mga puso sa harap ng dambana. Ang ibang nangingibig sa akin ay para-para kong nilunok ng mapait na dita ng pagkabigo at ipinagtapat ko sa kanilang may lalong mapalad nang nagmamay-ari na aking pag-ibig.
-Si ama'y walang kapintasang Makita kay Ruperto. Nabihag siya agad ng mga kilos at ugali ng isang taong naniniwala sa kawastuan ng malayang pag-irog ng isang anak, bahagya may hindi niya hinahadlangan ang mga tibok ang aking puso. Naging mabuti sila kay Ruperto at an gating kasi pinagpapayuhan pa sa kanyang pag-aaral at pakikisama sa mga kapwa binata. Gabi-gabi halos ay nasa amin siya at nagdaraan sa aming dalawa ang mahabang oras na lipas ng lambingan at kaligayahan.
-Pinakinggan ko lahat ng kanyang mga pangako at isa-isang itinatala sa aking dibdib, upang hingin ng buong katuparan sa kanya kung kami'y magsasama sa isang mapayapang pugad ng pag-irog. Ngunit ang ligaya nga pala ay may wakas. Sinasabing walang nagtikim ng ligayang hindi umiinom ng luha pagkatapos, at ang kawikaang iyan ay pinatitigan kong may katotohanan nga. Isang masaklap na himutok ang tumakas sa pagsisikip ng dibdib ni Tiya Pilar. Ilang butil ng luha ang napansin kong nangingilid sa kanyang mga mata. Nagpahinga munang sandal at saka nagpatuloy.
-"Ang luwalhato n gaming pag-ibig ay isa lamang kisapmata, halos binawi na ang pangyayari. Yao'y hindi ko malimot, nagugunita ko pa hanggang ngayon, gayong may dalawampung taon nang singkad ang nakaraan.
-Noong isang gabi ng sabado. Pagkapanggaling sa isang sayawan sa club Filipino ay mahimbing ako agad, sa malaking pagod marahil. Hindi ko nalaman kung ilang oras ako nakatulog. Subalit bigla na lamang akong nagising sa matinding init na dumadarang sa aking katawan. Nang idilat ko ang aking mata ay nag-aalab ang apoy sa kabila-kabila. Ang akala ko nang una'y nananaginip ako. Kinusot ko pa ang aking mga mata, kinurot ko pa ang aking mga bisig. Ngunit ako'y hindi nangangarap. Ang nakita ko'y talagang apoy. Narinig ko buhat sa lupa ang maingay na sigawang, Sunog! Sunog! Nagbalikwas akong dali-dali ngunit hindi malaman kung saan patungo. Tumili ako ng malakas, ngunit walang nakarinig. Palaki ng palaki ang apoy at pumapasok na sa aking silid. Halos hindi ako makahinga at makakita dahil sa makapal na usok. Tinawag ko ang aking ama, tinawag ang aking alila, subalit ako man di'y naiwan nang nag-iisa upang makibaka sa gayong kasakunaan. Ilang sandal pa ang lumipas na para sa akin ay katimbang ng isang siglo. Pinapawian ako ng lakas, nanglalabo na ang aking paningin, naliliyo na ang kanyang pag-iisip. Datapwat nang kasalukuyang nag-aagaw ang dilim at liwanag sa aking katauhan ay biglang may yumapos sa akin na dalawangmatipunong bisig, binuhat ang aking nanglalatang katawan at narinig kong tinawag ang pangalan ko "Pilar" kapagdakay nakilala ko ang bayaning yaon, si Ruperto. Saka ako lalong nahihintakutan at nasindak hanggang sa kanyang mga bisig ay lubusang nawalan ng malay.
-"Nang ako'y nahimasmasan at balikan ang diwa ay may isang taong pinagkakaguluhan ng marami. Isang taong nakatihaya sa lupa, hindi humihinga at ni di makilala halos sa mga paltos sa mukha at katawan. Napasigaw ako ng mapasigno ang lalaking yaon. Siya'y si Ruperto, ang aking katipan, ang aking tagapagligtas. Si ama ang may kasalanan ng kanyang pagkagayon. Nag ako'y maipanaog na niya sa bahay naming nasusunog ay tinanong ni ama kung hindi nakuha ang kahon n gaming hiyas at salapi sa aparador. Sukat ang himatong naiyon upang kara-karang magbalik si Ruperto sa itaas at suungin ang tiyak na kamatayan sa hangad na agawin sa apoy ang kayamanan naming mag-ama. Dito napahamak si Ruperto at siya'y nagbagsakan ng isang malaking kahoy na nagbabaga. Patay siya ng damputin ng mga bumbero.
-"Eh nabuhay pa po ba siya?, ang tanong ko ng tumigil na sandal si Tia Pilar.
-Akala naming ay tuluyan na siyang namatay. Isang oras na sa ospital ay hindi pa rin binabalikan ng malay tao. Gayon na lamang ang aking paghihinagpis at si ama ang sinisi kong mabuti. Aanhin ko ang hiyas na naligtas kung ako'y mawawalan ng isang masawi ang lalaking pinakamamahal ko. Si Ruperto'y nabuhay rin, salamat sa kadalubhasa ng mga manggagamot na tumingin sa kanya. Ngunit lalong masakit sa paggaling, lalong kalus-lunos na pagkabuhay.
-"Bakit po?"
-"Sapagkat hindi na siya binalikan ng dating isip at nang kausapin ko'y iiling-iling lamang na ang mga luha'y dumadaloy sa kanyang mga mata. Kaawa-awang Ruperto, hindi ako makabayad sa kanya ang aking mga utang.
-Makita kong ang Tia Pilar ay umiiyak na nang totohanan. Talagang napakalungkot sa kanyang alalahanin ang mga nagdaang araw sa kanyang sawinpalad na pag-ibig, kaya ay pinakalilihim niya at ngayon na lamang nabuksan sa akin. Iginalang ko ang kanyang mga kalungkutan at noo'y lalong naging dakila sa paninginko ang mahal kong Ale, palibhasay nakilala kong gumaganap siya ng isang mabigat na panata, alang-alang sa lalaking nagligtas sa kanyang buhay. Ngunit ako'y hindi nakatiis at sa kanyang minsan pang nagtanong.
-Saan napo siya naroon ngayon Tia Pilar? Patay na po ba siya? Ang aking Ale ay hindi nakasagot, sapagkat noo'y sa papasok si entong, ang matandang may dalang tsaang mainit, siya na katiwala sa kanyang bakuran, ay tiningnan ng Tia Pilar ng isang titig na lipos ng paglingap at pagkaawa. Noon ko lamang nakilala kung sino si Rupertong kanyang tinutukoy. Si Entong pala, ang mabait na piping kinakagaanan ko ng dugo na ang akala ko'y isang matandang katiwala lamang ng aking mayamang Ale.
-
-</string>
 
     <string name="langgam_at_tipaklong">BUOD NG “SI LANGGAM AT TIPAKLONG”</string>
     <string name="langgam_at_tipaklong_content">langgam_at_tipaklong
@@ -2992,7 +1852,7 @@ Mula noon, nagbago si Tipaklong. Pagdating ng tag-init at habang maganda ang pan
 Natuto siyang gumawa at higit sa lahat natuto siyang mag-impok.
 
 </string>
-    
+
     <string name="si_pinkaw">BUOD NG “SI PINKAW”</string>
     <string name="si_pinkaw_content">MAY AKDA
 Isabelo S. SobrevegaI - siya ang manunulat ng maikling kuwentong pinamagatang "Si Pinkaw" ito ay inilathala sa Hiligaynon noong Agosto 14, 1968 at isinalin sa Pilipino para sa Philippine Collegean noong Agosto 14, 1975.
@@ -3062,7 +1922,7 @@ Iyan ang dahilan kung bakit naging mahaba ang taynga ng kuneho.
 </string>
 
     <string name="amado">AMADO V. HERNANDEZ </string>
-    <string name="amado_content">Si Amado Vera Hernández ay isang makata at manunulat na sumulat sa wikang Tagalog. Nakilala siya bilang "Writer of the Workers" dahil nagsalita siya para sa mga manggagawang Pilipino at pinuna ang mga kawalang-katarungan sa kanyang bansa. Nakulong pa nga siya dahil sa kanyang mga paniniwala. Sa kabila nito, nagpatuloy siya sa pagsusulat at ang kanyang gawa ay iginagalang ng marami. Isinulat niya ang mga pakikibaka ng mga manggagawang Pilipino at ang kanyang mga sinulat ay nagpakita ng kanyang pagmamahal sa kanyang bansang Pilipinas. Sumulat din siya ng mga nobela at nagturo sa isang unibersidad. Siya ay isang matapang at masigasig na manunulat na ipinaglaban ang kanyang pinaniniwalaan.
+    <string name="amado_content" tools:ignore="Typos">"Si Amado Vera Hernández ay isang makata at manunulat na sumulat sa wikang Tagalog. Nakilala siya bilang "Writer of the Workers" dahil nagsalita siya para sa mga manggagawang Pilipino at pinuna ang mga kawalang-katarungan sa kanyang bansa. Nakulong pa nga siya dahil sa kanyang mga paniniwala. Sa kabila nito, nagpatuloy siya sa pagsusulat at ang kanyang gawa ay iginagalang ng marami. Isinulat niya ang mga pakikibaka ng mga manggagawang Pilipino at ang kanyang mga sinulat ay nagpakita ng kanyang pagmamahal sa kanyang bansang Pilipinas. Sumulat din siya ng mga nobela at nagturo sa isang unibersidad. Siya ay isang matapang at masigasig na manunulat na ipinaglaban ang kanyang pinaniniwalaan.
 
 Halimbawa ng kanyang Tulang Akda:
 KUNG TUYO NA ANG LUHA MO, AKING BAYAN
@@ -3106,11 +1966,11 @@ namumugto
 ang dadaloy, kundi apoy, at apoy na kulay dugo,
 samantalang and dugo mo ay aserong kumukulo;
 sisigaw kang buong giting sa liyab ng libong sulo
-at ang lumang tanikala'y lalagutin mo ng punlo!
+at ang lumang tanikala'y lalagutin mo ng punlo!"
 </string>
 
     <string name="rizal">DR. JOSE P. RIZAL</string>
-    <string name="rizal_content">Si Jose Rizal ay ipinanganak sa Calamba, Laguna noong Hunyo 19, 1861. Siya ay kilala bilang isang napakahalagang tao mula sa Pilipinas at ang kanyang mga magulang ay sina Francisco at Teodora.
+    <string name="rizal_content" tools:ignore="Typos">"Si Jose Rizal ay ipinanganak sa Calamba, Laguna noong Hunyo 19, 1861. Siya ay kilala bilang isang napakahalagang tao mula sa Pilipinas at ang kanyang mga magulang ay sina Francisco at Teodora.
 Ricial, dito nag mula ang pangalang Rizal ay nangangahulugang "mula sa palayan" sa kanayunan. Si Rizal ay bininyagan noong 1861 at nag-aral sa iba\'t ibang paaralan. Nagtungo siya sa Europa upang ipagpatuloy ang kanyang pag-aaral at nagsulat ng mga aklat na tumatalakay sa sitwasyon sa Pilipinas. Nagtatag siya ng isang organisasyon para sa mapayapang pagbabago at inaresto at kalaunan ay sinentensiyahan ng kamatayan. Binaril si Rizal sa edad na 35, ngunit nananatili ang kanyang pamana.
 
 ANG AWIT NI MARIA CLARA
@@ -3146,17 +2006,17 @@ Ang ngalang Tagalog sa sandaigdigan.
 Ibubuhos namin ang dugo\'t babaha
 Matubos nga lamang ang sa amang lupa
 Habang di ninilang panahong tadhana,
-Sinta\'y tatahimik, iidlip ang nasa.
+Sinta\'y tatahimik, iidlip ang nasa."
 </string>
 
     <string name="balagtas">FRANCISCO "BALAGTAS" BALTAZAR</string>
-    <string name="balagtas_content">Si Francisco Baltasar, na kilala rin bilang Balagtas, ay isang napakatalino na tao na nagmula sa isang mahirap na pamilya. Noong siya ay 11 taong gulang pa lamang, ipinadala siya ng kanyang mga magulang sa Maynila upang patuloy siyang mag-aral. Sa Maynila, sumikat siya sa pagiging makata at nakilala niya ang isang nagngangalang Huseng Sisiw na nagustuhan ang kanyang mga kanta. Nainlove din si Francisco sa isang babaeng nagngangalang Selya, ngunit hindi sila nakapagpakasal at nakulong pa ito dahil sa mga maling akusasyon. Sa Bataan, nagkaroon ng mahahalagang trabaho si Francisco at iginagalang ng mga tao. Namatay siya noong siya ay 74 taong gulang at nalungkot ang buong bayan tungkol dito. Karamihan sa mga isinulat ni Francisco ay tungkol sa kung paano hindi patas ang pagtrato sa Pilipinas noong panahong iyon. Ang kanyang pinakatanyag na akda ay isang kuwento na tinatawag na "Florante at Laura," na nag-uusap tungkol sa isang kaharian sa Europa ngunit nagpapakita rin kung gaano kalungkot ang mga pangyayari sa Pilipinas noong naghari ang mga Espanyol. Ilang mahahalagang tao sa kasaysayan ang nagsabi na si Balagtas ay isang mahusay na makata at ang kanyang kwentong "Florante at Laura" ay napakahalaga.
+    <string name="balagtas_content" tools:ignore="Typos">"Si Francisco Baltasar, na kilala rin bilang Balagtas, ay isang napakatalino na tao na nagmula sa isang mahirap na pamilya. Noong siya ay 11 taong gulang pa lamang, ipinadala siya ng kanyang mga magulang sa Maynila upang patuloy siyang mag-aral. Sa Maynila, sumikat siya sa pagiging makata at nakilala niya ang isang nagngangalang Huseng Sisiw na nagustuhan ang kanyang mga kanta. Nainlove din si Francisco sa isang babaeng nagngangalang Selya, ngunit hindi sila nakapagpakasal at nakulong pa ito dahil sa mga maling akusasyon. Sa Bataan, nagkaroon ng mahahalagang trabaho si Francisco at iginagalang ng mga tao. Namatay siya noong siya ay 74 taong gulang at nalungkot ang buong bayan tungkol dito. Karamihan sa mga isinulat ni Francisco ay tungkol sa kung paano hindi patas ang pagtrato sa Pilipinas noong panahong iyon. Ang kanyang pinakatanyag na akda ay isang kuwento na tinatawag na "Florante at Laura," na nag-uusap tungkol sa isang kaharian sa Europa ngunit nagpapakita rin kung gaano kalungkot ang mga pangyayari sa Pilipinas noong naghari ang mga Espanyol. Ilang mahahalagang tao sa kasaysayan ang nagsabi na si Balagtas ay isang mahusay na makata at ang kanyang kwentong "Florante at Laura" ay napakahalaga.
 
 Halimbawa ng kanyang Tulang akda:
 PAGGAWA
 Noong una, daigdig ay walang ayos di marangya
 Palibhasa ay wala pang sa kanya ay nagpapala
-Datapuwa't ng sa kahoy ang matsing ay magsibatba
+Datapuwa\'t ng sa kahoy ang matsing ay magsibatba
 At ang paunahang paa ay gamitin sa paggawa
 Nuon na nga nagsimulang nagkatao itong lupa
 Na ngayon ay gumaganap ng tungkuling darakila.
@@ -3168,30 +2028,30 @@ Ang tinahal nitong taong dinaanan at dinanas
 Bawat yugto na magdaan bawat baytang ng paglipat
 Mga bagong kasangkapan sa pagyaring nagtutulak.
 
-Noong una, itong tao'y walang damit at tahanan
+Noong una, itong tao\'y walang damit at tahanan
 At ang kanyang kinakahig walang tiyak na kukunan
 Nagdaan din ang panahon upang mayrong ikabuhay
-Bato't pana lang ang sangkap sa paghanap at pagdulang
+Bato\'t pana lang ang sangkap sa paghanap at pagdulang
 Hanggang tayo ay sumapit sa yugto ng kaunlaran
 Pag ginusto ng paggawa'y nagagawang sapilitan.
 
-Kaya ngayon palibhasa'y maunlad na ang daigdig
-Kaya naman ang pagyari'y maunlad din at mabilis
+Kaya ngayon palibhasa\'y maunlad na ang daigdig
+Kaya naman ang pagyari\'y maunlad din at mabilis
 Nariyan ang makinaryang pangpaandar ng elektrik
 Na katulong sa paggawa ng maraming anakpawis
-Dapat nating unawaing ito'y di hulog ng langit
+Dapat nating unawaing ito\'y di hulog ng langit
 Ito'y bunga ng paggawa, paggawa ng nagsaliksik.
 
-Paggawa ang s'yang simula kaya ang tao'y lumitaw
+Paggawa ang s\'yang simula kaya ang tao\'y lumitaw
 Paggawa rin ang s'yang balong ng lahat ng kayamanan
-Nang dahilan sa paggawa'y napaunlad ang isipan
-Nitong taong dati-rati'y atrasado't mga mangmang
-Itakwil mo ang paggawa't sa gutom ay mamamatay
-Yakapin mo ang paggawa't masaganang mabubuhay.
+Nang dahilan sa paggawa\'y napaunlad ang isipan
+Nitong taong dati-rati\'y atrasado't mga mangmang
+Itakwil mo ang paggawa\'t sa gutom ay mamamatay
+Yakapin mo ang paggawa\'t masaganang mabubuhay."
 </string>
 
     <string name="santos">LOPE K. SANTOS</string>
-    <string name="santos_content">Si Lope K. Santos ay kilala bilang "ama ng bararila" at isinilang noong Setyembre 25, 1879 sa Pasig, Rizal. Mahilig siyang matuto at tuklasin ang mga bagong bagay mula sa murang edad. Siya ay naging isang guro at isang matagumpay na manunulat, na nakatuon sa kagandahan ng Pilipinas at mga isyung panlipunan sa kanyang trabaho. Naging respetadong pinuno, gobernador, at senador din siya sa bansa. Naniniwala siya sa kahalagahan ng kaalaman at hinimok ang mga Pilipino na ipagmalaki ang kanilang mga kakayahan. Nagsumikap siyang maisulong ang wika at kulturang Filipino, na nagkamit sa kanya ng titulong ama ng gramatika ng wikang pambansa.
+    <string name="santos_content" tools:ignore="Typos">"Si Lope K. Santos ay kilala bilang "ama ng bararila" at isinilang noong Setyembre 25, 1879 sa Pasig, Rizal. Mahilig siyang matuto at tuklasin ang mga bagong bagay mula sa murang edad. Siya ay naging isang guro at isang matagumpay na manunulat, na nakatuon sa kagandahan ng Pilipinas at mga isyung panlipunan sa kanyang trabaho. Naging respetadong pinuno, gobernador, at senador din siya sa bansa. Naniniwala siya sa kahalagahan ng kaalaman at hinimok ang mga Pilipino na ipagmalaki ang kanilang mga kakayahan. Nagsumikap siyang maisulong ang wika at kulturang Filipino, na nagkamit sa kanya ng titulong ama ng gramatika ng wikang pambansa.
 
 Halimbawa ng kanyang tulang akda:
 PASIG
@@ -3247,11 +2107,11 @@ dina nakukuha ang buhay sa dasal;
 ang awa ng Poo\'y wala sa simbahan,
 kundi nasa bukid, ilog. pamilihan,
 sa tulo ng pawis at ulong may ilaw.
-Sawa na ang Diyos sa mga batugan!
+Sawa na ang Diyos sa mga batugan!"
 </string>
 
     <string name="del_pilar">MARCELO H. DEL PILAR</string>
-    <string name="del_pilar_content">Si Marcelo Hilario del Pilar y Gatmaitan, kilala rin bilang "Dakilang Propagandista", ay isang pintor na nabuhay noong unang panahon noong pinamunuan ng Espanya ang Pilipinas. Nagtrabaho siya sa isang pahayagan na tinatawag na Plaridel, na binili niya sa isang nagngangalang Graciano Lopez Jaena. Siya ang namamahala sa pahayagan mula 1889 hanggang 1895. Sa panahong ito, sumulat siya ng ilang mahahalagang artikulo, tulad ng "La Soberania Monacal en Filipinas" at "La Frailocracia Filipina". Sumulat din siya ng isang kuwento na tinatawag na "Prayer and Temptation" na nag-uusap tungkol sa masasamang pari.
+    <string name="del_pilar_content" tools:ignore="Typos">"Si Marcelo Hilario del Pilar y Gatmaitan, kilala rin bilang "Dakilang Propagandista", ay isang pintor na nabuhay noong unang panahon noong pinamunuan ng Espanya ang Pilipinas. Nagtrabaho siya sa isang pahayagan na tinatawag na Plaridel, na binili niya sa isang nagngangalang Graciano Lopez Jaena. Siya ang namamahala sa pahayagan mula 1889 hanggang 1895. Sa panahong ito, sumulat siya ng ilang mahahalagang artikulo, tulad ng "La Soberania Monacal en Filipinas" at "La Frailocracia Filipina". Sumulat din siya ng isang kuwento na tinatawag na "Prayer and Temptation" na nag-uusap tungkol sa masasamang pari.
 
 Halimbawa ng kanyang tulang akda:
 
@@ -3277,8 +2137,8 @@ magagandang nasa\'y tinipon sa dibdib,
 pagtulong sa iyo baying iniibig.
 
 Ngayon na nga lamang, ngayon ko natatap
-ang pagkadutsa mo't naamis na palad.
-sa kaalipunan mo'y wala nang nahabag,
+ang pagkadutsa mo\'t naamis na palad.
+sa kaalipunan mo\'y wala nang nahabag,
 gayong kay-raming pinagpalang anak!
 
 Sa agos ng iyong dugong ipinawis,
@@ -3299,7 +2159,7 @@ na dito ang puno'y din a kailangan.
 Kung pahirap lamang ang ipadadala,
 ng nangagpupuno sa ami\'y sukat na
 ang hulog ng langit na bagyo't kolera
-lindol. beriberi madla pang balisa.
+lindol. beriberi madla pang balisa."
 </string>
 
     <string name="reyes">SEVERINO REYES </string>
@@ -3346,7 +2206,7 @@ Ng mainam na pagmamahal.
 
 At ang magandang pag-ibig
 Kapag namugad sa dibdib
-Nalilimutan ang sakit
+Nalilimutan ang sakitz
 Tuwa ang gumugiit.
 
 Mga irog natin naman
@@ -3364,4 +2224,6 @@ Ng binatang pagbibigyan
 Ang panyo pa\’y sasamahan
 Ng mainam na pagmamahal.
 </string>
-    </resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import com.example.pampanitikan.R
 import com.example.pampanitikan.ui.home.Datas
 
-class HomeViewModel : ViewModel() {
+class HomeViewModel2 : ViewModel() {
 
     private val _dataList = MutableLiveData<List<Datas>>()
     val dataList: LiveData<List<Datas>> = _dataList

@@ -9,14 +9,14 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.pampanitikan.R
 
-class Myadapter(private val context: Context) :
-    RecyclerView.Adapter<Myadapter.ViewHolder>() {
+class Myadapter2(private val context: Context) :
+    RecyclerView.Adapter<Myadapter2.ViewHolder>() {
 
-    private var dataList: List<Datas> = listOf()
-    private var itemClickListener: OnItemClickListener? = null
+    private var dataList2: List<Datas> = listOf()
+    private var itemClickListener2: OnItemClickListener2? = null
 
-    interface OnItemClickListener {
-        fun onItemClick(data: Datas)
+    interface OnItemClickListener2 {
+        fun onItemClick2(data: Datas)
     }
 
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView), View.OnClickListener {
@@ -31,7 +31,7 @@ class Myadapter(private val context: Context) :
         override fun onClick(v: View?) {
             val position = adapterPosition
             if (position != RecyclerView.NO_POSITION) {
-                itemClickListener?.onItemClick(dataList[position])
+                itemClickListener2?.onItemClick2(dataList2[position])
             }
         }
     }
@@ -42,23 +42,23 @@ class Myadapter(private val context: Context) :
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val data = dataList[position]
+        val data = dataList2[position]
         holder.imageView.setImageResource(data.imageResId)
         holder.textTitle.text = context.getString(data.titleResId)
    //     holder.textContent.text = context.getString(data.contentResId)
     }
 
     override fun getItemCount(): Int {
-        return dataList.size
+        return dataList2.size
     }
 
     fun setDataList(newList: List<Datas>) {
-        dataList = newList
+        dataList2 = newList
         notifyDataSetChanged()
     }
 
-    fun setOnItemClickListener(listener: OnItemClickListener) {
-        this.itemClickListener = listener
+    fun setOnItemClickListener(listener: OnItemClickListener2) {
+        this.itemClickListener2 = listener
     }
 }
 
