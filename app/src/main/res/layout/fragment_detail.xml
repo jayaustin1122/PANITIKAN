@@ -32,7 +32,11 @@
             android:id="@+id/textContent"
             android:layout_width="match_parent"
             android:scrollbars="vertical"
-            android:text="asdasd"
+            android:textAlignment="viewStart"
+            android:text="@string/alamat_ng_talong_content"
+            android:paddingBottom="10dp"
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"/>
     </ScrollView>

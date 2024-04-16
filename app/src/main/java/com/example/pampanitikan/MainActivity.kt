@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun shareImageToFacebook() {
-        val bitmap = BitmapFactory.decodeResource(resources, R.drawable.logo)
+        val bitmap = BitmapFactory.decodeResource(resources, R.drawable.share)
         val file = saveBitmap(bitmap)
 
         if (file != null && file.exists()) {
