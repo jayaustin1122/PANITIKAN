@@ -40,15 +40,21 @@ class HomeViewModel : ViewModel() {
             Datas(R.drawable.biik, R.string.ang_tatlong_biik, R.string.ang_tatlong_biik_content),
             Datas(R.drawable.kuneho, R.string.kuneho, R.string.kuneho_content),
             Datas(R.drawable.amado, R.string.amado, R.string.amado_content),
-          //  Datas(R.drawable.ic_menu_camera, R.string.rizal, R.string.rizal_content),
-       //     Datas(R.drawable.ic_menu_camera, R.string.balagtas, R.string.balagtas_content),
-         //   Datas(R.drawable.ic_menu_camera, R.string.santos, R.string.santos_content),
-          //  Datas(R.drawable.ic_menu_camera, R.string.del_pilar, R.string.del_pilar_content),
             Datas(R.drawable.reyes, R.string.reyes, R.string.reyes_content),
-//            Datas(R.drawable.ic_menu_camera, R.string., R.string.),
-//            Datas(R.drawable.ic_menu_camera, R.string., R.string.),
-//            Datas(R.drawable.ic_menu_camera, R.string., R.string.),
-//            Datas(R.drawable.ic_menu_camera, R.string., R.string.),
+            Datas(R.drawable.img_1, R.string.alamat_daliri, R.string.alamat_daliri_content),
+            Datas(R.drawable.img, R.string.alamat_ng_pechay, R.string.alamat_ng_pechay_content),
+            Datas(R.drawable.img_2, R.string.alamat_ng_bahay_kubo, R.string.alamat_ng_bahay_kubo_content),
+            Datas(R.drawable.img_3, R.string.alamat_ng_santol, R.string.alamat_ng_santol_content),
+
+            Datas(R.drawable.img_4, R.string.banaag, R.string.banaag_content),
+            Datas(R.drawable.img_5, R.string.pagong, R.string.paglalayag_content),
+            Datas(R.drawable.img_6, R.string.alamat_ng_bahay_kubo, R.string.alamat_ng_bahay_kubo_content),
+        //    Datas(R.drawable.img_7, R.string.dekada, R.string.dekada_content),
+
+            Datas(R.drawable.img_8, R.string.dilag, R.string.dilag_content),
+            Datas(R.drawable.img_9, R.string.oryol, R.string.orol_content),
+
+
 
 
             // Add more items as needed
